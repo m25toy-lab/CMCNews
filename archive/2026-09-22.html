@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/09/22 (Tue)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/09/22 (Tue) ／ 10 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all" target="_blank" rel="noopener">製薬包装におけるニトロソアミンとその前駆物質、および安定性試験槽への潜在的汚染リスク</a>
+      </h2>
+      <p class="original-title">原題: Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers</p>
+      <ul class="points-list">
+        <li>製薬包装材料に含まれるニトロソアミン類およびその前駆物質の存在実態を調査し、安定性試験チャンバー内での交差汚染リスクを評価した。</li>
+<li>包装資材からの揮発性・溶出性ニトロソアミンの移行メカニズムを特定し、保管環境下での二次汚染リスクを実証した。</li>
+<li>医薬品の品質管理において、包装材料由来の不純物管理や安定性試験の運用手順（控除・クロスコンタミネーション対策）への重要な示唆を与えた。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all" target="_blank" rel="noopener">脂質ナノ粒子のマイクロ流体生産の最適化とスケールアップのためのツールボックス</a>
+      </h2>
+      <p class="original-title">原題: A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles</p>
+      <ul class="points-list">
+        <li>核酸医薬などのDDSとして不可欠な脂質ナノ粒子（LNP）のマイクロ流体を用いた製造において、プロセス最適化とスケールアップ手法を包括的に整理・検証した。</li>
+<li>流体力学パラメータや混合効率がLNPの粒径分布、カプセル化効率、および物理化学的安定性に与える影響を系統的に解明した。</li>
+<li>臨床・商業生産を見据えたQuality by Design（QbD）アプローチに基づく製造プロセスの構築に直接活用できる実用的なガイドラインを提供した。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all" target="_blank" rel="noopener">従来のバイオ医薬品・デバイスコンビネーション製品から先進医療へ：患者中心の送達における現状と将来動向</a>
+      </h2>
+      <p class="original-title">原題: From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery</p>
+      <ul class="points-list">
+        <li>バイオ医薬品のコンビネーション製品から遺伝子・細胞治療などの先進医療に至るまで、患者中心の投与デバイス技術の進化を総括した。</li>
+<li>自己注射デバイスやウェアラブルインジェクターにおけるユーザビリティ、高粘度製剤の送達課題、およびデジタルヘルス統合の最新動向を分析した。</li>
+<li>次世代製剤の設計段階において、患者アドヒアランスやユーザビリティを考慮したデバイス開発・CMC戦略の方向性を示唆した。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926007236?dgcid=rss_sd_all" target="_blank" rel="noopener">膵臓腫瘍の選択的ターゲティングに向けた抗体を用いたリポソームの迅速なFcを介した表面修飾</a>
+      </h2>
+      <p class="original-title">原題: Rapid Fc-mediated surface modification of liposomes with antibodies for selective targeting of pancreatic tumors</p>
+      <ul class="points-list">
+        <li>リポソーム表面を抗体のFc領域を介して迅速かつ効率的に修飾し、膵臓腫瘍を選択的にターゲティングする新規プラットフォームを開発した。</li>
+<li>共有結合による煩雑な修飾プロセスを回避しつつ、標的特異性と血中滞留性を兼ね備えたナノキャリアの調製法を確立した。</li>
+<li>抗体修飾型ナノ医薬品の製剤化プロセスを簡素化し、次世代DDSの製造性および品質均一性向上への応用可能性を示した。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926007236?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all" target="_blank" rel="noopener">CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター</a>
+      </h2>
+      <p class="original-title">原題: Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells</p>
+      <ul class="points-list">
+        <li>抗体医薬品等の高発現宿主であるCHO細胞において、効率的な遺伝子組換え（標的カセット交換）を行うためのインテグラーゼ欠損レンチウイルスベクターの開発を行った。</li>
+<li>Creリコンビナーゼを直接搭載したベクターを用いることで、安定かつ高効率な遺伝子導入・改変が宿主ゲノムを過度に傷つけずに行えることを示した。</li>
+<li>バイオプロセスの上流工程における高発現・高安定な細胞株構築（Cell Line Development）の効率化に貢献する技術である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all" target="_blank" rel="noopener">バイオ・医療研究画像解析のためのマルチモーダル大規模言語モデルを用いた自動プロンプトエンジニアリング</a>
+      </h2>
+      <p class="original-title">原題: Automatic prompt engineering using multimodal large language models for the analysis of biological research images</p>
+      <ul class="points-list">
+        <li>生物学的研究における画像解析の自動化を目的として、マルチモーダル大規模言語モデル（LLM）を活用した自動プロンプトエンジニアリング手法を提案した。</li>
+<li>細胞形態やコロニー形成などの複雑な画像データに対して、手動でのプロンプト調整なしに高精度な解析を行えることを実証した。</li>
+<li>バイオプロセスにおける品質評価や細胞株スクリーニング時の画像データ解析の効率化・標準化に向けた新しいデジタルツールとして期待される。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all" target="_blank" rel="noopener">ブドウ由来エキソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による肝星状細胞でのJQ1を介した抗線維化効果の増強</a>
+      </h2>
+      <p class="original-title">原題: Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells</p>
+      <ul class="points-list">
+        <li>植物由来のエキソソーム様粒子と合成リポソームを融合させた生体模倣型ハイブリッドナノ粒子を作製し、難治性疾患治療薬の送達に応用した。</li>
+<li>天然由来粒子の優れた細胞親和性とリポソームの薬物保持能を両立させ、肝星状細胞における薬物の送達効率と抗線維化効果の著しい向上を確認した。</li>
+<li>植物由来エクソソームをCMCの観点からキャリア材料として活用するための製剤設計と安定性評価の足掛かりとなる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326008288?dgcid=rss_sd_all" target="_blank" rel="noopener">ビターメロン由来小胞を用いたインスリンの経口送達：効果的な低血糖のための新規戦略</a>
+      </h2>
+      <p class="original-title">原題: Oral delivery of insulin via bitter melon-derived extracellular vesicles: a novel strategy for effective hypoglycemia</p>
+      <ul class="points-list">
+        <li>天然のビターメロンから抽出した細胞外小胞（EVs）をキャリアとして利用し、消化管酵素から保護されたインスリンの経口送達システムを構築した。</li>
+<li>動物実験において、経口投与されたインスリンが腸管を透過し、優れた血中移行性と持続的な血糖降下作用を示すことを実証した。</li>
+<li>ペプチド・タンパク質医薬品の経口製剤化における消化管安定性改善およびキャリア製剤設計の新たなアプローチを提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326008288?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326008434?dgcid=rss_sd_all" target="_blank" rel="noopener">EGFR阻害剤誘発性皮膚毒性に対するビタミンK1の空間的標的送達と皮内滞留性延長のためのリポソーム・イン・ハイドロゲルハイブリッドシステム</a>
+      </h2>
+      <p class="original-title">原題: A liposome-in-hydrogel hybrid system for spatially targeted delivery and prolonged intradermal retention of vitamin K1 against EGFR inhibitor–induced skin toxicity</p>
+      <ul class="points-list">
+        <li>リポソームをハイドロゲル中に分散させたハイブリッド製剤を設計し、分子標的薬の副作用である皮膚毒性に対するビタミンK1の局所皮膚送達を最適化した。</li>
+<li>皮内での薬物の滞留時間を大幅に延長させるとともに、患部への持続的な放出プロファイルを達成した。</li>
+<li>外用剤・皮膚局所送達製剤における薬物放出制御と患部移行性を高めるための複合型製剤設計の有効性を示した。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326008434?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003369?dgcid=rss_sd_all" target="_blank" rel="noopener">高グリセロール小胞マトリックスによるバルサルタンの効果的な経口プラットフォーム：Box–Behnken最適化とex vivo/in vivo評価</a>
+      </h2>
+      <p class="original-title">原題: Glycerol-rich vesicular matrices as an effective oral platform for valsartan: Box–Behnken optimization and <em>ex vivo</em>/<em>in vivo</em> evaluation</p>
+      <ul class="points-list">
+        <li>Box-Behnkenデザインを用いた実験計画法により、高グリセロール小胞マトリックス（niosome等の vesicular systems）の処方最適化を実施した。</li>
+<li>難水溶性薬物の溶解性と膜透過性を同時に改善し、生体内でのバイオアベイラビリティ向上を確認した。</li>
+<li>デザイン・オブ・エクスペリメント（DoE）を活用した製剤処方の最適化手法の好例であり、QbDの観点で有用な知見を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003369?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
