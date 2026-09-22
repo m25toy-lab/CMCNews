@@ -2,111 +2,27 @@
   "date": "2026-09-22",
   "articles": [
     {
-      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
-      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
-      "source": "Advanced Drug Delivery Reviews",
-      "category_tag": "製剤・DDS",
-      "points": [
-        "マイクロ流体デバイスを用いた脂質ナノ粒子（LNP）製造における最適化とスケールアップの課題を解決するための実用的なツールボックスを提示",
-        "プロセスパラメータと物理化学的特性（粒径、PDI、封入効率等）の関係性を体系的に解析・評価",
-        "核酸医薬やmRNAワクチン等のLNP製剤における連続生産および商用スケールへの移行（CMC）に直結する知見を提供"
-      ]
-    },
-    {
-      "title_ja": "製薬包装におけるニトロソアミンとその前駆体、および安定性チャンバーへの潜在的汚染リスク",
-      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
-      "source": "Journal of Pharmaceutical Sciences",
+      "title_ja": "【テスト】ポリソルベート80の分解がmAb製剤の凝集に与える影響",
+      "original_title": "Impact of Polysorbate 80 Degradation on mAb Aggregation in Biopharmaceutical Formulations",
+      "url": "https://www.example.com/paper1",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
       "category_tag": "製剤・物性解析",
       "points": [
-        "医薬品包装材料中に含まれるニトロソアミンおよびその前駆体の存在実態を調査し、安定性試験チャンバーへの二次汚染リスクを評価",
-        "包装資材からの不純物移行メカニズムと、ストレージ環境における交叉汚染の可能性を実験的に検証",
-        "ICH M7等の規制要件に対応する品質管理および容器閉鎖系（CCO）選定におけるリスクアセスメントへの重要な示唆を提供"
+        "ポリソルベート80（PS80）の酸化分解産物がmAbの凝集挙動に与える影響をSEC-MALSおよびDLSで定量的に評価した。",
+        "PS80の酸化度が5%を超えると凝集体形成速度が有意に増加（p<0.01）し、特に40℃加速試験で顕著な差が観察された。",
+        "製剤設計においてPS80含量のモニタリング頻度の見直しと、抗酸化剤（メチオニン等）の併用が品質維持に有効であることが示唆された。"
       ]
     },
     {
-      "title_ja": "膵臓腫瘍の選択的標的化に向けた、抗体を用いたリポソームの迅速なFc媒介型表面修飾",
-      "original_title": "Rapid Fc-mediated surface modification of liposomes with antibodies for selective targeting of pancreatic tumors",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007236?dgcid=rss_sd_all",
-      "source": "Journal of Controlled Release",
+      "title_ja": "【テスト】LNPを用いたmRNA送達システムの製造スケールアップ最適化",
+      "original_title": "Scale-up Optimization of mRNA-LNP Manufacturing Process for Biopharmaceutical Applications",
+      "url": "https://www.example.com/paper2",
+      "source": "Journal of Controlled Release (JCR)",
       "category_tag": "製剤・DDS",
       "points": [
-        "リポソーム表面をFc領域を介して抗体で迅速かつ効率的に修飾する新規プラットフォーム技術を開発",
-        "調製プロセスの簡素化を実現しつつ、膵臓腫瘍に対する優れた選択的ターゲティングと薬効を確認",
-        "抗体医薬の技術を応用した次世代型ドラッグデリバリーシステム（DDS）の製剤設計と調製プロセスの合理化に貢献"
-      ]
-    },
-    {
-      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
-      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
-      "source": "Journal of Bioscience and Bioengineering",
-      "category_tag": "抗体・バイオプロセス",
-      "points": [
-        "チャイニーズハムスター卵巣（CHO）細胞を用いた組換えたんぱく質生産において、効率的な標的カセット交換（RMCE）を行う手法を開発",
-        "インテグラーゼ欠損レンチウイルスベクターにCreリコンビナーゼを直接搭載することで、ゲノム編集の精度と効率を向上",
-        "高発現かつ安定なバイオ医薬品製造株（Master Cell Bank）の構築・スクリーニングプロセスの効率化に寄与"
-      ]
-    },
-    {
-      "title_ja": "従来の生物製剤・デバイス複合製品から先進的治療法へ：患者中心の送達における現状と将来の動向",
-      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
-      "source": "Advanced Drug Delivery Reviews",
-      "category_tag": "製剤・DDS",
-      "points": [
-        "従来のバイオ医薬品・医療機器コンビネーション製品から、先進的治療薬（ATMP）向け患者中心型送達システムへの進化を総括",
-        "自己投与デバイスやデジタルヘルス技術の統合による、ユーザビリティとアドヒアランス向上のトレンドを分析",
-        "ライフサイクルマネジメントおよびレギュラトリーサイエンスの観点から、次世代デバイス開発戦略に有用な知見を提供"
-      ]
-    },
-    {
-      "title_ja": "ブドウ由来エクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による、肝星細胞のJQ1を介した抗線維化効果の増強",
-      "original_title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all",
-      "source": "Journal of Pharmaceutical Sciences",
-      "category_tag": "製剤・物性解析",
-      "points": [
-        "植物由来のエクソソーム様粒子と合成リポソームを融合させた新規ハイブリッドナノ粒子製剤を設計",
-        "標的細胞への送達効率と薬物（JQ1）の薬理活性が飛躍的に向上することをin vitroで実証",
-        "天然由来ナノキャリアを活用したDDS製剤の安定性向上およびスケールアップ研究への応用可能性を示唆"
-      ]
-    },
-    {
-      "title_ja": "バイオ直交化学およびクリック化学を通じた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
-      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
-      "source": "Advanced Drug Delivery Reviews",
-      "category_tag": "製剤・DDS",
-      "points": [
-        "バイオ直交化学とクリック化学を駆使したスマート高分子DDSの分子設計と機能制御に関する最新動向をレビュー",
-        "刺激応答性（pH、レドックス、酵素等）を持つ高分子キャリアの精密合成と体内動態コントロールの手法を詳述",
-        "高分子医薬やコンジュゲート製剤の化学修飾・品質設計における新しい合成ツールとしての価値を提示"
-      ]
-    },
-    {
-      "title_ja": "EGFR阻害剤誘発性皮膚毒性に対する、空間的標的送達と皮内滞留性の持続のためのリポソーム・イン・ハイドロゲルハイブリッドシステム",
-      "original_title": "A liposome-in-hydrogel hybrid system for spatially targeted delivery and prolonged intradermal retention of vitamin K1 against EGFR inhibitor–induced skin toxicity",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008434?dgcid=rss_sd_all",
-      "source": "International Journal of Pharmaceutics",
-      "category_tag": "製剤・物性解析",
-      "points": [
-        "リポソームをハイドロゲル中に分散させたハイブリッド製剤により、ビタミンK1の皮膚内での持続的滞留を実現",
-        "分子標的薬の副作用である皮膚毒性に対し、患部局所への効率的な送達と持続放出効果を確認",
-        "外用剤・皮膚局所送達システムにおける物性制御（粘度、放出挙動、物理的安定性）の設計指針を提供"
-      ]
-    },
-    {
-      "title_ja": "関節炎および実験的自己免疫性脳脊髄炎からマウスを保護するリポソーム逆ワクチン",
-      "original_title": "A liposomal inverse vaccine protects mice from arthritis and experimental autoimmune encephalomyelitis",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007431?dgcid=rss_sd_all",
-      "source": "Journal of Controlled Release",
-      "category_tag": "製剤・DDS",
-      "points": [
-        "自己免疫疾患の治療を目的とした、免疫寛容を誘導するリポソームベースの「逆ワクチン」製剤を開発",
-        "自己抗原を搭載したリポソームの投与により、免疫学的耐性を誘導し疾患モデルの症状を効果的に抑制",
-        "新規免疫療法としてのナノ粒子製剤の設計要件および品質評価項目設定における重要な前臨床データを提供"
+        "マイクロ流体デバイスを用いたLNP製造プロセスを10 mL/minから1 L/minへスケールアップし、粒子径・PDI・封入効率の変動要因を特定した。",
+        "流量比（FRR）3:1・全流量500 mL/minの条件でPDI<0.1・封入率>90%を再現性高く達成し、スケール間でのmRNA完全性（integrity）も維持された。",
+        "ICH Q8に基づくQbD手法を用いたDOEによりCQAに影響するCPPを特定しており、商業製造への移行設計の指針を提供する。"
       ]
     }
   ]

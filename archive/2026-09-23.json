@@ -1,0 +1,125 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "title_ja": "製薬包装材料中のニトロソアミンとその前駆物質、および安定性チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "製薬包装材料に含まれるニトロソアミンおよびその前駆物質が、安定性試験チャンバー内での医薬品への二次汚染リスクを評価する手法を検証。",
+        "包装資材からの移行挙動や、環境要因がニトロソアミン生成に与える影響を定量的に特定。",
+        "医薬品の品質管理（CMC）における包装由来の不純物管理および安定性試験の信頼性向上に直接的な示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "脂質ナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬やLNP（脂質ナノ粒子）の製造において、マイクロ流体デバイスを用いたプロセスの最適化とスケールアップ手法を包括的に整理。",
+        "プロセスパラメータとナノ粒子の物性（粒径、多分散度、封入効率）との相関関係を明確化し、製造再現性を実証。",
+        "LNP製剤の初期スクリーニングから臨床・商用スケールへのシームレスな移行（プロセスバリデーション）への実用的なフレームワークを提供。"
+      ]
+    },
+    {
+      "title_ja": "バイオロジクスと医療機器のコンビネーション製品から先端医療へ：患者中心のDDSにおける現状と将来動向",
+      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "従来型のバイオ医薬品・医療機器コンビネーション製品から、最新の先端治療製品（ATMP）に至るまでの患者中心型投与技術の進化を総括。",
+        "自己投与デバイスやデジタルヘルス連携など、ユーザビリティとアドヒアランス向上のための技術的要件を整理。",
+        "次世代バイオ製剤のライフサイクルマネジメントおよびデバイス設計・CMC戦略策定に貢献。"
+      ]
+    },
+    {
+      "title_ja": "インテグラーゼ欠損レンチウイルスベクターを用いたCHO細胞における標的カセット交換のためのCreローデッドベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "CHO細胞の遺伝子組換えプロセスにおいて、インテグラーゼ欠損レンチウイルスベクターにCreリコンビナーゼを搭載し、高効率な標的カセット交換を実現。",
+        "ランダム組み込みのリスクを低減し、目的タンパク質（抗体等）の高発現株を安定かつ効率的に構築することに成功。",
+        "バイオ医薬品の上流工程（細胞株開発：Clonal derivation）における宿主細胞エンジニアリングの効率化と安定性向上に寄与。"
+      ]
+    },
+    {
+      "title_ja": "ブドウ由来エクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による肝星状細胞でのJQ1を介した抗線維化作用の増強",
+      "original_title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "植物由来のエクソソーム様粒子（ELP）と合成リポソームを融合したハイブリッドナノ粒子を作製し、難水溶性抗線維化薬（JQ1）の送達システムに応用。",
+        "細胞取り込み効率と標的指向性が大幅に向上し、肝星状細胞に対する抗線維化効果の増強を確認。",
+        "天然物由来ビークルを活用した新規DDS設計や、細胞膜融合型ナノ製剤の品質評価・安定性確保への知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "アトラクチロシドをロードしたPLGAナノ粒子による実験的急性緑内障性損傷に対する網膜神経節細胞の保護とミトコンドリア機能障害・PANoptosisの抑制",
+      "original_title": "Andrographolide-loaded PLGA nanoparticles protect retinal ganglion cells against experimental acute glaucomatous injury and attenuate mitochondrial dysfunction and retinal PANoptosis-related changes",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008549?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生体適合性高分子PLGAを用いてアトラクチロシドを封入したナノ粒子を調製し、眼科領域（緑内障モデル）での薬物送達性を評価。",
+        "持続的な薬物放出により、網膜神経節細胞のミトコンドリア機能保護および細胞死（PANoptosis）抑制効果の長期化を確認。",
+        "眼局所投与製剤におけるナノキャリアの体内動態制御および薬効持続化の設計指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "苦瓜由来細胞外小胞を用いたインスリンの経口送達：効果的な低血糖のための新戦略",
+      "original_title": "Oral delivery of insulin via bitter melon-derived extracellular vesicles: a novel strategy for effective hypoglycemia",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008288?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "植物（苦瓜）由来の天然エクソソーム様小胞をキャリアとして用い、インスリンの経口投与システムを開発。",
+        "消化管内での酵素分解からタンパク質医薬品を保護し、優れた腸管吸収性と顕著な血糖降下作用を動物実験で実証。",
+        "ペプチド・タンパク質医薬品の経口製剤化における天然ナノキャリア活用の可能性と製剤学的アプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "EGFR阻害剤による皮膚毒性に対するビタミンK1の空間的標的化送達と皮内滞留性延長のためのリポソーム・イン・ハイドロゲルハイブリッドシステム",
+      "original_title": "A liposome-in-hydrogel hybrid system for spatially targeted delivery and prolonged intradermal retention of vitamin K1 against EGFR inhibitor–induced skin toxicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008434?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "リポソームをハイドロゲル中に分散させたハイブリッド製剤を設計し、分子標的薬の副作用である皮膚毒性に対するビタミンK1の外用局所送達を検討。",
+        "皮膚表面での長期滞留性と角層バリアを越えた効率的な皮内移行性を両立。",
+        "局所外用製剤（半固形製剤）における放出制御と皮膚移行性を最適化するための有効な製剤処方設計を示唆。"
+      ]
+    },
+    {
+      "title_ja": "眼表面炎症における標的型・生物学的中2製剤送達プラットフォームとしてのナノエンジニアリング間葉系幹細胞",
+      "original_title": "Nano-engineered mesenchymal stem cells as a platform for targeted and biologically regulated drug delivery in ocular surface inflammation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007091?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "間葉系幹細胞（MSC）にナノエンジニアリングを施し、眼表面の炎症部位に対して特異的に集積・制御放出を行う細胞ベースのDDSを開発。",
+        "炎症微小環境に応答した抗炎症物質の局所送達により、優れた治療効果と生体適合性を確認。",
+        "細胞医療製品および再生医療等製品におけるデリバリー効率向上と品質評価に関する高度なアプローチを提供。"
+      ]
+    },
+    {
+      "title_ja": "膵臓腫瘍の選択的標的化に向けた、抗体を用いたリポソームの迅速なFc媒介型表面修飾",
+      "original_title": "Rapid Fc-mediated surface modification of liposomes with antibodies for selective targeting of pancreatic tumors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007236?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "リポソーム表面を抗体のFc領域を介して簡便かつ迅速に修飾する技術を開発し、難治性膵臓がんへのターゲティング性を検証。",
+        "従来の共有結合型修飾と比較して、抗体の配向性を保ったまま高効率かつ均一な修飾が可能であることを実証。",
+        "抗体修飾ナノ粒子（免疫リポソームやADC様複合体）の調製プロセス簡素化およびCMC製造プロセスの標準化に貢献。"
+      ]
+    }
+  ]
+}
