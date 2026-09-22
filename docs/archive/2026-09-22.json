@@ -1,0 +1,29 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "title_ja": "【テスト】ポリソルベート80の分解がmAb製剤の凝集に与える影響",
+      "original_title": "Impact of Polysorbate 80 Degradation on mAb Aggregation in Biopharmaceutical Formulations",
+      "url": "https://www.example.com/paper1",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ポリソルベート80（PS80）の酸化分解産物がmAbの凝集挙動に与える影響をSEC-MALSおよびDLSで定量的に評価した。",
+        "PS80の酸化度が5%を超えると凝集体形成速度が有意に増加（p<0.01）し、特に40℃加速試験で顕著な差が観察された。",
+        "製剤設計においてPS80含量のモニタリング頻度の見直しと、抗酸化剤（メチオニン等）の併用が品質維持に有効であることが示唆された。"
+      ]
+    },
+    {
+      "title_ja": "【テスト】LNPを用いたmRNA送達システムの製造スケールアップ最適化",
+      "original_title": "Scale-up Optimization of mRNA-LNP Manufacturing Process for Biopharmaceutical Applications",
+      "url": "https://www.example.com/paper2",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いたLNP製造プロセスを10 mL/minから1 L/minへスケールアップし、粒子径・PDI・封入効率の変動要因を特定した。",
+        "流量比（FRR）3:1・全流量500 mL/minの条件でPDI<0.1・封入率>90%を再現性高く達成し、スケール間でのmRNA完全性（integrity）も維持された。",
+        "ICH Q8に基づくQbD手法を用いたDOEによりCQAに影響するCPPを特定しており、商業製造への移行設計の指針を提供する。"
+      ]
+    }
+  ]
+}

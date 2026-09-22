@@ -1,0 +1,50 @@
+name: CMC News Site Builder
+
+on:
+  schedule:
+    # 毎日 日本時間 08:00 (UTC 23:00) に自動実行
+    - cron: '0 23 * * *'
+  # GitHub Web画面から手動でいつでも即時実行可能
+  workflow_dispatch:
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    # gh-pages ブランチへの書き込み権限
+    permissions:
+      contents: write
+
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python環境のセットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 依存ライブラリのインストール
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: 論文ダイジェストの生成（RSS取得 → Gemini要約 → HTML生成）
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: "gemini-2.5-flash"
+          FETCH_HOURS_AGO: "24"
+          MAX_ARTICLES: "20"
+        run: |
+          python main.py --docs-dir docs
+
+      - name: GitHub Pages へデプロイ（docs/ を gh-pages ブランチへ push）
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./docs
+          publish_branch: gh-pages
+          commit_message: "🧬 CMC News Daily update: ${{ github.run_id }}"
+          keep_files: true
