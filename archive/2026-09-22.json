@@ -2,51 +2,39 @@
   "date": "2026-09-22",
   "articles": [
     {
-      "title_ja": "製薬包装におけるニトロソアミンとその前駆物質、および安定性試験槽への潜在的汚染リスク",
-      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
-      "source": "Journal of Pharmaceutical Sciences",
-      "category_tag": "製剤・物性解析",
-      "points": [
-        "製薬包装材料に含まれるニトロソアミン類およびその前駆物質の存在実態を調査し、安定性試験チャンバー内での交差汚染リスクを評価した。",
-        "包装資材からの揮発性・溶出性ニトロソアミンの移行メカニズムを特定し、保管環境下での二次汚染リスクを実証した。",
-        "医薬品の品質管理において、包装材料由来の不純物管理や安定性試験の運用手順（控除・クロスコンタミネーション対策）への重要な示唆を与えた。"
-      ]
-    },
-    {
-      "title_ja": "脂質ナノ粒子のマイクロ流体生産の最適化とスケールアップのためのツールボックス",
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
       "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
       "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
       "source": "Advanced Drug Delivery Reviews",
       "category_tag": "製剤・DDS",
       "points": [
-        "核酸医薬などのDDSとして不可欠な脂質ナノ粒子（LNP）のマイクロ流体を用いた製造において、プロセス最適化とスケールアップ手法を包括的に整理・検証した。",
-        "流体力学パラメータや混合効率がLNPの粒径分布、カプセル化効率、および物理化学的安定性に与える影響を系統的に解明した。",
-        "臨床・商業生産を見据えたQuality by Design（QbD）アプローチに基づく製造プロセスの構築に直接活用できる実用的なガイドラインを提供した。"
+        "マイクロ流体デバイスを用いた脂質ナノ粒子（LNP）製造における最適化とスケールアップの課題を解決するための実用的なツールボックスを提示",
+        "プロセスパラメータと物理化学的特性（粒径、PDI、封入効率等）の関係性を体系的に解析・評価",
+        "核酸医薬やmRNAワクチン等のLNP製剤における連続生産および商用スケールへの移行（CMC）に直結する知見を提供"
       ]
     },
     {
-      "title_ja": "従来のバイオ医薬品・デバイスコンビネーション製品から先進医療へ：患者中心の送達における現状と将来動向",
-      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
-      "source": "Advanced Drug Delivery Reviews",
-      "category_tag": "製剤・DDS",
+      "title_ja": "製薬包装におけるニトロソアミンとその前駆体、および安定性チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
       "points": [
-        "バイオ医薬品のコンビネーション製品から遺伝子・細胞治療などの先進医療に至るまで、患者中心の投与デバイス技術の進化を総括した。",
-        "自己注射デバイスやウェアラブルインジェクターにおけるユーザビリティ、高粘度製剤の送達課題、およびデジタルヘルス統合の最新動向を分析した。",
-        "次世代製剤の設計段階において、患者アドヒアランスやユーザビリティを考慮したデバイス開発・CMC戦略の方向性を示唆した。"
+        "医薬品包装材料中に含まれるニトロソアミンおよびその前駆体の存在実態を調査し、安定性試験チャンバーへの二次汚染リスクを評価",
+        "包装資材からの不純物移行メカニズムと、ストレージ環境における交叉汚染の可能性を実験的に検証",
+        "ICH M7等の規制要件に対応する品質管理および容器閉鎖系（CCO）選定におけるリスクアセスメントへの重要な示唆を提供"
       ]
     },
     {
-      "title_ja": "膵臓腫瘍の選択的ターゲティングに向けた抗体を用いたリポソームの迅速なFcを介した表面修飾",
+      "title_ja": "膵臓腫瘍の選択的標的化に向けた、抗体を用いたリポソームの迅速なFc媒介型表面修飾",
       "original_title": "Rapid Fc-mediated surface modification of liposomes with antibodies for selective targeting of pancreatic tumors",
       "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007236?dgcid=rss_sd_all",
       "source": "Journal of Controlled Release",
       "category_tag": "製剤・DDS",
       "points": [
-        "リポソーム表面を抗体のFc領域を介して迅速かつ効率的に修飾し、膵臓腫瘍を選択的にターゲティングする新規プラットフォームを開発した。",
-        "共有結合による煩雑な修飾プロセスを回避しつつ、標的特異性と血中滞留性を兼ね備えたナノキャリアの調製法を確立した。",
-        "抗体修飾型ナノ医薬品の製剤化プロセスを簡素化し、次世代DDSの製造性および品質均一性向上への応用可能性を示した。"
+        "リポソーム表面をFc領域を介して抗体で迅速かつ効率的に修飾する新規プラットフォーム技術を開発",
+        "調製プロセスの簡素化を実現しつつ、膵臓腫瘍に対する優れた選択的ターゲティングと薬効を確認",
+        "抗体医薬の技術を応用した次世代型ドラッグデリバリーシステム（DDS）の製剤設計と調製プロセスの合理化に貢献"
       ]
     },
     {
@@ -56,69 +44,69 @@
       "source": "Journal of Bioscience and Bioengineering",
       "category_tag": "抗体・バイオプロセス",
       "points": [
-        "抗体医薬品等の高発現宿主であるCHO細胞において、効率的な遺伝子組換え（標的カセット交換）を行うためのインテグラーゼ欠損レンチウイルスベクターの開発を行った。",
-        "Creリコンビナーゼを直接搭載したベクターを用いることで、安定かつ高効率な遺伝子導入・改変が宿主ゲノムを過度に傷つけずに行えることを示した。",
-        "バイオプロセスの上流工程における高発現・高安定な細胞株構築（Cell Line Development）の効率化に貢献する技術である。"
+        "チャイニーズハムスター卵巣（CHO）細胞を用いた組換えたんぱく質生産において、効率的な標的カセット交換（RMCE）を行う手法を開発",
+        "インテグラーゼ欠損レンチウイルスベクターにCreリコンビナーゼを直接搭載することで、ゲノム編集の精度と効率を向上",
+        "高発現かつ安定なバイオ医薬品製造株（Master Cell Bank）の構築・スクリーニングプロセスの効率化に寄与"
       ]
     },
     {
-      "title_ja": "バイオ・医療研究画像解析のためのマルチモーダル大規模言語モデルを用いた自動プロンプトエンジニアリング",
-      "original_title": "Automatic prompt engineering using multimodal large language models for the analysis of biological research images",
-      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all",
-      "source": "Journal of Bioscience and Bioengineering",
-      "category_tag": "抗体・バイオプロセス",
+      "title_ja": "従来の生物製剤・デバイス複合製品から先進的治療法へ：患者中心の送達における現状と将来の動向",
+      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
       "points": [
-        "生物学的研究における画像解析の自動化を目的として、マルチモーダル大規模言語モデル（LLM）を活用した自動プロンプトエンジニアリング手法を提案した。",
-        "細胞形態やコロニー形成などの複雑な画像データに対して、手動でのプロンプト調整なしに高精度な解析を行えることを実証した。",
-        "バイオプロセスにおける品質評価や細胞株スクリーニング時の画像データ解析の効率化・標準化に向けた新しいデジタルツールとして期待される。"
+        "従来のバイオ医薬品・医療機器コンビネーション製品から、先進的治療薬（ATMP）向け患者中心型送達システムへの進化を総括",
+        "自己投与デバイスやデジタルヘルス技術の統合による、ユーザビリティとアドヒアランス向上のトレンドを分析",
+        "ライフサイクルマネジメントおよびレギュラトリーサイエンスの観点から、次世代デバイス開発戦略に有用な知見を提供"
       ]
     },
     {
-      "title_ja": "ブドウ由来エキソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による肝星状細胞でのJQ1を介した抗線維化効果の増強",
+      "title_ja": "ブドウ由来エクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による、肝星細胞のJQ1を介した抗線維化効果の増強",
       "original_title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells",
       "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all",
       "source": "Journal of Pharmaceutical Sciences",
       "category_tag": "製剤・物性解析",
       "points": [
-        "植物由来のエキソソーム様粒子と合成リポソームを融合させた生体模倣型ハイブリッドナノ粒子を作製し、難治性疾患治療薬の送達に応用した。",
-        "天然由来粒子の優れた細胞親和性とリポソームの薬物保持能を両立させ、肝星状細胞における薬物の送達効率と抗線維化効果の著しい向上を確認した。",
-        "植物由来エクソソームをCMCの観点からキャリア材料として活用するための製剤設計と安定性評価の足掛かりとなる。"
+        "植物由来のエクソソーム様粒子と合成リポソームを融合させた新規ハイブリッドナノ粒子製剤を設計",
+        "標的細胞への送達効率と薬物（JQ1）の薬理活性が飛躍的に向上することをin vitroで実証",
+        "天然由来ナノキャリアを活用したDDS製剤の安定性向上およびスケールアップ研究への応用可能性を示唆"
       ]
     },
     {
-      "title_ja": "ビターメロン由来小胞を用いたインスリンの経口送達：効果的な低血糖のための新規戦略",
-      "original_title": "Oral delivery of insulin via bitter melon-derived extracellular vesicles: a novel strategy for effective hypoglycemia",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008288?dgcid=rss_sd_all",
-      "source": "International Journal of Pharmaceutics",
-      "category_tag": "製剤・物性解析",
+      "title_ja": "バイオ直交化学およびクリック化学を通じた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
       "points": [
-        "天然のビターメロンから抽出した細胞外小胞（EVs）をキャリアとして利用し、消化管酵素から保護されたインスリンの経口送達システムを構築した。",
-        "動物実験において、経口投与されたインスリンが腸管を透過し、優れた血中移行性と持続的な血糖降下作用を示すことを実証した。",
-        "ペプチド・タンパク質医薬品の経口製剤化における消化管安定性改善およびキャリア製剤設計の新たなアプローチを提供する。"
+        "バイオ直交化学とクリック化学を駆使したスマート高分子DDSの分子設計と機能制御に関する最新動向をレビュー",
+        "刺激応答性（pH、レドックス、酵素等）を持つ高分子キャリアの精密合成と体内動態コントロールの手法を詳述",
+        "高分子医薬やコンジュゲート製剤の化学修飾・品質設計における新しい合成ツールとしての価値を提示"
       ]
     },
     {
-      "title_ja": "EGFR阻害剤誘発性皮膚毒性に対するビタミンK1の空間的標的送達と皮内滞留性延長のためのリポソーム・イン・ハイドロゲルハイブリッドシステム",
+      "title_ja": "EGFR阻害剤誘発性皮膚毒性に対する、空間的標的送達と皮内滞留性の持続のためのリポソーム・イン・ハイドロゲルハイブリッドシステム",
       "original_title": "A liposome-in-hydrogel hybrid system for spatially targeted delivery and prolonged intradermal retention of vitamin K1 against EGFR inhibitor–induced skin toxicity",
       "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008434?dgcid=rss_sd_all",
       "source": "International Journal of Pharmaceutics",
       "category_tag": "製剤・物性解析",
       "points": [
-        "リポソームをハイドロゲル中に分散させたハイブリッド製剤を設計し、分子標的薬の副作用である皮膚毒性に対するビタミンK1の局所皮膚送達を最適化した。",
-        "皮内での薬物の滞留時間を大幅に延長させるとともに、患部への持続的な放出プロファイルを達成した。",
-        "外用剤・皮膚局所送達製剤における薬物放出制御と患部移行性を高めるための複合型製剤設計の有効性を示した。"
+        "リポソームをハイドロゲル中に分散させたハイブリッド製剤により、ビタミンK1の皮膚内での持続的滞留を実現",
+        "分子標的薬の副作用である皮膚毒性に対し、患部局所への効率的な送達と持続放出効果を確認",
+        "外用剤・皮膚局所送達システムにおける物性制御（粘度、放出挙動、物理的安定性）の設計指針を提供"
       ]
     },
     {
-      "title_ja": "高グリセロール小胞マトリックスによるバルサルタンの効果的な経口プラットフォーム：Box–Behnken最適化とex vivo/in vivo評価",
-      "original_title": "Glycerol-rich vesicular matrices as an effective oral platform for valsartan: Box–Behnken optimization and <em>ex vivo</em>/<em>in vivo</em> evaluation",
-      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003369?dgcid=rss_sd_all",
-      "source": "Journal of Pharmaceutical Sciences",
-      "category_tag": "製剤・物性解析",
+      "title_ja": "関節炎および実験的自己免疫性脳脊髄炎からマウスを保護するリポソーム逆ワクチン",
+      "original_title": "A liposomal inverse vaccine protects mice from arthritis and experimental autoimmune encephalomyelitis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007431?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
       "points": [
-        "Box-Behnkenデザインを用いた実験計画法により、高グリセロール小胞マトリックス（niosome等の vesicular systems）の処方最適化を実施した。",
-        "難水溶性薬物の溶解性と膜透過性を同時に改善し、生体内でのバイオアベイラビリティ向上を確認した。",
-        "デザイン・オブ・エクスペリメント（DoE）を活用した製剤処方の最適化手法の好例であり、QbDの観点で有用な知見を提供する。"
+        "自己免疫疾患の治療を目的とした、免疫寛容を誘導するリポソームベースの「逆ワクチン」製剤を開発",
+        "自己抗原を搭載したリポソームの投与により、免疫学的耐性を誘導し疾患モデルの症状を効果的に抑制",
+        "新規免疫療法としてのナノ粒子製剤の設計要件および品質評価項目設定における重要な前臨床データを提供"
       ]
     }
   ]
