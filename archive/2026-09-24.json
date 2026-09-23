@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化およびスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いた核酸医薬やLNP（脂質ナノ粒子）製造における最適化とスケールアップの手法を体系的に整理したツールの提案",
+        "プロセスパラメータと処方因子がLNPの物理化学的特性（粒径、分散度、封入効率等）に与える影響の解明",
+        "ラボスケールから商用スケールへの移行を見据えた、CMCにおけるプロセス開発の効率化と品質担保への重要な示唆"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "CHO細胞での効率的な遺伝子組換えと安定発現株作製のために、インテグラーゼ欠損レンチウイルスベクターにCreリコンビナーゼを搭載した手法の開発",
+        "宿主ゲノムへのウイルスベクターのランダム挿入リスクを低減しつつ、目的遺伝子の精密な標的カセット交換（RMCE）を実現",
+        "バイオ医薬品の上流工程（細胞株開発）における安定性向上と、クローンニングプロセスの効率化に貢献"
+      ]
+    },
+    {
+      "title_ja": "製薬パッケージにおけるニトロソアミンおよびその前駆物質、ならびに安定性試験槽への潜在的コンタミネーション",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の包装材料に含有されるニトロソアミンやその前駆物質が、安定性試験槽や製剤本体へ与える交叉汚染リスクの評価",
+        "包装資材からの不純物移行メカニズムおよび、ストレスティスト環境下におけるニトロソアミン生成因子の特定",
+        "品質保証およびCMCレギュラトリー対応において、包材選定やストレビリティ試験時の環境管理に関する実践的リスク管理の提示"
+      ]
+    },
+    {
+      "title_ja": "遺伝子治療および高度先進医療への従来のバイオ医薬品・医療機器コンビネーション製品からの展開：患者中心型送達における現状と将来の動向",
+      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "従来のバイオ医薬品とデバイスの組み合わせ製品から、遺伝子治療や先端セラピクス（ATMP）向け高度送達システムへのパラダイムシフトの総括",
+        "患者中心の投与デザイン（自己投与デバイス、バイオロジクス向けウェアラブルインジェクター等）における技術的・規制的課題の分析",
+        "次世代バイオ製剤の製品設計、ユーザビリティ、およびCMC戦略全体に与える影響の展望"
+      ]
+    },
+    {
+      "title_ja": "バイオ直交化学およびクリックchemistryを用いた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "バイオ直交化学とクリックケミストリーを活用した、環境応答性の高分子DDSプラットフォームの分子設計手法のレビュー",
+        "生体内での特異的反応性や標的指向性を高めたポリマー複合体の構築と、薬物放出制御機構の評価",
+        "核酸医薬や抗体薬物複合体（ADC）を含む高分子キャリアの精密合成および品質設計への応用展開"
+      ]
+    },
+    {
+      "title_ja": "ぶどう由来エクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による肝星細胞でのJQ1を介した抗線維化作用の増強",
+      "original_title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "植物由来のエクソソーム様粒子と合成リポソームを融合した生体模倣ハイブリッドナノ粒子の調製と、小分子阻害剤（JQ1）の送達評価",
+        "肝星細胞に対する標的送達性の向上と、線維化マーカー抑制における相乗的な薬効の検証",
+        "天然物由来キャリアを用いた新規DDS製剤の物性評価、安定性、および工業化に向けた製剤化アプローチの提示"
+      ]
+    },
+    {
+      "title_ja": "PCLおよびPLA微粒子のドラッグ・キャリア相互作用と放出挙動の解明：分子ドッキングを統合した戦略",
+      "original_title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification: a strategy integrating molecular docking",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008677?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "PES膜乳化法により調製されたPCL（ポリカプロラクトン）およびPLA（ポリ乳酸）微粒子からの薬物放出機構における薬物-キャリア間相互作用の解析",
+        "分子ドッキングシミュレーションを実験的放出プロファイルと統合し、ポリマーマトリックス内での薬物挙動を予測",
+        "徐放性注射剤などの微粒子製剤設計において、結合エネルギーや物性に基づく合理的処方最適化手法の提供"
+      ]
+    },
+    {
+      "title_ja": "糖尿病性創傷治癒のための二重標的型オリゴヌクレオチド送達ハイドロゲル：マクロファージ・内皮細胞間のクロストークとフェロトーシスの制御",
+      "original_title": "A dual-targeted oligonucleotide delivery hydrogel for diabetic wound healing: Regulating macrophage-endothelial crosstalk and ferroptosis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007601?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬（オリゴヌクレオチド）の局所送達を目的とした、糖尿病創傷治癒用二重標的型ハイドロゲルの開発",
+        "マクロファージと内皮細胞の相互作用を調整し、細胞死（フェロトーシス）を抑制することで組織再生を促進",
+        "核酸医薬の局所留置型製剤としての安定性保持と、高分子ハイドロゲル基剤のCMC設計への応用可能性"
+      ]
+    },
+    {
+      "title_ja": "細胞表面C-X-Cケモカイン受容体4のクラスター化状態の操作による乳がん転移抑制のためのエンジニアリング高分子システム",
+      "original_title": "Engineered polymeric systems suppress breast cancer metastasis by manipulating the clustering states of cell surface C-X-C chemokine receptor 4",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600787X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "細胞表面受容体（CXCR4）のナノスケールでのクラスター化状態を人工的に制御する高分子システムの開発",
+        "受容体シグナリングの物理的介入を通じて、乳がん細胞の転移ポテンシャルを効果的に抑制",
+        "がん治療用高分子ナノ医薬品の新しい作用機序（受容体組織化制御）と、次世代ナノDDSの設計指針の提示"
+      ]
+    }
+  ]
+}
