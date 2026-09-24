@@ -1,0 +1,113 @@
+{
+  "date": "2026-09-25",
+  "articles": [
+    {
+      "title_ja": "製薬包装材料中のニトロソアミンとその前駆物質、および安定性チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "製薬包装材料中に含まれるニトロソアミン類およびその前駆物質の特定と、安定性試験チャンバー環境への交差汚染リスクを評価した。",
+        "特定の包装材料から揮発性・抽出性のニトロソアミンプルーフや前駆体が検出され、保管環境下で他の医薬品サンプルに影響を及ぼす可能性が示された。",
+        "ICHガイドラインに対応する品質管理（CMC）において、包装材料由来のニトロソアミンリスク管理および安定性試験施設のコンタミ防止対策の重要性を示唆。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション固有のmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織や投与経路（ワクチン、遺伝子治療等）に応じた最適なmRNA送達を実現するため、脂質ナノ粒子（LNP）の組成および構造をデザインする手法を網羅的に検討した。",
+        "イオノizable脂質や補助脂質の比率調整が、LNPのpKa、細胞取り込み効率、エンドソーム脱出能、およびインビボでの発現効率に与える影響を定量的に解明した。",
+        "核酸医薬の製剤設計（Formulation Design）およびCQA（重要品質特性）設定における具体的な最適化アプローチを提供。"
+      ]
+    },
+    {
+      "title_ja": "生体高分子および膜タンパク質分解キメラの分子デザインと送達",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "細胞外膜タンパク質や分泌タンパク質の標的分解を誘導する次世代プロテイン・デグラデーション・キメラ（PROTAC/LYTAC等）の分子設計戦略と送達システムを総括した。",
+        "リソソーム経路を介した細胞外標的タンパク質の効率的なクリアランスを達成するための、キャリアシステムや結合モジュールの設計指針を提示した。",
+        "従来の抗体医薬ではアプローチ困難な難治性疾患標的に向けた、新規バイオ医薬品の製剤化およびDDS開発の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体生産の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いた脂質ベースナノ粒子（LNP/リポソーム）の製造において、プロセスパラメータの最適化と工業的スケールアップを可能にするツールボックスを提案した。",
+        "総流量、流速比、チップ構造がナノ粒子のサイズ分布（PDI）、カプセル化効率、およびバッチ間再現性に与える影響を系統的に評価した。",
+        "核酸医薬やmRNAワクチンの連続生産プロセスにおける、スケールアップのボトルネック解消とcGMP製造への応用を強力にサポートする。"
+      ]
+    },
+    {
+      "title_ja": "バイオオーソゴナルおよびクリック化学を介した応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "バイオオーソゴナル反応およびクリック化学を活用した、環境応答性の高分子DDSキャリアの分子設計と機能化に関する最新動向をレビューした。",
+        "生体内での特異的な架橋やペイロードの制御放出を可能にする化学的アプローチと、その薬物動態学的改善効果を実証した。",
+        "高分子ミセルやハイドロゲルなどの高度なバイオ医薬品・DDS製剤のデザイン空間を広げるための重要な化学的ツールを提供。"
+      ]
+    },
+    {
+      "title_ja": "従来の生物製剤・医療機器コンビネーション製品から先進的治療法へ：患者中心のドラッグデリバリーの現状と将来動向",
+      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "モノクローナル抗体などの従来型バイオロジクスとデバイスのコンビネーション製品から、細胞・遺伝子治療等の先進的治療法（ATMP）に向けた患者中心の送達技術へのパラダイムシフトを概観した。",
+        "自己投与デバイス、ウェアラブルインジェクター、およびスマートデリバリーシステムの設計における技術的・薬事的な要件を整理した。",
+        "ライフサイクルマネジメントおよびユーザビリティを考慮したCMC開発・薬事戦略策定のための包括的な視点を提供。"
+      ]
+    },
+    {
+      "title_ja": "PCLおよびPLAマイクロスフィアの薬物-キャリア相互作用と放出機構の解明：分子ドッキングを統合した戦略",
+      "original_title": "Elucidating drug-carrier interactions and release from PCL and PLA microspheres prepared by PES membrane emulsification: a strategy integrating molecular docking",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008677?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "PES膜乳化法を用いて作製したPCL/PLAマイクロスフィアからの薬物放出挙動を、分子ドッキングシミュレーションを組み合わせて解析した。",
+        "ポリマー鎖と薬物分子間の分子間相互作用（水素結合や疎水性相互作用）が、初期バースト放出および持続放出プロファイルに支配的な影響を与えることを証明した。",
+        "徐放性注射剤（Depot製剤）の開発において、計算科学的手法を用いた合理的な処方設計（Quality by Design: QbD）の有効性を示唆。"
+      ]
+    },
+    {
+      "title_ja": "生物学的研究画像解析のためのマルチモーダル大規模言語モデルを用いた自動プロンプトエンジニアリング",
+      "original_title": "Automatic prompt engineering using multimodal large language models for the analysis of biological research images",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "マルチモーダル大規模言語モデル（LLM）を活用し、バイオ研究における顕微鏡画像やゲル解析画像などの画像解析用プロンプトを自動最適化する手法を開発した。",
+        "手動でのプロンプト調整に依存せず、高精度かつ再現性の高い画像セグメンテーションおよび定量評価を達成した。",
+        "バイオプロセスにおける細胞形態解析やタンパク質凝集・粒子評価の高スループット化・自動化への応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "チャイニーズハムスター卵巣（CHO）細胞を用いた組換えタンパク質生産株の効率的な構築を目指し、Creリコンビナーゼを搭載したインテグラーゼ欠損レンチウイルスベクター（IDLV）を開発した。",
+        "宿主ゲノムへのウイルスDNAの恒久的挿入リスクを回避しつつ、標的遺伝子の正確かつ高効率なサイト特異的カセット交換（RMCE）を実現した。",
+        "抗体医薬品の安定高発現株（Master Cell Bank）の迅速かつ安全な構築プロセス（Upstream Process）の効率化に貢献。"
+      ]
+    }
+  ]
+}
