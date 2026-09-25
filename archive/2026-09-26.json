@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-26",
+  "articles": [
+    {
+      "title_ja": "脂質ナノ粒子のマイクロ流体製造における最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いた脂質ナノ粒子（LNPやリポソーム）の連続製造における混合機構、流体力学的パラメータ、装置形状の影響を体系的に整理したレビュー。",
+        "小スケールのスクリーニングからGMPスケールアップ製造への移行における重要工程パラメータ（CPP: 流量比、総流量、ミキサー構造等）と重要品質特性（CQA: 粒径、PDI、封入効率等）の相関モデルを提示。",
+        "核酸医薬品（mRNA・siRNA等）の製剤化プロセス開発および商用生産に向けたQuality by Design（QbD）に基づくスケールアップ戦略の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "用途に応じたmRNA送達のための脂質ナノ粒子の設計と最適化",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ワクチン、タンパク質補充療法、遺伝子編集など各治療用途に応じたmRNA搭載脂質ナノ粒子（LNP）の脂質組成設計と機能最適化戦略を総括。",
+        "イオン化性脂質の化学構造（pKa、分岐度、生分解性結合）およびヘルパー脂質の比率調整が、エンドソーム脱出効率や臓器標的性に与える分子メカニズムを解説。",
+        "適応症ごとの要求特性（持続発現 vs 一過性発現、全身投与 vs 局所投与）に応じたLNP処方最適化プラットフォーム構築に寄与する知見。"
+      ]
+    },
+    {
+      "title_ja": "肝外RNA送達における本質的課題としての血管透過性の検証",
+      "original_title": "Extrahepatic RNA delivery is a vascular access problem",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007959?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "RNAナノ粒子が肝臓に集積しやすい現象の根本原因を再検討し、肝外実質細胞への移行を制限する血管内皮バリアと血管アクセスの生理学的障壁を考察した視点論文。",
+        "肝臓の有窓性毛細血管と非肝臓組織の連続型毛細血管の内皮透過性の差異が、ナノ粒子の生体内分布を決定づける主因であることを理論的・実験的根拠に基づき論証。",
+        "肝外標的LNP開発において、標的リガンド付加のみならず内皮透過機構（トランスサイトーシス等）の能動的活用を考慮した製剤設計の必要性を示唆。"
+      ]
+    },
+    {
+      "title_ja": "従来のバイオ医薬品・機器のコンビネーション製品から先端治療へ：患者中心デリバリーの現状と今後の動向",
+      "original_title": "From conventional biologics–device combination products to advanced therapies: current state and future trends in patient-centric delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001924?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体医薬品のプレフィルドシリンジやオートインジェクターから細胞・遺伝子治療製品の投与デバイスまで、コンビネーション製品の技術・規制動向を包括的に概説。",
+        "高濃度抗体溶液の粘度・すべり抵抗・ずり応力による凝集リスクと、投与デバイスの適合性評価（一次容器適合性、プランジャー摺動性、目詰まり防止）の技術課題を整理。",
+        "CMC開発における製剤物性（レオロジー等）とデバイス設計の一体的な最適化、および規制申請（Design Controls、ヒューマンファクター評価）の指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装材料中のニトロソアミン類およびその前駆体と安定性試験室における潜在的汚染",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "規制・CMC",
+      "points": [
+        "一次包装・二次包装材料由来のアミン類や窒素酸化物等の前駆体が、安定性試験室内の環境下でニトロソアミン類を生成・揮発させ、他検体を汚染するリスクを検証。",
+        "包装資材からの前駆体溶出と気相移行によるクロスコンタミネーションの挙動を微量分析技術により同定・定量化。",
+        "医薬品の長期安定性試験における包装選定、保管チャンバーの空調・換気管理、およびICH M7/Q3A-Dに準拠したニトロソアミン不純物リスクアセスメントに不可欠なデータ。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体生産用CHO細胞のセルライン開発において、組込み遺伝子の不要なゲノム挿入リスクを排除しつつ標的組換えを行う非増殖性ウイルス送達システムを開発。",
+        "Creリコンビナーゼタンパク質を直接パッケージングしたインテグラーゼ欠損レンチウイルス（IDLV）を用い、標的遺伝子座への組換えカセット交換（RMCE）を高効率で達成。",
+        "バイオ医薬品製造株のクローン間変異を抑え、安定した高発現プロデューサー細胞株を迅速に樹立するためのバイオプロセス基盤技術。"
+      ]
+    },
+    {
+      "title_ja": "生体内CAR細胞作製に向け全身投与mRNAを脾臓へ再指向するプログラマブル三元系ポリプレックス",
+      "original_title": "Programmable ternary polyplexes redirect systemic mRNA delivery to the spleen for in vivo CAR engineering",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007923?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "体外での細胞操作を回避し、静脈内投与によって生体内の脾臓免疫細胞にCAR（キメラ抗原受容体）を導入するための高分子ナノ複合体（三元系ポリプレックス）の設計。",
+        "mRNA、カチオン性ポリマー、および表面修飾成分の静電的・空間的配置をプログラミングすることで、肝集積を回避して脾臓T細胞・NK細胞への選択的トランスフェクションを実現。",
+        "ex vivoでの製造負荷が高い従来のCAR-T細胞療法を、既製薬（オフザシェルフ型）のmRNA製剤として代替し得る次世代CMCコンセプトを提示。"
+      ]
+    },
+    {
+      "title_ja": "細胞外および膜貫通タンパク質分解キメラの分子設計と送達技術",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LYTAC（リソソーム標的キメラ）やATAC、PROTABなど、細胞表面受容体や分泌タンパク質を分解へ導く新規分解分子の構造設計と送達アプローチを網羅的にレビュー。",
+        "二重特異性抗体や糖鎖コンジュゲート、ナノ粒子を基盤とする各分解プラットフォームの受容体結合親和性、エンドサイトーシス誘導機構、および薬物動態挙動を対比。",
+        "抗体薬物複合体（ADC）や多特異性抗体に次ぐ新規モダリティとして、創薬およびバイオ医薬品製剤設計における重要な設計指針を提供。"
+      ]
+    }
+  ]
+}
