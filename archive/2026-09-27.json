@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-27",
+  "articles": [
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達のための脂質ナノ粒子（LNP）の最適化",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織や投与ルート（肝外送達や特定の細胞種など）に応じたmRNA送達用脂質ナノ粒子（LNP）の脂質組成設計と最適化手法を網羅的に解析・レビュー。",
+        "構成脂質（イオノフォリック脂質、ヘルパー脂質、PEG脂質など）の比率や化学構造がLNPの物性、体内動態、細胞内取り込みに与える影響を特定。",
+        "核酸医薬のDDS設計において、目的の薬効を発揮させるためのスクリーニング戦略およびCMCスケールアップを見据えた処方最適化への実践的指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "肝外RNA送達は血管アクセス性の問題である",
+      "original_title": "Extrahepatic RNA delivery is a vascular access problem",
+      "original_url": "https://www.sciencedirect.com/science/article/pii/S0168365926007959?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝臓以外の標的組織（肝外組織）へのRNA医薬・LNP送達における障壁を、生体内での血管透過性と血管壁アクセスの観点から解明することを目指した研究。",
+        "ナノ粒子のサイズ、表面電荷、コロナタンパク質の形成が血管内皮を通過した組織内移行性に及ぼす影響を実証し、肝外送達効率の限界要因を特定。",
+        "非肝臓標的を狙う核酸医薬のキャリア設計において、単なるリガンド修飾だけでなく血管アクセス性を向上させる製剤学的アプローチの重要性を提示。"
+      ]
+    },
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LNPなどの脂質ベースナノ粒子製造において、マイクロ流体デバイスを用いたプロセスの最適化から商業スケールへのスケールアップまでの一連のツールボックスを提供。",
+        "総流量（TFR）や流速比（FRR）、チップの幾何学的構造が粒径、多分散指数（PDI）、および封入効率に与える影響を系統的に評価。",
+        "製薬企業における核酸医薬の製造（Process）および品質（Quality）の観点から、シームレスなスケールアップとバッチ間差を低減するための実用的なCMCフレームワークを提示。"
+      ]
+    },
+    {
+      "title_ja": "バイオ直交化学およびクリック化学を用いた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "バイオ直交化学およびクリック反応を活用した、環境応答性の高分子DDSキャリアの分子設計手法と機能性構築に関する最新動向の総説。",
+        "生理的刺激（pH、レドックス、酵素等）に特異的に応答して薬剤を放出する高分子ネットワークやコンジュゲーションの合成・架橋メカニズムを解説。",
+        "高分子ミセルやハイドロゲルなどの次世代DDS製剤開発における、精密な構造制御と品質安定性を担保するための合成化学的アプローチを提供。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装におけるニトロソアミンとその前駆物質、および安定性試験槽への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の包装材料に含まれるニトロソアミンおよびその前駆物質の特定と、安定性試験槽内でのクロスコンcontamination（交叉汚染）のリスクを評価。",
+        "包装資材からの揮発性ニトロソアミンや前駆体の移行メカニズム、および開放系／半開放系容器での保管試験環境における挙動を実験的に検証。",
+        "治験薬および商用医薬品の不純物管理（ICH M7等）において、包装由来のニトロソアミンリスク評価と試験環境の管理に対する重要なCMC上の警戒を喚起。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "CHO細胞の宿主ゲノムへの高効率かつ安全な目的遺伝子の導入（標的カセット交換）を目的として、Creリコンビナーゼを内包したインテグラーゼ欠損レンチウイルスベクター（IDLV）を開発。",
+        "ゲノムへのランダム挿入リスクを排除しつつ、目的遺伝子の安定かつ高発現な組み込み効率を検証・確認。",
+        "抗体医薬などの組換えタンパク質生産用マスターセルバンク（MCB）構築プロセスの効率化と遺伝子安定性向上に貢献するバイオプロセス技術を提供。"
+      ]
+    },
+    {
+      "title_ja": "コンフォメーションの柔軟性がリン酸塩誘導性の溶解度向上を支配する：pH依存的溶解度、NMR滴定、DOSY、およびDFT解析によるシメチジンとファモチジンの比較研究",
+      "original_title": "Conformational flexibility governs phosphate-induced solubility enhancement: a comparative study of cimetidine and famotidine by pH-dependent dissolution, NMR titration, DOSY, and DFT analysis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002560?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "H2受容体拮抗薬（シメチジンおよびファモチジン）の溶解度に対するリン酸塩の影響を、NMR滴定、DOSY、DFT計算などを用いて分子レベルで比較解析。",
+        "分子のコンフォメーションの柔軟性が、リン酸イオンとの相互作用およびそれに伴う溶解度挙動の差異を決定づけていることを実証。",
+        "処方設計（特に注射剤や液体製剤の緩衝液選択時）において、添加剤と原薬の分子間相互作用に基づく物性変化を予測するための基礎知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "メソ多孔質シリカナノキャリアを用いたPt(II)-フェロセン複合体の送達による抗腫瘍活性の向上と毒性軽減",
+      "original_title": "Mesoporous silica nanocarrier-mediated delivery of Pt(II)-Ferrocene conjugates for enhanced antitumor activity and toxicity Mitigation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009087?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プラチナ(II)-フェロセン複合体をメソ多孔質シリカナノ粒子（MSN）に封入し、抗腫瘍効果の増強と副作用（毒性）の軽減を図ったDDS製剤の開発研究。",
+        "高い薬物搭載量と腫瘍微小環境に応じた持続放出特性を示し、インビトロおよびインビボで優れたがん細胞殺傷効果を確認。",
+        "難治性がん治療に向けた金属錯体医薬品の製剤化において、ナノキャリアによる送達効率最適化と安全性プロファイル改善の可能性を提示。"
+      ]
+    }
+  ]
+}
