@@ -1,0 +1,101 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "title_ja": "製薬包装におけるニトロソアミンとその前駆物質、および安定性試験槽への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "製薬包装材料に含まれるニトロソアミン類およびその前駆物質が、安定性試験チャンバー内で引き起こす交差汚染のリスクを調査。",
+        "包装資材からの移行メカニズムや揮発性前駆物質のチャンバー内での挙動に関する実験データを提示。",
+        "ICHガイドラインに沿ったニトロソアミンリスク評価において、包装材料選定や安定性試験の運用管理に対する重要な示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "用途特異的なmRNA送達に向けた脂質ナノ粒子（LNP）のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "mRNA医薬の治療目的に応じた適切なLNPキャリアの設計・最適化戦略を包括的に解説。",
+        "脂質組成（イオン化脂質、PEG脂質等）の変更が組織選択性やエンドソーム脱出効率に与える影響を分析。",
+        "核酸医薬のDDS設計および処方スクリーニングにおける開発指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "肝外RNA送達は血管アクセス問題である",
+      "original_title": "Extrahepatic RNA delivery is a vascular access problem",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007959?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝臓以外の標的組織へのRNA医薬・ナノ粒子送達における最大の障壁を生体内血管内皮障壁と血管アクセスとして解析。",
+        "血流中のナノ粒子挙動、生体内タンパク質コロナ形成、および血管透過性のメカニズムを考察。",
+        "肝外標的化を実現するためのDDS製剤設計と投与戦略における新たな視点を提供。"
+      ]
+    },
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いた脂質ベースナノ粒子（LNP等）の製造プロセス最適化とスケールアップ手法を体系化。",
+        "流量比、総流量、混合モジュール設計が粒径分布（PDI）やカプセル化効率に及ぼす影響を検証。",
+        "バイオ医薬品の製造（CMC）プロセスにおける再現性向上と商用スケールへの移行のための実践的フレームワークを提示。"
+      ]
+    },
+    {
+      "title_ja": "生体直交化学・クリック化学を用いた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体直交化学およびクリック化学を活用した高分子型DDSの精密分子設計と機能性付与の手法を総括。",
+        "刺激応答性（pH、酵素、酸化還元等）の制御性や、生体内での安定性と標的放出性の両立を実証。",
+        "次世代高分子製剤の開発における合成化学的アプローチと品質設計への応用を示唆。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体医薬等の宿主であるCHO細胞において、効率的な遺伝子導入・改変を行うためのレンチウイルスベクターシステムを開発。",
+        "インテグラーゼ欠損ベクターにCreリコンビナーゼを搭載し、安全かつ高効率な標的カセット交換（RMCE）を実現。",
+        "安定高発現細胞株の構築（UPSTREAMプロセス）における遺伝子工学的プラットフォームの効率化に貢献。"
+      ]
+    },
+    {
+      "title_ja": "メソ多孔質シリカナノキャリアを介したPt(II)-フェロセン複合体の送達による抗腫瘍活性の増強と毒性低減",
+      "original_title": "Mesoporous silica nanocarrier-mediated delivery of Pt(II)-Ferrocene conjugates for enhanced antitumor activity and toxicity Mitigation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009087?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "メソ多孔質シリカナノ粒子を用いた新規白金-フェロセン複合体の製剤化と薬物放出制御評価を実施。",
+        "高い薬物担持量と腫瘍微小環境に応答した持続放出により、抗腫瘍効果の向上と副作用軽減を達成。",
+        "無機ナノ材料を用いたDDS製剤の物理化学的特性評価および安全性向上のための設計指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "高分子量薬物の溶解性能における薬物ロード効果の機構的洞察（正誤表）",
+      "original_title": "Corrigendum to “Mechanistic insights into drug loading effect on dissolution performance of Loratadine–Soluplus® amorphous solid dispersions” [Journal of Pharmaceutical Sciences Volume 115, Issue 3, March 2026, 104188]",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926000602?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アモルファス固体分散体（ASD）における薬物含有量（ロード量）が溶解挙動に及ぼす影響に関する知見の修正・補足。",
+        "分子レベルでの相分離挙動やポリマー相互作用の解釈を精緻化。",
+        "難水溶性化合物の固形製剤化における処方デザインの信頼性向上に寄与。"
+      ]
+    }
+  ]
+}
