@@ -1,0 +1,89 @@
+{
+  "date": "2026-09-30",
+  "articles": [
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子（LNP）のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織や投与ルートに最適化したmRNA送達を実現するため、脂質ナノ粒子（LNP）の組成および構造を目的別にカスタマイズする設計手法を検証・整理した。",
+        "異なる脂質コンビネーションがmRNAの保護能、細胞内取り込み、およびエンドソーム脱出効率に与える影響を系統的に明らかにした。",
+        "核酸医薬のDDS設計において、用途に応じたLNPのスクリーニングと最適化の指針を提供し、CMCにおける処方開発を加速する。"
+      ]
+    },
+    {
+      "title_ja": "肝外RNA送達における血管アクセス問題",
+      "original_title": "Extrahepatic RNA delivery is a vascular access problem",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007959?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝臓以外の標的組織（肝外）へのRNA医薬送達効率を阻む最大の障壁として、血管内皮および血管透過性といった「血管アクセス」の課題に着目した。",
+        "ナノキャリアの物理化学的特性（サイズ、表面電荷、PEG化など）が血管系を通過して標的組織へ移行するメカニズムに及ぼす影響を分析した。",
+        "肝外標的型核酸医薬・LNP製剤の体内動態制御や、次世代DDSデザインにおける製剤学的課題の克服に向けた重要な視点を提示する。"
+      ]
+    },
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "脂質ベースナノ粒子（LNP等）のマイクロ流体デバイスを用いた製造プロセスにおいて、ラボスケールから商用スケールへの移行（スケールアップ）を最適化するための実践的ツールボックスを構築した。",
+        "流速比、総流量、チップ形状などのプロセスパラメータが粒径、多分散度（PDI）、および封入効率に与える影響を包括的に解析した。",
+        "核酸医薬の連続生産プロセスにおける品質の一貫性確保や、バリデーション構築に向けたCMC実務上有用な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "製薬包装におけるニトロソアミン類とその前駆物質、および安定性試験槽への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の包装材料に含有されるニトロソアミン類やその前駆物質が、長期安定性試験などの環境下で試験槽や製剤へクロスコンタミネーションを引き起こすリスクを調査した。",
+        "包装資材からの不純物移行メカニズムを分析し、ニトロソアミン汚染の潜在的経路を実証的に評価した。",
+        "原薬・製剤の品質管理（QC）および規制対応（NDMA等根絶に向けた容器・包装評価）において、厳格な管理戦略の必要性を提起する。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品の腫瘍内タンパク質発現を増強するための強力な強力嫌気性大腸菌プロモーターのスクリーニング",
+      "original_title": "Screening strong anaerobic E. coli promoters to enhance therapeutical protein expression in tumors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008114?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腫瘍内の低酸素微小環境を利用して治療用タンパク質を効率的に発現させるため、嫌気性条件下で機能する強力な大腸菌プロモーターの網羅的スクリーニングを実施した。",
+        "選択されたプロモーターを用いることで、腫瘍特異的なタンパク質発現量が大幅に向上し、標的指向性が高まることを確認した。",
+        "細菌ベースの遺伝子治療やバイオ医薬品のライブセラピューティクス開発における川上プロセス（バイオプロセス）の効率化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体医薬等の宿主として広く用いられるCHO細胞において、目的遺伝子の安定かつ効率的な導入・置換を行うため、Creリコンビナーゼを搭載したインテグラーゼ欠損レンチウイルスベクター（IDLV）を開発した。",
+        "標的カセット交換効率の向上と、ゲノムへのランダム挿入リスク低減を両立できることを実証した。",
+        "高発現かつ安定なバイオ医薬品製造株（セルライン）の開発プロセス（アップストリーム）の高度化に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "バイオ研究画像解析のためのマルチモーダル大規模言語モデルを用いた自動プロンプトエンジニアリング",
+      "original_title": "Automatic prompt engineering using multimodal large language models for the analysis of biological research images",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "バイオ研究における顕微鏡画像やアッセイ画像の解析を効率化するため、マルチモーダルLLMを活用した自動プロンプトエンジニアリング手法を提案した。",
+        "専門的な画像解析スキルを必要とせず、高精度かつ自動的なデータ抽出・評価が可能であることを示した。",
+        "バイオプロセスの品質評価や細胞形態モニタリングなどのR&Dデータ解析ワークフローの自動化・効率化を支援する。"
+      ]
+    }
+  ]
+}
