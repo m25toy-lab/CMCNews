@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "title_ja": "mRNA-LNPの凍結乾燥および高温保存における凍結保護効果の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥（リオリフィケーション）および高温保存条件下におけるmRNA搭載脂質ナノ粒子（mRNA-LNP）の物理化学的安定性に対する各種凍結保護剤の影響を検証した。",
+        "適切な凍結保護剤の選択と配合比率により、乾燥工程中および保存中のLNPの凝集やmRNAのカプセル化率低下を防ぎ、構造を維持できることを明らかにした。",
+        "熱不安定な核酸医薬製剤のコールドチェーン依存度を低減し、製品の貯蔵安定性を高めるための製剤設計上の重要な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織や投与ルート（ intramuscular, intravenous等）の要求特性に応じて、脂質ナノ粒子（LNP）の構成成分や物性を最適化するアプローチを研究した。",
+        "特定の生体内動態や細胞内取り込み効率を実現するための、脂質組成とmRNA送達効率との相関関係を体系的に解明した。",
+        "多様な疾患やモダリティに対応するmRNA医薬品のDDS開発において、効率的なキャリアスクリーニングとカスタマイズの指針となる。"
+      ]
+    },
+    {
+      "title_ja": "脂質ベースナノ粒子のマイクロ流体製造の最適化とスケールアップのためのツールボックス",
+      "original_title": "A toolbox to optimize and scale up microfluidic production of lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001808?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マイクロ流体デバイスを用いた脂質ベースナノ粒子（LNP/リポソーム）の製造プロセスについて、ラボスケールから商用スケールへの移行を円滑にするための最適化ツールボックスを提示した。",
+        "全流量（TFR）や流速比（FRR）、チップ構造などのプロセスパラメータが、粒径分布（PDI）やカプセル化効率に与える影響を整理した。",
+        "核酸医薬やDDS製剤の連続生産およびスケールアップ時の品質均一性担保（QbDアプローチ）に直結する実践的な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "バイオオソゴナル化学およびクリック化学を通じた応答性高分子薬物送達システムのエンジニアリング：分子設計から機能まで",
+      "original_title": "Engineering responsive polymeric drug delivery systems via bioorthogonal and click chemistry: From molecular design to function",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600195X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体直交化学（バイオオソゴナル化学）やクリック反応を活用した、環境応答性の高分子DDSキャリアの分子設計戦略を総括した。",
+        "特定の病変部微小環境（pH、酵素、レドックス状態等）に応答して薬物を放出する高分子構造体の構築手法と、その機能評価について詳述した。",
+        "次世代の高機能性高分子製剤の開発において、複雑なドラッグデリバリー機能を精密に制御するための設計基盤を提供する。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装におけるニトロソアミンおよびその前駆物質、ならびに安定性チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の一次・二次包装材料に含まれるニトロソアミン類およびその前駆物質の存在実態を調査し、安定性試験チャンバー内でのクロスコンタミネーションのリスクを評価した。",
+        "包装資材から溶出・揮発する物質が保管環境やサンプルに及ぼす影響を分析し、潜在的な変異原性不純物の混入経路を特定した。",
+        "ICH M7等の規制要件に対応する製剤の包装材料選定、および品質保証・安定性試験管理における厳格なリスク低減策の必要性を示唆する。"
+      ]
+    },
+    {
+      "title_ja": "乾式造粒プロセスにおける不良リボン物性が医薬品品質に与える影響を調査する階層型機械学習サロゲートモデル",
+      "original_title": "A hierarchical machine learning surrogate investigates the impact of adverse ribbon properties on drug product quality in a dry granulation process",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326008641?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ローラーコンパクターを用いた乾式造粒プロセスにおいて、生成されるリボンの物性のばらつきが最終製品の品質（錠剤硬度や崩壊性など）に及ぼす影響を予測するための階層型機械学習サロゲートモデルを開発した。",
+        "プロセスパラメータとリボン物性、および最終製品の品質特性間の非線形関係を高精度にモデル化することに成功した。",
+        "製剤製造におけるプロセス・アンダスタンドングの深化と、QbD（Quality by Design）に基づくリアルタイム品質管理への応用に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体医薬等の組換えタンパク質発現に広く用いられるCHO細胞において、効率的な標的遺伝子組換え（カセット交換）を行うためのCreリコンビナーゼ搭載インテグラーゼ欠損レンチウイルスベクター（IDLV）を開発した。",
+        "ゲノムへのランダム挿入リスクを低減しつつ、目的遺伝子の高効率かつ安定したサイト特異的導入が可能であることを実証した。",
+        "抗体医薬の安定高発現株作製プロセス（Cell Line Development）の効率化と品質の均一化に直接寄与するバイオプロセス技術である。"
+      ]
+    },
+    {
+      "title_ja": "生物学的研究用画像の解析に向けたマルチモーダル大規模言語モデルを用いた自動プロンプトエンジニアリング",
+      "original_title": "Automatic prompt engineering using multimodal large language models for the analysis of biological research images",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002215?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "バイオ医薬品研究や細胞培養・組織解析等で得られる生物学的画像を高精度に解析するため、マルチモーダルLLMを活用した自動プロンプトエンジニアリング手法を提案した。",
+        "人間による試行錯誤を排し、画像の特徴抽出やセグメンテーションのための最適なプロンプトを自動生成することで、解析の再現性とスループットを大幅に向上させた。",
+        "バイオプロセスにおける細胞形態評価や品質検査の画像データ解析の自動化・効率化を強力にサポートする。"
+      ]
+    },
+    {
+      "title_ja": "ブドウ由来のエクソソーム様粒子とリポソームからなる生体模倣ハイブリッドナノ粒子による肝星細胞でのJQ1を介した抗線維化作用の増強",
+      "original_title": "Biomimetic hybrid nanoparticles from grape-derived exosome-like particles and liposomes potentiate JQ1-mediated anti-fibrotic effects in hepatic stellate cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003345?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "植物由来のエクソソーム様小胞と人工脂質リポソームを融合させた生体模倣型ハイブリッドナノ粒子を作製し、抗線維化薬JQ1の送達キャリアとしての有効性を検証した。",
+        "標的細胞への親和性と細胞内取り込み効率が向上し、肝星細胞における抗線維化効果が顕著に増強されることを示した。",
+        "天然由来ナノ粒子の利点と人工DDSの制御性を融合させた、次世代の標的指向型ドラッグデリバリー製剤の設計アプローチを提供する。"
+      ]
+    },
+    {
+      "title_ja": "リン酸塩誘導性溶解度向上の支配要因としての高分子構造柔軟性：シメチジンとファモチジンのpH依存的溶解度、NMR滴定、DOSY、DFT解析による比較研究",
+      "original_title": "Conformational flexibility governs phosphate-induced solubility enhancement: a comparative study of cimetidine and famotidine by pH-dependent dissolution, NMR titration, DOSY, and DFT analysis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002560?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ヒスタミンH2受容体拮抗薬であるシメチジンとファモチジンをモデルに、リン酸緩衝液中での特異的な溶解度向上メカニズムを分光学的手法（NMR, DOSY）およびDFT計算で解析した。",
+        "分子の立体配座の柔軟性（コンフォーショナル・フレキシビリティ）が、リン酸イオンとの相互作用や溶解挙動に決定的な役割を果たしていることを解明した。",
+        "低分子医薬品の製剤設計、特に緩衝液選択や消化管内での溶解性予測において重要な分子レベルの物性知見を提供する。"
+      ]
+    }
+  ]
+}
