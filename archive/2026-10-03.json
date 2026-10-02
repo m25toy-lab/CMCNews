@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "title_ja": "凍結乾燥および高温保存後におけるmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥（リオリシス）および高温保存条件下におけるmRNA搭載脂質ナノ粒子（mRNA-LNP）の物理化学的安定性に与える各種凍結保護剤の効果を網羅的に検証した。",
+        "適切な凍結保護剤の選定と最適化により、乾燥プロセス中および高温負荷時におけるLNPの凝集抑制やmRNAのカプセル化率保持が可能であることを実証した。",
+        "コールドチェーン依存度を低減した次世代のmRNA医薬品製剤設計、および長期保存安定性を担保するためのCMC戦略に重要な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA-delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "異なる標的組織や投与経路（アプリケーション）に応じた最適なmRNA送達を実現するため、脂質ナノ粒子（LNP）の組成および構造をカスタム設計する手法を検討した。",
+        "脂質成分の比率やイオン化脂質の構造修飾が、体内動態、細胞内取り込み効率、およびmRNAの発現プロファイルに与える影響を系統的に評価した。",
+        "核酸医薬の多様な臨床応用展開を見据え、目的に応じたLNPプラットフォームの合理的なスクリーニングと製剤最適化の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装におけるニトロソアミンおよびその前駆物質、ならびに安定性チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の一次包装材料に含まれるニトロソアミン類およびその前駆物質の存在実態を調査し、安定性試験チャンバー内でのクロスコンタミネーションのリスクを検証した。",
+        "特定の包装資材や保管環境において、揮発性ニトロソアミン等が気相を介して他のサンプルへ移行する可能性を実験的に明らかにした。",
+        "規制当局が厳格化しているニトロソアミン類のリスク評価（Control）において、包装材料選定および安定性試験の運用管理にかかる重要なCMC上の留意点を提示する。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "チャイニーズハムスター卵巣（CHO）細胞を用いた組換えタンパク質生産において、効率的な標的カセット交換（RMCE）を行うためのインテグラーゼ欠損レンチウイルスベクター（IDLV）の構築と評価を行った。",
+        "Creリコンビナーゼをタンパク質として直接搭載したIDLVを用いることで、宿主ゲノムへの不要な挿入リスクを最小限に抑えながら、高精度かつ高効率な遺伝子組換えサイト特異的導入を達成した。",
+        "安定生産株（Master Cell Bank）の構築期間短縮や、バイオプロセスの上流工程におけるクローン安定性向上のための新しい遺伝子工学ツールとして期待される。"
+      ]
+    },
+    {
+      "title_ja": "PLGCナノ粒子のゴム状態転移を利用した細胞内パクリタクセル送達の高度化と抗腫瘍効果",
+      "original_title": "Exploiting the rubbery-state transition of PLGC nanoparticles for enhanced intracellular paclitaxel delivery and anti-tumor efficacy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009142?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "新規ポリマーであるPLGCを用いたナノ粒子のガラス転移（ゴム状態転移）を利用し、難水溶性抗がん剤パクリタクセルの細胞内送達と薬物放出制御を最適化する研究を実施した。",
+        "生理的温度付近でのマトリックスの物性変化により、腫瘍環境での効率的な薬物放出と細胞内取り込みの向上が確認され、優れた抗腫瘍効果が示された。",
+        "高分子ナノ粒子製剤の物性設計（Tg制御）によるドラッグリリース機構のコントロール手法として、DDS製剤開発に応用可能な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "実験的子宮内膜症におけるアリモクロモル含有Pluronic F127ナノミセル：薬物取り込み、in vitro放出、および初期の形態学的・組織学的反応",
+      "original_title": "Arimoclomol-loaded Pluronic F127 nanomicelles in experimental endometriosis: drug incorporation, <em>in vitro</em> release, and early morphological and histological responses",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002584?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "Pluronic F127を用いて熱感受性ナノミセルを調製し、シャペロン誘導物質であるアリモクロモルの封入効率、物性、およびin vitroでの薬物放出挙動を評価した。",
+        "動物モデルを用いた評価により、ナノミセル化による薬物動態の改善と、子宮内膜症病変に対する優れた組織学的改善効果が実証された。",
+        "高分子ミセル製剤の調製パラメータおよび局所送達を目的とした剤形設計の有用性を示す好例である。"
+      ]
+    },
+    {
+      "title_ja": "イオン液体自己組織化によるレムデシビルの高薬物負荷吸入製剤の開発",
+      "original_title": "Ionic liquid self-assembly enables high-loading inhalable delivery of remdesivir",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009348?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品原薬をイオン液体として自己組織化させる手法を活用し、抗ウイルス薬レムデシビルの高薬物負荷を可能にする吸入・肺送達製剤の設計を行った。",
+        "優れたエアロゾル特性と高い薬物含有量を両立させ、肺局所での持続的な有効濃度維持と投与量削減の可能性を示した。",
+        "難送達性化合物の物性改変および呼吸器感染症をターゲットとした吸入製剤の新たな処方デザイン戦略を提供する。"
+      ]
+    },
+    {
+      "title_ja": "実験計画法を活用したソラフェニブトシル酸塩ナノクリスタルのマイクロ流体合成による経口バイオアベイラビリティの向上",
+      "original_title": "Design-of-experiments-assisted microfluidic synthesis of sorafenib tosylate nanocrystals for improved oral bioavailability",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009282?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "実験計画法（DoE）とマイクロ流体デバイスを組み合わせ、難水溶性低分子医薬品であるソラフェニブトシル酸塩のナノクリスタル連続生産・最適化プロセスを構築した。",
+        "粒子径の均一化と高速溶解性の付与により、動物モデルにおける経口バイオアベイラビリティの大幅な向上が確認された。",
+        "QbD（Quality by Design）に基づいた連続製造プロセスおよびナノ懸濁液製剤の開発手法として、CMC領域への直接的な応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "リン酸塩誘発性溶解度向上の支配要因としての高分子構造柔軟性：pH依存的溶解度、NMR滴定、DOSY、DFT解析によるシメチジンとファモチジンの比較研究",
+      "original_title": "Conformational flexibility governs phosphate-induced solubility enhancement: a comparative study of cimetidine and famotidine by pH-dependent dissolution, NMR titration, DOSY, and DFT analysis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002560?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "H2受容体拮抗薬であるシメチジンとファモチジンを対象に、リン酸塩緩衝液中での溶解度向上メカニズムを分光学的解析および分子軌道法（DFT）により比較解明した。",
+        "分子のコンフォーショナルな柔軟性とリン酸イオンとの相互作用が、特異的な溶解度挙動に深く関与していることを定量的に示した。",
+        "処方設計における緩衝液選択が原薬の物性や溶解挙動に与える影響を深く理解するための基礎的物性解析データを提供する。"
+      ]
+    }
+  ]
+}
