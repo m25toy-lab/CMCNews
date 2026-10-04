@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "title_ja": "凍結乾燥および高温保存後におけるmRNA-LNPの安定性に対する凍結保護の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "mRNA脂質ナノ粒子（mRNA-LNP）のコールドチェーン依存を脱却するため、凍結保護剤の処方検討および凍結乾燥プロセスがLNPの構造的完全性とmRNA安定性に及ぼす影響を評価。",
+        "特定の凍結保護剤組成により、再溶解後も粒子径・多分散度（PDI）・mRNA内包率を維持し、過酷な高温保存条件下でもmRNA分解および脂質分解を大幅に抑制することを確認。",
+        "mRNAワクチン・治療薬の常温流通・長期室温保存を実現する凍結乾燥製剤化設計およびCMC工程開発における重要品質特性（CQA）管理への直接的な指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "pIgRに結合する二重特異性抗体によるカニクイザル粘膜への高濃度集積",
+      "original_title": "Bispecific antibodies that engage pIgR enrich in mucosa in cynomolgus monkeys",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19420862.2026.2743413?af=R",
+      "source": "mAbs",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "全身投与後の抗体医薬を粘膜組織へ効率的に移行させるため、高分子免疫グロブリン受容体（pIgR）を標的とする二重特異性抗体（BsAb）を設計し、非ヒト霊長類（カニクイザル）で体内動態を評価。",
+        "pIgR結合アームの導入により、対照抗体と比較してカニクイザルの気道および消化管粘膜組織への選択的かつ著明な移行・蓄積が確認された。",
+        "呼吸器感染症や炎症性腸疾患等の粘膜局所病態に対する抗体工学アプローチとして有用であり、非ヒト霊長類でのトランスレーショナルCMC評価基準の確立に寄与。"
+      ]
+    },
+    {
+      "title_ja": "用途特異的mRNA送達のための脂質ナノ粒子（LNP）のテーラーメイド設計",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝外送達（脾臓、肺、腫瘍など）や投与経路（吸入、局所等）に応じたmRNA-LNPの標的特異性を高めるため、脂質分子構造と処方比率の最適化戦略を体系的にレビュー。",
+        "イオン化性脂質の見かけのpKa制御、ヘルパー脂質（コレステロール誘導体、リン脂質）の置換、標的リガンド修飾による組織親和性・エンドソーム脱出効率の変化を総括。",
+        "次世代mRNA治療薬（ワクチン以外の遺伝子補充やゲノム編集）の製剤開発において、目的組織へのデリバリー制御と安全性プロファイルを両立させる処方スクリーニング基準を提示。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装資材中のニトロソアミン類およびその前駆物質と安定性試験チャンバーへの潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "規制・CMC",
+      "points": [
+        "医薬品一次・二次包装資材中に含まれる微量のアミン類・ニトロソ化試薬などの前駆物質を特定し、安定性試験チャンバー環境を介したクロスコンタミネーション経路を検証。",
+        "包装由来の揮発性アミン類が高温高湿の保存環境下で揮発・移行し、チャンバー内に保管された他製剤のニトロソアミン形成を誘発し得るリスクを分析的に実証。",
+        "ICH Q9に基づくリスクアセスメントおよび安定性試験プロトコルの見直し、包装資材サプライヤー管理・受入規格設定におけるニトロソアミン混入防止策の重要性を指摘。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクターの開発",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "JBB",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "バイオ医薬品製造用宿主CHO細胞株構築の効率化を目的に、Creリコンビナーゼタンパク質を直接パッケージングしたインテグラーゼ欠損レンチウイルスベクター（IDLV）によるリコンビナーゼ介在性カセット交換（RMCE）技術を開発。",
+        "一過性のCreタンパク質送達により宿主ゲノムへの不必要なベクター配列組込みを排除し、目的遺伝子（GOI）の高効率かつ部位特異的な標的カセット交換を達成。",
+        "安定発現細胞株クローニングのリードタイム短縮、生産クローンの均一性向上、および遺伝的安定性に優れたマスターセルバンク（MCB）構築プロセスの確立を支援。"
+      ]
+    },
+    {
+      "title_ja": "細胞外および膜タンパク質分解キメラ（Degrader）の分子設計と送達技術",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LYTACやPROTABなど、エンドソーム-リソソーム経路を標的とした細胞外・膜結合タンパク質の標的分解誘導分子（Targeted Protein Degraders）の設計戦略とデリバリー課題を網羅的に概括。",
+        "受容体リガンドや抗体と分解標的結合ドメインを結合させた複合体の分子構造最適化、ならびにナノ粒子技術を用いた生体内安定性・PKプロファイル向上の最新知見を整理。",
+        "抗体医薬や低分子阻害剤では標的困難だった膜受容体や細胞外分泌因子に対する次世代モダリティ開発におけるコンジュゲーション設計・製剤物性評価基盤を提供。"
+      ]
+    }
+  ]
+}
