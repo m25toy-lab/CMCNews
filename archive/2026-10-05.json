@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-05",
+  "articles": [
+    {
+      "title_ja": "凍結乾燥および高温保存後におけるmRNA-LNPの安定性に及ぼす凍結乾燥保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "mRNA脂質ナノ粒子（mRNA-LNP）のコールドチェーン依存を脱却するため、凍結乾燥プロセスにおけるリオプロテクト（凍結乾燥保護）メカニズムと高温保存下での物理化学的・生物学的安定性を評価。",
+        "保護剤の選定と比率の最適化により、凍結乾燥・再溶解後もナノ粒子径や多分散指数（PDI）、mRNA封入率を維持し、過酷な高温保管条件下でも高い翻訳活性と送達効率を保持することを確認。",
+        "mRNA-LNP製剤の常温流通・長期室温保存製剤の処方設計および凍結乾燥サイクル開発（CMC）において重要な指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "用途特異的mRNA送達に向けた脂質ナノ粒子（LNP）のテーラーメイド設計",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織・細胞（肝外送達、免疫細胞、粘膜局所等）や適応疾患に応じた最適なmRNA-LNPを創出するため、脂質組成や物性の合理的エンジニアリング手法を体系化。",
+        "イオン化性脂質の分子骨格、ヘルパー脂質の割合、表面修飾がLNPの体内動態、エンドソーム脱出能、組織選択的親和性に与える相関を整理。",
+        "次世代mRNAワクチン・遺伝子治療薬開発におけるLNPスクリーニングおよび組織標的型処方のCMC最適化戦略に寄与。"
+      ]
+    },
+    {
+      "title_ja": "pIgRを標的とする二重特異性抗体はカニクイザルの粘膜組織に効率的に移行・濃縮する",
+      "original_title": "Bispecific antibodies that engage pIgR enrich in mucosa in cynomolgus monkeys",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19420862.2026.2743413?af=R",
+      "source": "mAbs",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "全身投与したバイオ医薬品の粘膜組織への移行効率向上を目的に、高分子免疫グロブリン受容体（pIgR）を標的とするトランスサイトーシス誘導型二重特異性抗体を設計し、カニクイザルで生体内挙動を検証。",
+        "pIgRエンゲージメントにより、血中から腸管等の粘膜固有層への有意な移行・濃縮が達成され、非ヒト霊長類における粘膜デリバリーの概念実証に成功。",
+        "粘膜免疫疾患や局所感染症を標的とした抗体フォーマットの分子設計およびバイオアベイラビリティ改善に向けたCMC/トランスレーショナル評価基盤となる。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装資材中のニトロソアミン類およびその前駆体と安定性試験室への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "規制・CMC",
+      "points": [
+        "医薬品一次・二次包装資材に由来するニトロソアミン類やアミン系前駆体の揮発・溶出挙動、および安定性試験用チャンバー内でのクロスコンタミネーションリスクを調査。",
+        "包装資材からのガス放出や湿度・温度ストレス下での前駆体放出がチャンバー雰囲気を汚染し、保管中の別製剤へ転移・ニトロソアミン生成を引き起こす可能性を定量的に実証。",
+        "ICH M7や各極ニトロソアミン規制対応において、包装材料の適格性評価および安定性試験設備の環境管理・リスクアセスメントに不可欠なデータ。"
+      ]
+    },
+    {
+      "title_ja": "プロテインジスルフィドイソメラーゼのaドメインが仲介する酸化的フォールディングによる大腸菌での組換えヒト血清アルブミンの高効率生産",
+      "original_title": "Efficient production of recombinant human serum albumin in Escherichia coli via oxidative folding mediated by the a domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "JBB",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "17対のジスルフィド結合を有する組換えヒト血清アルブミン（rHSA）の大腸菌発現において、フォールディング不良と不溶性凝集を克服するためPDIのaドメイン共発現系を構築。",
+        "PDIの触媒活性ドメイン（aドメイン）の共存により、大腸菌ペリプラズム／細胞内での効率的な酸化的フォールディングが促進され、可溶性かつ構造的にネイティブなrHSAの収量が大幅に向上。",
+        "バイオ医薬品添加剤や安定化剤として大量需要があるrHSAの低コスト微生物発現プロセスのスケールアップ・CMC開発に直結する知見。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "JBB",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "治療用タンパク質生産用CHO細胞株の作製において、部位特異的組換え（RMCE）を一過性かつゲノム毒性なく実現するため、Creリコンビナーゼタンパク質を直接パッケージングしたインテグラーゼ欠損レンチウイルスベクター（IDLV）を開発。",
+        "Cre発現プラスミドの残存リスクを排除しつつ、標的ゲノム部位への高効率な遺伝子カセット交換を達成し、安定した発現を示すクローンを短期間で取得可能であることを実証。",
+        "抗体医薬品のマスターセルバンク（MCB）構築におけるクローン均一性担保とゲノム安定性・タイムライン短縮に寄与する細胞構築技術。"
+      ]
+    },
+    {
+      "title_ja": "細胞外および膜貫通タンパク質分解キメラの分子設計と送達",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LYTACやPROTACなど細胞外・細胞膜タンパク質をリソソーム経路で標的分解するキメラ分子の設計原理と、その生体内送達における課題・最新技術を総括。",
+        "受容体結合リガンド、リンカー構造、エンドサイトーシス受容体選択による分解活性の相関と、ナノキャリアやコンジュゲート技術による体内動態改善戦略を網羅的に解析。",
+        "従来の遮断抗体では難治であった標的分子に対する新規モダリティの製剤設計および物性最適化における基盤情報。"
+      ]
+    }
+  ]
+}
