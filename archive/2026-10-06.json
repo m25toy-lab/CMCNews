@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "title_ja": "凍結乾燥および高温保存後のmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥（リオリフィケーション）および高温条件下でのmRNA搭載脂質ナノ粒子（mRNA-LNP）の物理化学的安定性に与える各種凍結保護剤の影響を系統的に解析した。",
+        "適切な凍結保護剤の選定と最適化により、凍結乾燥後もLNPの粒子径、カプセル化効率、およびmRNAの完全性が長期間高温保存下でも保持されることを実証した。",
+        "mRNA医薬のコールドチェーン依存性を緩和し、流通・備蓄性を劇的に向上させるための製剤設計（凍結乾燥プロセス開発）に直接的な示唆を提供する。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的組織や投与経路（筋注、静注、吸入等）の要件に応じた、mRNA送達用脂質ナノ粒子（LNP）の脂質組成および構造の最適化手法を網羅的に評価した。",
+        "イオン化脂質やヘルパー脂質の比率調整が、細胞内取り込み、エンドソーム脱出、およびトランスフェクション効率に及ぼす影響を定量的に解明した。",
+        "核酸医薬の多様な臨床応用（ワクチンのほか遺伝子治療やがん免疫療法など）に向けた、合理的かつ効率的なLNP製剤スクリーニングの指針となる。"
+      ]
+    },
+    {
+      "title_ja": "医薬品包装におけるニトロソアミン類とその前駆物質、および安定性試験槽への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の一次包装材料に含まれるニトロソアミン類およびその前駆物質の存在実態を調査し、安定性試験槽内でのクロスコンタミネーションのリスクを評価した。",
+        "特定の包装資材からのガス状ニトロソアミンや前駆物質の移行・揮発メカニズムを特定し、試験環境における交差汚染の経路を実験的に証明した。",
+        "CMC品質保証および規制当局が求めるニトロソアミンリスク評価において、試験室の環境管理や包装材料由来の不純物管理に対する重要な警鐘と対策を提示する。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギシングルB細胞を用いたエコボディ技術による腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞とエコボディ技術を組み合わせ、腸内細菌特異的な高親和性抗原結合フラグメントを効率的にスクリーニング・取得する手法を確立した。",
+        "得られた抗体フラグメントは優れた結合特異性と親和性を示し、標的微生物の正確な認識と制御が可能であることを実証した。",
+        "新規抗体医薬やマイクロバイオーム関連バイオロジクス創製における、迅速な抗体取得プラットフォームとしてバイオプロセス上極めて有用である。"
+      ]
+    },
+    {
+      "title_ja": "プロテインジスファルフィドイソメラーゼのaドメインが介する酸化的折り畳みを活用した大腸菌における組換えヒト血清アルブミンの効率的生産",
+      "original_title": "Efficient production of recombinant human serum albumin in <em>Escherichia coli</em> via oxidative folding mediated by the <strong>a</strong> domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "大腸菌発現系において、プロテインジスファルフィドイソメラーゼ（PDI）のaドメインを利用した酸化的折り畳み修飾により、組換えヒト血清アルブミン（rHSA）の効率的な生産プロセスを開発した。",
+        "正確なジスルフィド結合の形成が促進され、不溶体の形成を抑制しながら可溶性かつ機能的なrHSAの生産量が大幅に向上したことを示した。",
+        "複雑なジスルフィド結合を持つ組換えタンパク質やバイオ医薬品の微生物発現系における宿主エンジニアリングおよび品質向上（フォールディング効率の改善）に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "チャイニーズハムスター卵巣（CHO）細胞のマスターセルライン構築を効率化するため、Creリコンビナーゼをタンパク質として搭載したインテグラーゼ欠損レンチウイルスベクター（IDLV）を開発した。",
+        "ゲノムへのベクター配列のランダム挿入リスクを最小限に抑えつつ、高効率な標的遺伝子の部位特異的カセット交換（RMCE）を実証した。",
+        "バイオ医薬品製造用宿主細胞株の安定性向上、開発期間短縮、およびトランスポゾンや従来型ベクターに代わる高度な遺伝子改変ツールとしてCMC細胞株開発に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "設計実験計画法支援によるソラフェニブトシル酸塩ナノクリスタルのマイクロ流体合成と経口バイオアベイラビリティの改善",
+      "original_title": "Design-of-experiments-assisted microfluidic synthesis of sorafenib tosylate nanocrystals for improved oral bioavailability",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009282?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "実験計画法（DoE）を活用し、マイクロ流体デバイスを用いた難水溶性抗がん剤ソラフェニブトシル酸塩のナノクリスタル連続合成プロセスを最適化した。",
+        "ナノ化により粒子径の均一化と比表面積の増大が達成され、溶解速度および動物実験における経口バイオアベイラビリティが劇的に向上した。",
+        "連続生産が可能なマイクロ流体技術の製剤化プロセスへの応用と、QbD（Quality by Design）アプローチに基づく製剤設計の優れた実例を提供する。"
+      ]
+    },
+    {
+      "title_ja": "イオン液体自己組織化によるレムデシビルの高薬物含量吸入製剤化",
+      "original_title": "Ionic liquid self-assembly enables high-loading inhalable delivery of remdesivir",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009348?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "イオン液体の自己組織化技術を用いて、レムデシビルの高薬物含量かつ肺送達に適した吸入用製剤の開発を行った。",
+        "結晶化やキャリアー依存性を抑えつつ、優れたエアロゾル特性と肺内での持続的放出プロファイルを実現することに成功した。",
+        "呼吸器感染症に対する新規吸入DDS製剤の開発において、薬物ローディング量を最大化する有効な製剤技術として応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "PLGCナノ粒子のゴム状状態転移を利用した細胞内パクリタクセル送達の向上と抗腫瘍効果",
+      "original_title": "Exploiting the rubbery-state transition of PLGC nanoparticles for enhanced intracellular paclitaxel delivery and anti-tumor efficacy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009142?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ポリ(δ-デカラクトン)系共重合体（PLGC）ナノ粒子のガラス転移（ゴム状状態転移）を利用し、温度応答性および細胞内での薬物放出制御を高めたパクリタクセル送達システムを構築した。",
+        "生理的温度付近での高分子の物性変化を利用することで、腫瘍組織選択的な薬物放出と細胞内取り込み効率の飛躍的な向上を確認した。",
+        "高分子ナノ粒子の熱力学的物性・相転移挙動を製剤設計に組み込むことで、薬物動態を最適化する高度なDDS設計の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "生体高分子を基盤としたオルガオン・オン・アチップシステムの材料中心設計：工業的トランスレーションと大量生産に向けて",
+      "original_title": "Material-centric design of organ-on-a-chip systems: Towards industrial translation and mass manufacturing",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001791?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "オルガノイド・チップ（OoC）の産業界への実用化と量産化を見据え、デバイスに使用するポリマーや生体材料の選定基準、吸着特性、成形性などの材料科学的課題を総括した。",
+        "マイクロチャネル内での薬物吸着や生体適合性の問題を克服するための材料工学的アプローチと、GMP準拠の製造プロセスへの課題を整理した。",
+        "非臨床安全性評価や薬物動態スクリーニングにおいて信頼性の高い先進的インビトロアッセイ系を構築する上での基盤情報を提供する。"
+      ]
+    }
+  ]
+}
