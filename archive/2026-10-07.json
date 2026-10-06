@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-07",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品製品におけるプロセス試薬のクリアランス：安全性閾値の限界とクリアランスモデリングを組み込んだ科学的視点",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "規制・CMC",
+      "points": [
+        "プロセス試薬の除去に関して、安全性閾値の限界とクリアランスモデリングを統合した科学的アプローチを検討・提示。",
+        "バイオプロセスにおける不純物や試薬の残留リスク評価の精度向上に関するデータとモデルを提供。",
+        "安全性評価の合理化と規制当局への説明性向上に寄与し、下流工程の品質管理（CMC）戦略の最適化に直結する。"
+      ]
+    },
+    {
+      "title_ja": "製薬包装におけるニトロソサミンおよびその前駆物質と安定性チャンバーへの潜在的汚染",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の包装材料に由来するニトロソサミンおよび前駆物質の特定と、安定性試験チャンバー内でのクロスコンタミネーションのリスクを検証。",
+        "包装資材からの移行経路や環境因子の影響を分析し、潜在的な汚染リスクの発生メカニズムを解明。",
+        "ニトロソサミン管理（Control Strategy）および安定性試験の容器由来リスク評価において、実務的な注意点と品質保証上の示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "凍結乾燥および高温保存後のmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥（リヨフィライゼーション）および高温保存条件下におけるmRNA搭載脂質ナノ粒子（mRNA-LNP）の物理化学的安定性に対する凍結保護剤の影響を調査。",
+        "適切な賦形剤の選定と処方設計が、ナノ粒子のサイズ分布、封入効率、およびmRNAの完全性に与える保護効果を実証。",
+        "核酸医薬のコールドチェーン依存度を低減するための凍結乾燥製剤開発および安定性確保のCMC戦略に大きく貢献。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "特定の投与経路や標的組織に応じたmRNA送達効率を最適化するための脂質ナノ粒子（LNP）の構造設計・組成のカスタマイズ手法を検証。",
+        "脂質成分の比率や化学構造が体内動態、細胞取り込み、エンドソーム脱出に与える影響を体系的に評価。",
+        "多様な疾患領域やモダリティに対応する次世代核酸医薬の処方設計において、合理的デザインの指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "大腸菌由来のタンパク質ジスフィドイソメラーゼのaドメインを介した酸化的折り畳みによる大腸菌における組換えヒト血清アルブミンの効率的生産",
+      "original_title": "Efficient production of recombinant human serum albumin in *Escherichia coli* via oxidative folding mediated by the a domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "タンパク質ジスフィドイソメラーゼ（PDI）のaドメインを利用した酸化的折り畳みメカニズムにより、大腸菌を用いた組換えヒト血清アルブミンの生産効率向上を試みた。",
+        "適切なジスフィド結合形成を促進することで、不溶性凝集体形成を抑制し、可溶性かつ機能的な目的タンパク質の収率の大幅な向上を達成。",
+        "複雑なジスフィド結合を持つ組換えタンパク質やバイオ医薬品の微生物発現系における上流プロセス（UPC）の生産性改善に応用可能。"
+      ]
+    },
+    {
+      "title_ja": "CHO細胞における標的カセット交換のためのCre搭載インテグラーゼ欠損レンチウイルスベクター",
+      "original_title": "Cre-loaded integrase-defective lentiviral vectors for targeted cassette exchange in CHO cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002197?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "チャイニーズハムスター卵巣（CHO）細胞を用いた効率的な遺伝子組換え技術として、Creリコンビナーゼを搭載したインテグラーゼ欠損レンチウイルスベクター（IDLV）の開発と評価を実施。",
+        "宿主細胞ゲノムへのランダム挿入リスクを最小限に抑えつつ、目的遺伝子の正確かつ高効率な標的カセット交換（RMCE）を実現。",
+        "安定高発現クローンの迅速なスクリーニングや、バイオ医薬品製造用 Master Cell Bank（MCB）構築プロセスの効率化に貢献。"
+      ]
+    },
+    {
+      "title_ja": "疎水性生理活性物質の送達に向けた、可溶化および自己乳化の二重機能を持つ計算機支援型深共晶溶媒",
+      "original_title": "Computationally guided deep eutectic solvent with dual solubilizing and self-emulsifying functions for delivery of hydrophobic bioactives",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732600949X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "分子モデリング（計算科学）を活用し、疎水性化合物の可溶化能と自己乳化能を兼ね備えた深共晶溶媒（DES）を合理的に設計・開発。",
+        "難水溶性成分の溶解度を飛躍的に高めるとともに、水性媒体中で安定なナノエマルションを自発的に形成する性能を確認。",
+        "低分子医薬品の経口吸収性改善や液剤・カプセル製剤の処方設計において、新規可溶化ビヒクルとしての実用性を示唆。"
+      ]
+    }
+  ]
+}
