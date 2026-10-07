@@ -1,0 +1,113 @@
+{
+  "date": "2026-10-08",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品製品のプロセス試薬クリアランス：安全性閾値限界とクリアランスモデリングを取り入れた科学的視点",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "バイオ医薬品の製造プロセスで使用されるプロセス試薬のクリアランス評価に関して、安全性閾値限界とモデリングを統合した科学的アプローチを提示している。",
+        "不純物や残留試薬の除去における実用的なモデリング手法とリスク評価の枠組みを示した。",
+        "下流工程（ダウンストリーム）の精製プロセスバリデーションや、安全性評価の合理化・効率化への直接的な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "製薬包装におけるニトロソ胺およびその前駆体、ならびに安定性試験槽への潜在的汚染リスク",
+      "original_title": "Nitrosamines and their precursors in pharmaceutical packaging and potential contamination for stability chambers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003412?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "医薬品の包装材料に含有されるニトロソ胺およびその前駆体を調査し、安定性試験槽を介した交差汚染のリスクを評価した。",
+        "包装資材からのニトロソ胺移行メカニズムと、試験環境における汚染経路の特定に関する実験結果を報告している。",
+        "品質保証およびCMCにおける原薬・製剤のニトロソ胺管理戦略（コントロール戦略）の策定に重要な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "凍結乾燥および高温保存後のmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬（mRNA）搭載脂質ナノ粒子（LNP）の凍結乾燥粉末化および高温保存時の安定性に対する凍結保護剤の影響を網羅的に解析した。",
+        "適切な凍結保護剤の選定と配合設計により、凍結乾燥後もmRNAの封入効率や構造が保持され、熱安定性が向上することを実証した。",
+        "mRNA-LNP製剤のコールドチェーン依存度低減や、長期保存可能な次世代製剤設計に大きく貢献する。"
+      ]
+    },
+    {
+      "title_ja": "アプリケーション特異的なmRNA送達に向けた脂質ナノ粒子のテーラリング",
+      "original_title": "Tailoring lipid nanoparticles for application-specific mRNA delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600790X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "特定の標的組織や投与経路に応じた最適なmRNA送達を実現するため、脂質ナノ粒子（LNP）の脂質組成や物性を最適化（テーラリング）する手法を総括・検証した。",
+        "組成変化がLNPの体内動態、細胞取り込み、エンドソーム脱出能に与える相関関係を明確にした。",
+        "多様な疾患モダリティに対応するLNPプラットフォームの合理的なスクリーニングおよび処方設計（Design）に有用である。"
+      ]
+    },
+    {
+      "title_ja": "トレハロースによるコロイド状タンパク質の安定性と表面被覆：分子動力学と実験的アプローチの架け橋",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "分子動力学（MD）シミュレーションと実験手法を組み合わせ、トレハロースがタンパク質表面を被覆するメカニズムとコロイド安定性への寄与を解析した。",
+        "糖類の高分子表面への局在化が、タンパク質間の凝集を抑制する分子レベルの挙動を明らかにした。",
+        "バイオ医薬品（抗体製剤等）の高濃度液剤における安定化剤の選定と、合理的処方デザインのための強力な解析基盤を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ペントミジンをポリマーおよび脂質ベースのナノ粒子に活用した筋強直性ジストロフィー1型に対する有効性の調査",
+      "original_title": "Investigation of the pentamidine efficacy against myotonic dystrophy type 1 exploiting polymeric- and lipid-based nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009555?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難治性疾患である筋強直性ジストロフィー1型に対し、ペントミジンをポリマーおよび脂質ナノ粒子に搭載して薬効評価を行った。",
+        "ナノ製剤化により薬物の送達効率と細胞内移行性が改善され、治療効果が有意に増強されることを確認した。",
+        "中分子・低分子の難治性疾患向けDDS製剤化において、キャリア選択（ポリマーvs脂質）の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "計算科学的手法に基づくデュアルな可溶化・自己乳化機能を持つ深共融溶媒による疎水性生理活性物質の送達",
+      "original_title": "Computationally guided deep eutectic solvent with dual solubilizing and self-emulsifying functions for delivery of hydrophobic bioactives",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732600949X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "分子モデリング等を用いた計算科学的手法により、可溶化と自己乳化の機能を併せ持つ深共融溶媒（DES）を合理的に設計した。",
+        "難水溶性化合物の溶解度を飛躍的に高め、かつ効率的な乳化分散システムを構築できることを実証した。",
+        "低分子医薬品の難水溶性課題を克服するための新しい製剤化溶媒・ビヒクルとしての応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "タンパク質ジスフィドイソメラーゼのaドメインを介した酸化的折り畳みによる大腸菌での組換えヒト血清アルブミンの効率的生産",
+      "original_title": "Efficient production of recombinant human serum albumin in <em>Escherichia coli</em> via oxidative folding mediated by the <strong>a</strong> domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "大腸菌発現系において、タンパク質ジスフィドイソメラーゼ（PDI）のaドメインを活用した酸化的折り畳み制御により、組換えヒト血清アルブミンの効率的な生産系を構築した。",
+        "正確なジスルフィド結合形成を促進し、封入体の形成を抑えつつ活性型タンパク質の収率を大幅に向上させた。",
+        "複雑なジスルフィド結合を持つバイオ医薬品の微生物発現系における宿主エンジニアリングの有用なアプローチを示す。"
+      ]
+    },
+    {
+      "title_ja": "エコボディ技術を用いた非免疫化ウサギ単一B細胞からの腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "エコボディ技術とウサギ単一B細胞解析を組み合わせ、非免疫動物から標的に対する高親和性抗体断片（Fabなど）を迅速に取得する手法を開発した。",
+        "スクリーニングから得られた抗体の結合特異性と親和性を詳細に解析し、優れた特性を有することを確認した。",
+        "抗体医薬品や診断薬のリード探索における新規かつ効率的な抗体ライブラリ構築法として応用可能である。"
+      ]
+    }
+  ]
+}
