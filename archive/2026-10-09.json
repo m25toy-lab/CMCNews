@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品製品のプロセス試薬クリアランス：安全性閾値の限界とクリアランスモデリングを組み込んだ科学的視点",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "バイオ医薬品製造プロセスで使用されるプロセス試薬の残留クリアランス評価に関し、安全性閾値とモデリングを融合した科学的アプローチを提示した。",
+        "試薬の除去効率を予測・検証するためのクリアランスモデリング手法とその安全性評価への統合方法を整理した。",
+        "品質管理および薬事申請（CMC）における残留不純物リスク評価の合理化と効率化への実践的な示唆を提供する。"
+      ]
+    },
+    {
+      "title_ja": "オリゴヌクレオチド医薬品のデリバリーアーキテクチャ：遺伝性・希少疾患におけるGalNAcベースの肝実質細胞ターゲティングと肝外トランスレーション",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "遺伝性疾患や希少疾患を対象としたオリゴヌクレオチド医薬品のDDS技術について、GalNAc抱合による肝実質細胞へのターゲティング機構と肝外組織への送達技術を包括的に解析した。",
+        "種々のキャリア構造や化学修飾が標的組織への移行および薬効発現に与える影響を整理した。",
+        "核酸医薬製剤の設計戦略および生体内動態制御の最適化に向けた重要な知見を提供している。"
+      ]
+    },
+    {
+      "title_ja": "凍結乾燥および高温保存後のmRNA-LNPの安定性に及ぼす凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥プロセスおよび高温保存下におけるmRNA搭載脂質ナノ粒子（mRNA-LNPs）の物性安定性に対する各種凍結保護剤の影響を調査した。",
+        "適切な凍結保護剤の選定と製剤組成が、乾燥・再構成後における粒径分布、カプセル化率、およびmRNAの完全性保持に寄与することを実証した。",
+        "mRNA-LNP製剤のコールドチェーン依存度低減や長期保存安定性向上を目的とした製剤処方設計（CMC）に直結する知見を与える。"
+      ]
+    },
+    {
+      "title_ja": "コロイド状タンパク質の安定性とトレハロースによる表面被覆：分子動力学と実験的アプローチの架け橋",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "タンパク質水溶液のコロイド安定性にトレハロースが与える影響について、分子動力学（MD）シミュレーションと実測データを組み合わせて解析した。",
+        "トレハロース分子によるタンパク質表面の被覆状態が、凝集傾向や分子間相互作用に及ぼすメカニズムを明らかにした。",
+        "バイオ医薬品（mAb等）の液体製剤・凍結乾燥製剤における安定化剤選定と処方開発の合理化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギシングルB細胞を用いたEcobody技術による腸内細菌に対する高親和性抗体断片の同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞解析（Ecobody技術）を活用し、腸内細菌に対する高親和性抗体断片（Fabなど）の効率的な取得手法を検証した。",
+        "多様性に富む抗体ライブラリーから標的特異性の高いクローンを迅速にスクリーニングできることを示した。",
+        "抗体医薬品や診断薬のリード探索プロセスおよびバイオプロセスにおける効率的なスクリーニング基盤として応用可能である。"
+      ]
+    },
+    {
+      "title_ja": "プロテインジスファルフィドイソメラーゼのaドメインを介した酸化折り畳みによる大腸菌での組換えヒト血清アルブミンの効率的生産",
+      "original_title": "Efficient production of recombinant human serum albumin in <em>Escherichia coli</em> via oxidative folding mediated by the <strong>a</strong> domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "大腸菌発現系を用いた組換えヒト血清アルブミンの生産性向上を目的とし、プロテインジスファルフィドイソメラーゼ（PDI）のaドメインを活用した酸化折り畳み効率化プロセスを開発した。",
+        "正確なジスルフィド結合形成を促進することで、可溶性かつ機能的な目的タンパク質の収率が著しく向上することを実証した。",
+        "微生物宿主を用いた複雑なジスルフィド結合を持つバイオ医薬品・タンパク質製剤の川上プロセス（USP）設計に有用な示唆を与える。"
+      ]
+    }
+  ]
+}
