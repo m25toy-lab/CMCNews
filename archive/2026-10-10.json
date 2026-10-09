@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品のプロセス試薬クリアランス：安全性閾値とクリアランスモデリングを組み込んだ科学的視点",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "規制・CMC",
+      "points": [
+        "バイオ医薬品製造プロセスで使用されるプロセス試薬のクリアランス評価に関して、安全性閾値の設定とクリアランスモデリングを統合した科学的アプローチを提示した。",
+        "試薬の残存リスクを定量的に評価するための数学的モデルおよび安全性評価の基準を整理し、実用的なクリアランス検証の枠組みを示した。",
+        "商用製造に向けた不純物管理戦略や、規制当局への申請資料（CMC）におけるプロセス検証データの構築に直結する重要な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "オリゴヌクレオチド医薬品のデリバリーアーキテクチャ：遺伝性・希少疾患におけるGalNAcベースの肝実質細胞標的化と肝外送達",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "遺伝性および希少疾患を対象としたオリゴヌクレオチド医薬品のDDS技術について、GalNAc抱合体による肝実質細胞への効率的な標的化と、近年の肝外組織への送達技術の進展を総括した。",
+        "各種デリバリーシステムの化学構造と生体内動態（PK/PD）の相関関係を体系的に整理し、標的組織への送達効率の改善データを比較した。",
+        "核酸医薬の製剤設計において、組織特異的送達とオフターゲット効果の低減を両立させるための次世代キャリア選定の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "凍結乾燥および高温保存後のmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "凍結乾燥（リオリフィケーション）および過酷な高温保存条件下における、mRNA含有脂質ナノ粒子（mRNA-LNP）の物性安定化に対する各種凍結保護剤の影響を網羅的に解析した。",
+        "適切な凍結保護剤の選定と処方設計により、乾燥工程中および保存中のLNPの凝集や粒子径の増大、さらにはmRNAのカプセル化率の低下が効果的に抑制されることを実証した。",
+        "コールドチェーン依存度の低い（あるいは室温流通可能な）mRNAワクチン・核酸医薬の凍結乾燥製剤の処方開発および安定性試験に直接応用できる。"
+      ]
+    },
+    {
+      "title_ja": "コロイド状タンパク質の安定性とトレハロースによる表面被覆：分子動力学シミュレーションと実験的アプローチの架橋",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品の安定化剤として多用されるトレハロースが、タンパク質表面をどのように被覆し、コロイド安定性を高めるかを分子動力学（MD）シミュレーションと実験手法の両面から解析した。",
+        "トレハロース分子のタンパク質表面への局在化メカニズムを解明し、タンパク質間の相互作用（二体第二ビリアル係数など）に与える影響を定量的に示した。",
+        "抗体製剤などの高濃度液剤処方において、凝集抑制効果を高めるための合理的な添加剤選定および分子レベルでの処方最適化に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "大腸菌由来プロテインジスファイドイソメラーゼのaドメインを介した酸化的フォールディングによる、大腸菌での組換えヒト血清アルブミンの効率的生産",
+      "original_title": "Efficient production of recombinant human serum albumin in <em>Escherichia coli</em> via oxidative folding mediated by the <strong>a</strong> domain of protein disulfide isomerase",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002835?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "大腸菌発現系を用いた組換えヒト血清アルブミン（rHSA）の生産において、プロテインジスファイドイソメラーゼ（PDI）のaドメインを利用した効率的な酸化的フォールディング手法を開発した。",
+        "正確なジスファイド結合の形成を促進することで、不溶体化を抑制し、可溶性かつ機能的なタンパク質の収率を大幅に向上させることに成功した。",
+        "大腸菌での発現が困難なジスファイド結合リッチなバイオ医薬品や組換えタンパク質の川上プロセス（バイオプロセス）設計に応用できる。"
+      ]
+    },
+    {
+      "title_ja": "蛍光トレーサーの精製および生産スケールアップへの接線流ろ過（TFF）の新規適用：セツキシマブ-800CWとウステキヌマブ-800CWをモデルとした実証",
+      "original_title": "Tangential flow filtration as a novel approach for fluorescent tracer purification and production up-scaling: cetuximab-800CW and ustekinumab-800CW as a proof-of-concept",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19420862.2026.2743444?af=R",
+      "source": "mAbs",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "蛍光色素をコンジュゲートした抗体医薬品（セツキシマブ-800CWおよびウステキヌマブ-800CW）の精製プロセスにおいて、接線流ろ過（TFF）を新規に適用し、そのスケールアップの可能性を検証した。",
+        "従来法と比較して、遊離の色素を効率的に除去しつつ、高回収率と高純度を維持したままプロセスをスケールアップできることを実証した。",
+        "抗体薬物複合体（ADC）や類似の抗体コンジュゲート製剤の精製・濃縮工程（DSP）におけるダウンストリームプロセスの効率化と工業化に直結する。"
+      ]
+    }
+  ]
+}
