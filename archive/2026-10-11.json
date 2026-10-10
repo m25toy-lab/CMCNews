@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-11",
+  "articles": [
+    {
+      "title_ja": "凍結乾燥および高温保存後におけるmRNA-LNPの安定性に対する凍結保護剤の影響の解明",
+      "original_title": "Uncovering the influence of lyoprotection on stability of mRNA-LNPs after lyophilization and high temperature storage",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008163?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "mRNA-LNP製剤のコールドチェーン脱却を目指し、凍結乾燥プロセスおよび過酷な高温保存条件下における各種凍結保護剤の保護メカニズムと粒子物性への影響を評価した。",
+        "保護剤の添加によって凍結乾燥後の粒子径増大やmRNAの漏出・分解が大幅に抑制され、高温保存下でも脂質ナノ粒子の構造的一体性と封入効率が維持される相関が確認された。",
+        "超低温冷凍を必要としない常温・高温耐性mRNA-LNP凍結乾燥製剤の処方設計および凍結乾燥サイクル最適化に向けた実用的な指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品におけるプロセス試薬のクリアランス：安全性閾値限界とクリアランスモデリングを統合した科学的アプローチ",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "抗体医薬等の下流精製プロセスで使用される各種プロセス試薬（界面活性剤、消泡剤、溶媒等）の残留リスクに対し、毒性学的安全域（PDE）と数理クリアランスモデルを統合した管理戦略を提示した。",
+        "個別ロットでの全項目ルーチン分析試験に依存せず、各精製工程の除去能力のモデリングと安全許容量の算出に基づく科学的根拠に基づいたクリアランス評価体系を確立した。",
+        "ICH Q6BおよびQ11に準拠した不純物管理戦略の効率化を可能にし、CMC申請における不要な残留試験省略のロジック構築や規制対応に直接寄与する。"
+      ]
+    },
+    {
+      "title_ja": "トレハロースによるタンパク質のコロイド安定性と表面被覆率：分子動力学シミュレーションと実験的検証の融合",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品製剤で汎用される安定化剤トレハロースがタンパク質のコロイド安定性および会合・凝集抑制に寄与する機構を、分子動力学（MD）計算と実験的手法を組み合わせて解析した。",
+        "トレハロース分子がタンパク質表面の水和層を再構築し部分的な表面被覆を形成することで、分子間引力相互作用および自己会合が抑制される機構を微視的・熱力学的に実証した。",
+        "抗体医薬などの高濃度液状製剤開発における粘度上昇や不可逆的凝集を低減するための添加剤選定および処方最適化の理論的基盤となる。"
+      ]
+    },
+    {
+      "title_ja": "遺伝子疾患および希少疾患に対するオリゴ核酸治療薬の送達構造：GalNAcを用いた肝細胞標的化と肝外送達への展開",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "siRNAやASO等の核酸医薬品における標的送達技術について、臨床応用が進むGalNAc複合体による肝細胞標的化の知見を整理し、肝外臓器への展開に向けた最新の送達アーキテクチャを包括的に概説した。",
+        "受容体リガンド修飾、脂質修飾、抗体-核酸複合体（AOC）などの設計戦略が、核酸の体内動態、細胞内取り込み、エンドソーム脱出効率に及ぼす影響を比較考察した。",
+        "希少疾患・遺伝性疾患を標的とする次世代核酸医薬品の分子設計およびDDSプラットフォーム開発におけるCMC・処方設計の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "細胞外および膜タンパク質分解キメラの分子設計と送達技術",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LYTACやPROTABなど、膜結合型受容体や細胞外分泌タンパク質をエンドソーム/リソソーム経路を介して分解誘導する新規キメラ分子の設計指針およびデリバリー戦略をレビューした。",
+        "標的結合モジュールとリソソーム移行受容体（ASGPR、CI-M6PR等）リガンドの結合様式、分子構造最適化、ならびにナノキャリアを用いた送達効率向上の最新アプローチを整理した。",
+        "従来の阻害抗体では標的化が困難な難創薬性膜タンパク質に対する新規モダリティ開発および抗体複合体・製剤化設計の重要な参照情報となる。"
+      ]
+    },
+    {
+      "title_ja": "ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の包括的概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ポリエチレングリコール（PEG）に対する抗体産生（抗PEG抗体）リスクを克服する代替親水性ポリマーとして、ポリ(2-オキサゾリン)（POx）およびポリ(2-オキサジン)（POzi）の特性を包括的に評価した。",
+        "両ポリマーの構造多様性、高分子複合体・ナノ粒子におけるステルス機能、生体内クリアランス挙動、反復投与時の低免疫原性に関する最新データを体系化した。",
+        "バイオ医薬品のペグ化代替修飾技術や、LNP・リポソーム製剤における安定化脂質成分の刷新を目指すCMC・DDS研究者にとって極めて有用な知見である。"
+      ]
+    },
+    {
+      "title_ja": "アジュバント含有ワクチンにおけるシェイクテスト：製造業者の視点からの考察",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アルミニウムアジュバント含有ワクチンが偶発的な凍結融解履歴を受けたか否かを判定する現場簡易試験「シェイクテスト」について、製造業者の品質保証視点から妥当性と課題を評価した。",
+        "凍結融解に伴うアジュバント粒子の不可逆的凝集・沈降速度の変化メカニズムを物性面から解析し、目視判定試験の感度限界、製剤組成依存性、客観的機器分析との整合性を検証した。",
+        "ワクチンのコールドチェーン管理逸脱時の品質判定基準の策定、現場運用の標準化、および凍結耐性を向上させた新規アジュバント製剤設計への知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "乳がん患者生検組織を用いたリポソームと腫瘍の相互作用に関する前臨床スクリーニング",
+      "original_title": "Preclinical screening of liposome–tumor interactions using breast cancer patient biopsies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009622?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "患者生検組織サンプルを用い、リポソーム製剤と実際のヒト腫瘍微小環境（TME）との物理的・細胞的相互作用を体外で評価する前臨床スクリーニングプラットフォームを構築した。",
+        "細胞株モデルとは異なり、生検由来の不均一な間質組織や細胞外マトリックスがリポソームの浸透性およびエンドサイトーシス動態に与える影響を定量的に検出することに成功した。",
+        "ナノDDS製剤開発における臨床トランスレーション成功率を高めるための、プレクリニカル段階での製剤設計フィードバックツールとして有用である。"
+      ]
+    }
+  ]
+}
