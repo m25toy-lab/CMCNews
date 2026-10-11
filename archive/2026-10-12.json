@@ -1,0 +1,89 @@
+{
+  "date": "2026-10-12",
+  "articles": [
+    {
+      "title_ja": "アジュバント含有ワクチンの振盪試験：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント含有ワクチンの物理的安定性評価手法である「振盪試験」について、製造業者の観点から現状の課題と評価の妥当性を検証した。",
+        "凍結融解や物理的ストレスに対するアジュバント粒子の挙動や凝集傾向に関する新たな知見を提示した。",
+        "ワクチン製品のコールドチェーンや輸送中の物理的ストレスに対する品質管理および実用的な安定性評価への示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品製品におけるプロセス試薬のクリアランス：安全性閾値の制限とクリアランスモデリングを統合した科学的アプローチ",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品製造プロセスにおいて使用される試薬のクリアランス評価に関し、安全性閾値とモデリングを組み合わせた科学的枠組みを構築した。",
+        "プロセス関連不純物の除去効率を予測・検証するためのアプローチを整理し、リスク評価の精度向上を示した。",
+        "川下工程（下流工程）における不純物管理や規制当局への申請資料（CMC）作成に向けた堅牢な根拠を提供する。"
+      ]
+    },
+    {
+      "title_ja": "遺伝子疾患および希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外トランスレーション",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬および遺伝子治療における代表的な送達システムであるGalNAc抱合体による肝細胞標的化と、肝外組織への送達技術の動向を総括した。",
+        "希少疾患治療に向けた各種デリバリーアーキテクチャの体内動態・組織移行性の違いと最適化戦略を明らかにした。",
+        "核酸医薬品のDDS設計において、標的組織特異性を高めるための製剤処方戦略とCMC開発に直結する知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス特性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ポリエチレングリコール（PEG）の代替として注目されるポリ（2-オキサゾリン）およびポリ（2-オキサジン）の生体適合性、薬物動態を包括的にレビューした。",
+        "血中滞留性（ステルス性）や低免疫原性に関する最新の実験データと、血中クリアランスへの影響を整理した。",
+        "次世代高分子ミセルやナノ粒子製剤の設計において、PEG非依存的な表面修飾技術の選択肢としての実用性を示唆する。"
+      ]
+    },
+    {
+      "title_ja": "細胞外および膜タンパク質分解キメラの分子設計と送達",
+      "original_title": "Molecular design and delivery of extracellular and membrane protein degradation chimeras",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001936?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的タンパク質分解誘導技術（PROTAC等）の応用として、細胞外および膜タンパク質を標的とするキメラ分子の分子設計と送達メカニズムを解説した。",
+        "リソソーム依存性分解経路を利用した新規モダリティの体内動態と、効率的な標的細胞への送達アプローチを整理した。",
+        "次世代バイオ医薬品としての標的分解誘導モダリティの製剤化研究およびDDS開発における重要な指針となる。"
+      ]
+    },
+    {
+      "title_ja": "コロイド状タンパク質安定性とトレハロースによる表面被覆：分子動力学と実験の架け橋",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "タンパク質製剤の安定化剤として広く使われるトレハロースによる表面被覆とコロイド安定性を、分子動力学（MD）シミュレーションと実験の両面から解析した。",
+        "トレハロース分子がタンパク質表面に局在し、凝集を抑制する分子レベルのメカニズムを明らかにした。",
+        "高濃度抗体製剤などの物性安定化や、凍結乾燥処方の合理的設計（QbDアプローチ）に向けた有用な論拠を提供する。"
+      ]
+    },
+    {
+      "title_ja": "抗体・抗原認識における柔軟性の捕捉：物理ベース手法とAI駆動型手法の批判的評価",
+      "original_title": "Catching enhanced flexibility in antibody-antigen recognition: critical evaluation of physics-based and AI-driven methods",
+      "url": "https://www.tandfonline.com/doi/full/10.1080/19420862.2026.2743404?af=R",
+      "source": "mAbs",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体と抗原の結合における構造的柔軟性を予測するため、物理ベースのドッキング法とAI・機械学習駆動型手法の精度を比較評価した。",
+        "各手法のエンドポイント予測における強みと限界を実証的に示し、コンフォメーション変化を伴う認識プロセスの解明に成功した。",
+        "抗体医薬品のインシリコ設計、エピトープ解析、およびaffinity maturationの効率化に貢献する。"
+      ]
+    }
+  ]
+}
