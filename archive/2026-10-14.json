@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性・凍結ストレス評価法としてのシェイクテストについて、製造業者の実務的視点から検証と考察を行っている。",
+        "凍結融解ストレス等に起因する凝集や沈降挙動の視覚的・物理的変化を捉えるテストの感度と限界を整理している。",
+        "ワクチン製品のコールドチェーン逸脱リスク管理や、現場での簡易品質確認手法（CMC/品質保証）への実践的な知見を提供している。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品製品におけるプロセス試薬のクリアランス：安全性閾値の限界とクリアランスモデリングを取り入れた科学的視点",
+      "original_title": "Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品の製造プロセスで使用される各種試薬の残留・クリアランス評価について、安全性に基づく閾値設定と予測モデリングの手法を検討した。",
+        "ダウンストリームプロセス（DSP）における不純物・残留試薬の除去効率を定量化し、安全性許容値を下回るクリアランス達成の証拠を示した。",
+        "不純物管理や毒性学的安全性評価（ICH Q3等）に基づくプロセスバリデーションおよびリスクアセスメントの高度化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "オリゴヌクレオチド医薬品の遺伝性・希少疾患向け送達アーキテクチャ：GalNAcベースの肝実質細胞ターゲティングと肝外トランスレーション",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬（オリゴヌクレオチド）の遺伝性・希少疾患治療に向けた送達システム（DDS）の現状と進化を総括している。",
+        "確立されたGalNAc抱合体による肝細胞特異的送達技術に加え、肝外組織への送達を可能にする最新のキャリア設計について詳細に解説している。",
+        "核酸医薬の薬物動態（PK）改善、組織移行性の最適化、および新規DDS製剤設計のロードマップを提供する。"
+      ]
+    },
+    {
+      "title_ja": "プロテオータック（PROTAC）送達のための脂質ベースナノキャリアのエンジニアリング：製造プロセスおよび形態が薬物動態学的曝露に与える影響の評価",
+      "original_title": "Engineering lipid-based nanocarriers for PROTAC delivery: evaluating the influence of manufacturing and morphology on pharmacokinetic exposure",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009336?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "標的タンパク質分解誘導剤（PROTAC）のLNP等の脂質ベースナノキャリアへの封入において、製造条件やナノ粒子の形態が体内動態（PK）に及ぼす影響を評価した。",
+        "製造パラメータの変動が粒径、表面電荷、およびin vivoでの薬物曝露量に直結することを実験的に明らかにした。",
+        "難水溶性かつ高分子量なモダリティであるPROTACの製剤設計において、QbD（Quality by Design）アプローチに基づくプロセス最適化の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "コロイド状タンパク質の安定性とトレハロースによる表面被覆：分子動力学シミュレーションと実験的アプローチの橋渡し",
+      "original_title": "Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品（タンパク質製剤）の安定化剤として広く使われるトレハロースによる、タンパク質表面の被覆メカニズムとコロイド安定性への寄与を検証した。",
+        "分子動力学（MD）シミュレーションと実験的解析を組み合わせ、トレハロース分子がタンパク質表面に局在して水分子を置換し、凝集を防ぐ挙動を可視化・実証した。",
+        "抗体製剤などの液剤・凍結乾燥製剤における合理的な添加剤選定および処方最適化（安定性向上）の理論的基盤を提供する。"
+      ]
+    },
+    {
+      "title_ja": "単一ステップのアルビアルろ過によるポックスウイルス精製のための効率的な細胞除去と不純物の低減",
+      "original_title": "Efficient Cell Removal and Impurity Reduction for Poxvirus Purification in a Single Step Alluvial Filtration",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70413?af=R",
+      "source": "Biotechnology and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "遺伝子治療やワクチンベクターとして用いられるポックスウイルスの下流精製プロセスにおいて、単一のアルビアルろ過（Alluvial Filtration）による効率的な細胞破片除去と不純物低減を試みた。",
+        "複雑な多段階プロセスを簡略化しつつ、ウイルス回収率を高水準に維持しながら宿主細胞由来不純物を効果的に排除できることを示した。",
+        "ウイルスベクター製造のプロセスの経済性向上、スケールアップ容易化、およびCMCにおけるプラットフォーム構築に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "バリア強化型ヒアルロン酸-ビリルビンナノ送達システムによる大腸炎における腸管バリア、免疫系、および腸内マイクロバイオームの相乗的調節",
+      "original_title": "Barrier-reinforcing hyaluronic acid-bilirubin nanodelivery of methylprednisolone for synergistic modulation of the intestinal barrier, immune system, and gut microbiome in colitis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008436?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "潰瘍性大腸炎治療を目的として、メチルプレドニゾロンを搭載したヒアルロン酸-ビリルビン複合体ナノ粒子を開発し、腸管送達性を評価した。",
+        "病変部への選択的送達に加え、酸化ストレスの軽減、腸管上皮バリアの修復、および腸内細菌叢の改善という相乗的な抗炎症効果を確認した。",
+        "消化器系疾患に対する高分子・ナノ粒子ベースの標的DDS製剤設計において、多機能性キャリア活用の好例となる。"
+      ]
+    },
+    {
+      "title_ja": "ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "PEG（ポリエチレングリコール）の代替として注目されるポリ（2-オキサゾリン）類およびポリ（2-オキサジン）類の物理化学的特性と生体適合性を総括している。",
+        "血中滞留性（ステルス性）、薬物動態プロファイル、および抗PEG抗体等で見られる免疫原性回避の観点から優れた特性を持つことを整理した。",
+        "次世代のナノ医薬品やタンパク質修飾（ポリマーコンジュゲーション）における新規キャリア選定の重要なリファレンスとなる。"
+      ]
+    },
+    {
+      "title_ja": "材料中心のオルガンのオン・アイチップシステムの設計：産業的トランスレーションと大量生産に向けて",
+      "original_title": "Material-centric design of organ-on-a-chip systems: Towards industrial translation and mass manufacturing",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26001791?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "創薬スクリーニングや非臨床評価で利用されるオルガン・オン・チップ（OoC）技術について、材料科学的側面から産業化・量産化への課題とアプローチを議論している。",
+        "生体適合性、薬物吸着性の抑制、微細加工性、および工業的生産に適した高分子材料の選定基準を体系的にまとめた。",
+        "CMCや薬物動態スクリーニングの高度化に向けたインビトロ評価系プラットフォームの導入・製造管理に有益な視点を提供する。"
+      ]
+    },
+    {
+      "title_ja": "自己組織化生分解性高分子ナノ粒子のインスリン封入に関する分子動力学およびクラスタリング解析",
+      "original_title": "Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "タンパク質・ペプチド医薬品（インスリン）を生分解性高分子ナノ粒子に封入する際の相互作用を、分子動力学（MD）シミュレーションとクラスタリング手法で解析した。",
+        "高分子鎖とインスリン間の水素結合や疎水性相互作用のダイナミクスを解明し、高効率な封入構造の条件を特定した。",
+        "タンパク質・ペプチド医薬品のナノ粒子化製剤における合理的処方設計（Rational Design）の分子レベルでの理解を深める。"
+      ]
+    }
+  ]
+}

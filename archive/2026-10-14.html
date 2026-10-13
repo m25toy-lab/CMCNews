@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/10/14 (Wed)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/10/14 (Wed) ／ 10 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>アジュバント添加ワクチンの物理的安定性・凍結ストレス評価法としてのシェイクテストについて、製造業者の実務的視点から検証と考察を行っている。</li>
+<li>凍結融解ストレス等に起因する凝集や沈降挙動の視覚的・物理的変化を捉えるテストの感度と限界を整理している。</li>
+<li>ワクチン製品のコールドチェーン逸脱リスク管理や、現場での簡易品質確認手法（CMC/品質保証）への実践的な知見を提供している。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all" target="_blank" rel="noopener">バイオ医薬品製品におけるプロセス試薬のクリアランス：安全性閾値の限界とクリアランスモデリングを取り入れた科学的視点</a>
+      </h2>
+      <p class="original-title">原題: Process reagent clearance for biopharmaceutical products: A science-based perspective incorporating safety threshold limits and clearance modeling</p>
+      <ul class="points-list">
+        <li>バイオ医薬品の製造プロセスで使用される各種試薬の残留・クリアランス評価について、安全性に基づく閾値設定と予測モデリングの手法を検討した。</li>
+<li>ダウンストリームプロセス（DSP）における不純物・残留試薬の除去効率を定量化し、安全性許容値を下回るクリアランス達成の証拠を示した。</li>
+<li>不純物管理や毒性学的安全性評価（ICH Q3等）に基づくプロセスバリデーションおよびリスクアセスメントの高度化に貢献する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003679?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">オリゴヌクレオチド医薬品の遺伝性・希少疾患向け送達アーキテクチャ：GalNAcベースの肝実質細胞ターゲティングと肝外トランスレーション</a>
+      </h2>
+      <p class="original-title">原題: Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation</p>
+      <ul class="points-list">
+        <li>核酸医薬（オリゴヌクレオチド）の遺伝性・希少疾患治療に向けた送達システム（DDS）の現状と進化を総括している。</li>
+<li>確立されたGalNAc抱合体による肝細胞特異的送達技術に加え、肝外組織への送達を可能にする最新のキャリア設計について詳細に解説している。</li>
+<li>核酸医薬の薬物動態（PK）改善、組織移行性の最適化、および新規DDS製剤設計のロードマップを提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326009336?dgcid=rss_sd_all" target="_blank" rel="noopener">プロテオータック（PROTAC）送達のための脂質ベースナノキャリアのエンジニアリング：製造プロセスおよび形態が薬物動態学的曝露に与える影響の評価</a>
+      </h2>
+      <p class="original-title">原題: Engineering lipid-based nanocarriers for PROTAC delivery: evaluating the influence of manufacturing and morphology on pharmacokinetic exposure</p>
+      <ul class="points-list">
+        <li>標的タンパク質分解誘導剤（PROTAC）のLNP等の脂質ベースナノキャリアへの封入において、製造条件やナノ粒子の形態が体内動態（PK）に及ぼす影響を評価した。</li>
+<li>製造パラメータの変動が粒径、表面電荷、およびin vivoでの薬物曝露量に直結することを実験的に明らかにした。</li>
+<li>難水溶性かつ高分子量なモダリティであるPROTACの製剤設計において、QbD（Quality by Design）アプローチに基づくプロセス最適化の指針となる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326009336?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all" target="_blank" rel="noopener">コロイド状タンパク質の安定性とトレハロースによる表面被覆：分子動力学シミュレーションと実験的アプローチの橋渡し</a>
+      </h2>
+      <p class="original-title">原題: Colloidal protein stability and surface coverage by trehalose: bridging molecular dynamics and experimental work</p>
+      <ul class="points-list">
+        <li>バイオ医薬品（タンパク質製剤）の安定化剤として広く使われるトレハロースによる、タンパク質表面の被覆メカニズムとコロイド安定性への寄与を検証した。</li>
+<li>分子動力学（MD）シミュレーションと実験的解析を組み合わせ、トレハロース分子がタンパク質表面に局在して水分子を置換し、凝集を防ぐ挙動を可視化・実証した。</li>
+<li>抗体製剤などの液剤・凍結乾燥製剤における合理的な添加剤選定および処方最適化（安定性向上）の理論的基盤を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002638?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Biotechnology and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70413?af=R" target="_blank" rel="noopener">単一ステップのアルビアルろ過によるポックスウイルス精製のための効率的な細胞除去と不純物の低減</a>
+      </h2>
+      <p class="original-title">原題: Efficient Cell Removal and Impurity Reduction for Poxvirus Purification in a Single Step Alluvial Filtration</p>
+      <ul class="points-list">
+        <li>遺伝子治療やワクチンベクターとして用いられるポックスウイルスの下流精製プロセスにおいて、単一のアルビアルろ過（Alluvial Filtration）による効率的な細胞破片除去と不純物低減を試みた。</li>
+<li>複雑な多段階プロセスを簡略化しつつ、ウイルス回収率を高水準に維持しながら宿主細胞由来不純物を効果的に排除できることを示した。</li>
+<li>ウイルスベクター製造のプロセスの経済性向上、スケールアップ容易化、およびCMCにおけるプラットフォーム構築に貢献する。</li>
+      </ul>
+      <a class="read-more" href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70413?af=R" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008436?dgcid=rss_sd_all" target="_blank" rel="noopener">バリア強化型ヒアルロン酸-ビリルビンナノ送達システムによる大腸炎における腸管バリア、免疫系、および腸内マイクロバイオームの相乗的調節</a>
+      </h2>
+      <p class="original-title">原題: Barrier-reinforcing hyaluronic acid-bilirubin nanodelivery of methylprednisolone for synergistic modulation of the intestinal barrier, immune system, and gut microbiome in colitis</p>
+      <ul class="points-list">
+        <li>潰瘍性大腸炎治療を目的として、メチルプレドニゾロンを搭載したヒアルロン酸-ビリルビン複合体ナノ粒子を開発し、腸管送達性を評価した。</li>
+<li>病変部への選択的送達に加え、酸化ストレスの軽減、腸管上皮バリアの修復、および腸内細菌叢の改善という相乗的な抗炎症効果を確認した。</li>
+<li>消化器系疾患に対する高分子・ナノ粒子ベースの標的DDS製剤設計において、多機能性キャリア活用の好例となる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008436?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス性、薬物動態、および免疫原性の概要</a>
+      </h2>
+      <p class="original-title">原題: Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity</p>
+      <ul class="points-list">
+        <li>PEG（ポリエチレングリコール）の代替として注目されるポリ（2-オキサゾリン）類およびポリ（2-オキサジン）類の物理化学的特性と生体適合性を総括している。</li>
+<li>血中滞留性（ステルス性）、薬物動態プロファイル、および抗PEG抗体等で見られる免疫原性回避の観点から優れた特性を持つことを整理した。</li>
+<li>次世代のナノ医薬品やタンパク質修飾（ポリマーコンジュゲーション）における新規キャリア選定の重要なリファレンスとなる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26001791?dgcid=rss_sd_all" target="_blank" rel="noopener">材料中心のオルガンのオン・アイチップシステムの設計：産業的トランスレーションと大量生産に向けて</a>
+      </h2>
+      <p class="original-title">原題: Material-centric design of organ-on-a-chip systems: Towards industrial translation and mass manufacturing</p>
+      <ul class="points-list">
+        <li>創薬スクリーニングや非臨床評価で利用されるオルガン・オン・チップ（OoC）技術について、材料科学的側面から産業化・量産化への課題とアプローチを議論している。</li>
+<li>生体適合性、薬物吸着性の抑制、微細加工性、および工業的生産に適した高分子材料の選定基準を体系的にまとめた。</li>
+<li>CMCや薬物動態スクリーニングの高度化に向けたインビトロ評価系プラットフォームの導入・製造管理に有益な視点を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26001791?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all" target="_blank" rel="noopener">自己組織化生分解性高分子ナノ粒子のインスリン封入に関する分子動力学およびクラスタリング解析</a>
+      </h2>
+      <p class="original-title">原題: Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation</p>
+      <ul class="points-list">
+        <li>タンパク質・ペプチド医薬品（インスリン）を生分解性高分子ナノ粒子に封入する際の相互作用を、分子動力学（MD）シミュレーションとクラスタリング手法で解析した。</li>
+<li>高分子鎖とインスリン間の水素結合や疎水性相互作用のダイナミクスを解明し、高効率な封入構造の条件を特定した。</li>
+<li>タンパク質・ペプチド医薬品のナノ粒子化製剤における合理的処方設計（Rational Design）の分子レベルでの理解を深める。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
