@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/10/15 (Thu)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/10/15 (Thu) ／ 5 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">アジュバント添加ワクチンのシェイクテスト：メーカーの視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>アジュバント添加ワクチンにおける物理的安定性評価としてのシェイクテストの有用性を、製造業者の視点から包括的に検証した。</li>
+<li>凍結ストレス等による凝集や沈降挙動の変化を迅速に検出できる実用的な評価指標としての特性を明らかにした。</li>
+<li>ワクチン製剤のコールドチェーン逸脱リスク管理や、現場での品質スクリーニングにおけるCMC上の実用的な指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all" target="_blank" rel="noopener">3次元ホモダイン光検出による散乱振幅の揺らぎを用いたタンパク質凝集体とシリコーンオイル滴の識別</a>
+      </h2>
+      <p class="original-title">原題: Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection</p>
+      <ul class="points-list">
+        <li>バイオ製剤の品質管理で課題となるタンパク質凝集体とシリンジ由来シリコーンオイル滴の正確な識別を目的として3次元ホモダイン光検出法を適用した。</li>
+<li>散乱振幅の揺らぎ解析により、両者の屈折率や形態的特性の違いを高精度に区別できることを実証した。</li>
+<li>注射剤の異物検査や不溶性微粒子評価において、偽陽性を排除した高信頼性な品質管理（QC）法としての応用が期待される。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003722?dgcid=rss_sd_all" target="_blank" rel="noopener">超遠心分離法を用いた血漿中における治療用ペプチドの非結合型画分に対する沈降の影響評価</a>
+      </h2>
+      <p class="original-title">原題: The effect of sedimentation on the unbound fraction of therapeutic peptides in plasma determined using ultra-centrifugation method</p>
+      <ul class="points-list">
+        <li>血漿中での治療用ペプチドの血漿蛋白結合率（非結合型画分）測定において、超遠心分離法におけるペプチドの沈降現象が測定値に与える影響を解析した。</li>
+<li>高分子量ペプチドや凝集傾向のある分子では沈降により遊離画分の評価に誤差が生じることを数理的・実験的に解明した。</li>
+<li>PK/PD相関解析や臨床前薬物動態評価における正確な血中遊離濃度の算定と、分析方法の最適化に重要な示唆を与える。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003722?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">遺伝性・希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外への展開</a>
+      </h2>
+      <p class="original-title">原題: Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation</p>
+      <ul class="points-list">
+        <li>核酸医薬（ASO、siRNA等）の臨床応用を加速するため、GalNAc抱合体による肝標的化技術および肝外組織への送達アーキテクチャの最新動向を総括した。</li>
+<li>細胞内取り込み効率、エンドソーム脱出メカニズム、および組織特異的な薬物動態を最適化する化学修飾・キャリア設計の要点を整理した。</li>
+<li>希少遺伝性疾患に対する次世代核酸医薬品のDDS設計およびCMC開発戦略のベンチマークとなる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Biotechnology and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70400?af=R" target="_blank" rel="noopener">バイオ医薬品の商業生産に向けた一貫したN-1シードバイオリアクター移送のためのバイオマニュファクチャリング・デジタルツイン</a>
+      </h2>
+      <p class="original-title">原題: A Biomanufacturing Digital Twin for Consistent N‐1 Seed Bioreactor Transfers for Commercial Monoclonal Antibody Production</p>
+      <ul class="points-list">
+        <li>モノクローナル抗体（mAb）の商業生産における上流工程（N-1シードバイオリアクターから生産 bioreactor への移送）のばらつきを抑制するため、デジタルツインモデルを構築した。</li>
+<li>プロセスパラメータのリアルタイム予測と制御により、細胞増殖およびCQA（製品品質重要特性）のバッチ間再現性を大幅に向上させた。</li>
+<li>Continuous ManufacturingやQuality by Design（QbD）を推進するスマートファクトリー構築において、上流工程のプロセス制御の標準化に貢献する。</li>
+      </ul>
+      <a class="read-more" href="https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70400?af=R" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>

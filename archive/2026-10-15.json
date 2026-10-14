@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンにおける物理的安定性評価としてのシェイクテストの有用性を、製造業者の視点から包括的に検証した。",
+        "凍結ストレス等による凝集や沈降挙動の変化を迅速に検出できる実用的な評価指標としての特性を明らかにした。",
+        "ワクチン製剤のコールドチェーン逸脱リスク管理や、現場での品質スクリーニングにおけるCMC上の実用的な指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "3次元ホモダイン光検出による散乱振幅の揺らぎを用いたタンパク質凝集体とシリコーンオイル滴の識別",
+      "original_title": "Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ製剤の品質管理で課題となるタンパク質凝集体とシリンジ由来シリコーンオイル滴の正確な識別を目的として3次元ホモダイン光検出法を適用した。",
+        "散乱振幅の揺らぎ解析により、両者の屈折率や形態的特性の違いを高精度に区別できることを実証した。",
+        "注射剤の異物検査や不溶性微粒子評価において、偽陽性を排除した高信頼性な品質管理（QC）法としての応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "超遠心分離法を用いた血漿中における治療用ペプチドの非結合型画分に対する沈降の影響評価",
+      "original_title": "The effect of sedimentation on the unbound fraction of therapeutic peptides in plasma determined using ultra-centrifugation method",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003722?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "血漿中での治療用ペプチドの血漿蛋白結合率（非結合型画分）測定において、超遠心分離法におけるペプチドの沈降現象が測定値に与える影響を解析した。",
+        "高分子量ペプチドや凝集傾向のある分子では沈降により遊離画分の評価に誤差が生じることを数理的・実験的に解明した。",
+        "PK/PD相関解析や臨床前薬物動態評価における正確な血中遊離濃度の算定と、分析方法の最適化に重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "遺伝性・希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外への展開",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬（ASO、siRNA等）の臨床応用を加速するため、GalNAc抱合体による肝標的化技術および肝外組織への送達アーキテクチャの最新動向を総括した。",
+        "細胞内取り込み効率、エンドソーム脱出メカニズム、および組織特異的な薬物動態を最適化する化学修飾・キャリア設計の要点を整理した。",
+        "希少遺伝性疾患に対する次世代核酸医薬品のDDS設計およびCMC開発戦略のベンチマークとなる。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品の商業生産に向けた一貫したN-1シードバイオリアクター移送のためのバイオマニュファクチャリング・デジタルツイン",
+      "original_title": "A Biomanufacturing Digital Twin for Consistent N‐1 Seed Bioreactor Transfers for Commercial Monoclonal Antibody Production",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70400?af=R",
+      "source": "Biotechnology and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "モノクローナル抗体（mAb）の商業生産における上流工程（N-1シードバイオリアクターから生産 bioreactor への移送）のばらつきを抑制するため、デジタルツインモデルを構築した。",
+        "プロセスパラメータのリアルタイム予測と制御により、細胞増殖およびCQA（製品品質重要特性）のバッチ間再現性を大幅に向上させた。",
+        "Continuous ManufacturingやQuality by Design（QbD）を推進するスマートファクトリー構築において、上流工程のプロセス制御の標準化に貢献する。"
+      ]
+    }
+  ]
+}
