@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンにおける物理的ストレス評価としてのシェイクテストについて、製造メーカーの視点から現状と課題を整理・考察している。",
+        "凍結ストレスなどの物理的不安定性に対する挙動や、製品の品質担保における試験の有用性と限界を実地データの観点から明らかにしている。",
+        "ワクチン製剤のコールドチェーン管理や現場での品質確認手法（サプライチェーン管理）における実用的な指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "3次元ホモダイン光検出を用いた散乱振幅の揺らぎによるタンパク質凝集体とシリコンオイル液滴の識別",
+      "original_title": "Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "物性・分析",
+      "points": [
+        "バイオ医薬品製剤の品質管理で課題となるタンパク質凝集体とシリンジ由来のシリコンオイル液滴の鑑別を目的として、3次元ホモダイン光検出による散乱振幅の揺らぎ解析手法を開発した。",
+        "両者の散乱特性の違いに基づく揺らぎの解析により、微粒子が混在する系でも高精度かつ迅速に両者を区別できることを実証した。",
+        "バイオ製剤の不溶性微粒子検査および品質評価において、偽陽性を防ぎ正確な凝集評価を行うための強力な分析ツールとなる。"
+      ]
+    },
+    {
+      "title_ja": "遺伝性および希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外送達",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬（ASO、siRNAなど）の臨床応用を加速させるため、確立されたGalNAc修飾による肝実質細胞への標的送達技術と、近年注目される肝外組織への送達戦略を総括している。",
+        "多様な化学修飾やキャリア構造が体内動態（PK/PD）および組織移行性に与える影響を整理し、最新の送達効率の改善データを提示している。",
+        "希少疾患や遺伝性疾患を標的とする核酸医薬のDDS設計、およびレギュラトリーサイエンスを考慮した製剤開発戦略に重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "L-ロイシンがトレハロース含有噴霧乾燥タンパク質粉末製剤の物理的安定性とエアロゾル化に及ぼす影響の理解（正誤表）",
+      "original_title": "Corrigendum to “Understanding the impact of L-leucine on physical stability and aerosolization of spray-dried protein powder formulations containing trehalose” [Int. J. Pharm. 677 (2025) 125636]",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732600935X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "吸入用タンパク質製剤の噴霧乾燥において、添加剤であるL-ロイシンとトレハロースが粉末の物理的安定性およびエアロゾル性能に及ぼす影響に関する論文の訂正版。",
+        "表面改質剤としてのL-ロイシンの局在化メカニズムと、長期保存時の物性変化に関する知見を修正・補足している。",
+        "吸入製剤（ドライパウダー：DPI）の処方設計および噴霧乾燥プロセスの最適化において、正確な処方パラメータの管理の重要性を再認識させる。"
+      ]
+    },
+    {
+      "title_ja": "グリーン蛍光タンパク質に融合した組換えタンパク質からの熱安定性に基づく生理活性ペディオシンの回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "生理活性ペプチドであるペディオシンを高効率に回収するため、緑色蛍光タンパク質（GFP）を融合タグとして利用した熱安定性ベースの精製プロセスを開発した。",
+        "GFPタグの熱耐性と蛍光モニタリングを活用することで、煩雑なクロマトグラフィー工程を簡素化しつつ、高純度かつ高収率での目的ペプチドの回収に成功した。",
+        "バイオ医薬品や機能性ペプチドの生産プロセスにおいて、コスト削減と高効率化を両立する新規ダウンストリームプロセス（DSP）の設計戦略を提供する。"
+      ]
+    }
+  ]
+}

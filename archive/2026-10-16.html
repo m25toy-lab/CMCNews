@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/10/16 (Fri)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/10/16 (Fri) ／ 5 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">アジュバント添加ワクチンのシェイクテスト：メーカーの視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>アジュバント添加ワクチンにおける物理的ストレス評価としてのシェイクテストについて、製造メーカーの視点から現状と課題を整理・考察している。</li>
+<li>凍結ストレスなどの物理的不安定性に対する挙動や、製品の品質担保における試験の有用性と限界を実地データの観点から明らかにしている。</li>
+<li>ワクチン製剤のコールドチェーン管理や現場での品質確認手法（サプライチェーン管理）における実用的な指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 物性・分析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all" target="_blank" rel="noopener">3次元ホモダイン光検出を用いた散乱振幅の揺らぎによるタンパク質凝集体とシリコンオイル液滴の識別</a>
+      </h2>
+      <p class="original-title">原題: Differentiation of protein aggregates and silicone oil droplets by fluctuation in scattering amplitude using three-dimensional homodyne light detection</p>
+      <ul class="points-list">
+        <li>バイオ医薬品製剤の品質管理で課題となるタンパク質凝集体とシリンジ由来のシリコンオイル液滴の鑑別を目的として、3次元ホモダイン光検出による散乱振幅の揺らぎ解析手法を開発した。</li>
+<li>両者の散乱特性の違いに基づく揺らぎの解析により、微粒子が混在する系でも高精度かつ迅速に両者を区別できることを実証した。</li>
+<li>バイオ製剤の不溶性微粒子検査および品質評価において、偽陽性を防ぎ正確な凝集評価を行うための強力な分析ツールとなる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003709?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">遺伝性および希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外送達</a>
+      </h2>
+      <p class="original-title">原題: Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation</p>
+      <ul class="points-list">
+        <li>核酸医薬（ASO、siRNAなど）の臨床応用を加速させるため、確立されたGalNAc修飾による肝実質細胞への標的送達技術と、近年注目される肝外組織への送達戦略を総括している。</li>
+<li>多様な化学修飾やキャリア構造が体内動態（PK/PD）および組織移行性に与える影響を整理し、最新の送達効率の改善データを提示している。</li>
+<li>希少疾患や遺伝性疾患を標的とする核酸医薬のDDS設計、およびレギュラトリーサイエンスを考慮した製剤開発戦略に重要な示唆を与える。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S037851732600935X?dgcid=rss_sd_all" target="_blank" rel="noopener">L-ロイシンがトレハロース含有噴霧乾燥タンパク質粉末製剤の物理的安定性とエアロゾル化に及ぼす影響の理解（正誤表）</a>
+      </h2>
+      <p class="original-title">原題: Corrigendum to “Understanding the impact of L-leucine on physical stability and aerosolization of spray-dried protein powder formulations containing trehalose” [Int. J. Pharm. 677 (2025) 125636]</p>
+      <ul class="points-list">
+        <li>吸入用タンパク質製剤の噴霧乾燥において、添加剤であるL-ロイシンとトレハロースが粉末の物理的安定性およびエアロゾル性能に及ぼす影響に関する論文の訂正版。</li>
+<li>表面改質剤としてのL-ロイシンの局在化メカニズムと、長期保存時の物性変化に関する知見を修正・補足している。</li>
+<li>吸入製剤（ドライパウダー：DPI）の処方設計および噴霧乾燥プロセスの最適化において、正確な処方パラメータの管理の重要性を再認識させる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S037851732600935X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">グリーン蛍光タンパク質に融合した組換えタンパク質からの熱安定性に基づく生理活性ペディオシンの回収</a>
+      </h2>
+      <p class="original-title">原題: Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein</p>
+      <ul class="points-list">
+        <li>生理活性ペプチドであるペディオシンを高効率に回収するため、緑色蛍光タンパク質（GFP）を融合タグとして利用した熱安定性ベースの精製プロセスを開発した。</li>
+<li>GFPタグの熱耐性と蛍光モニタリングを活用することで、煩雑なクロマトグラフィー工程を簡素化しつつ、高純度かつ高収率での目的ペプチドの回収に成功した。</li>
+<li>バイオ医薬品や機能性ペプチドの生産プロセスにおいて、コスト削減と高効率化を両立する新規ダウンストリームプロセス（DSP）の設計戦略を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
