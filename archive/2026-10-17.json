@@ -1,0 +1,65 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "title_ja": "核酸医薬溶液の凍結保存中におけるバイアル破損原因の究明およびバイアル歪みに対する内部コーティングの影響",
+      "original_title": "Investigation for the cause of vial breakage during frozen storage of nucleic acid drug solution and the effect of the internal coating on the vial strain",
+      "url": "https://www.sciencedirect.com/science/article/pii/S002235492600376X?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "凍結保存下での核酸医薬溶液（オリゴヌクレオチド製剤）充填ガラスバイアルの破損現象に着目し、凍結過程における氷晶形成挙動とバイアル壁面にかかる歪み応力の発生メカニズムを評価した。",
+        "核酸溶液の凍結濃縮および凍結界面の進行に伴う体積膨張が特定のバイアル領域に局所的な応力集中をもたらすことを突き止め、バイアル内面への低摩擦コーティングが氷とガラス界面の応力を逃がし歪みを大幅に低減することを実証した。",
+        "極低温（-80℃〜-20℃）での保管・輸送が要求される核酸医薬やmRNA-LNP製剤において、一次容器選定や内面処理（コーティング仕様）の最適化による破損リスク低減の定量的CMC設計指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "遺伝性および希少疾患に対するオリゴヌクレオチド治療薬の送達構造：GalNAcベースの肝細胞標的化と肝外展開",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "siRNAやアンチセンス核酸（ASO）など希少疾患向けオリゴヌクレオチド治療薬における、確立された三価GalNAc結合技術から中枢神経系・筋肉・腫瘍など肝外標的への送達アーキテクチャの変遷と最新技術を包括的に概説した。",
+        "ASGPRを介した高効率な肝取り込み機構の構造活性相関（SAR）を整理するとともに、抗体-核酸複合体（AOC）、脂質結合体、新規受容体リガンド修飾による肝外細胞特異的送達の工学的課題（エンドソーム脱出能や安定性）を比較提示した。",
+        "次世代核酸医薬のCMC開発において、化学修飾パターン、生体分子コンジュゲーションの均一性管理、分析手法（RP-HPLC、SEC等）および標的組織指向性製剤のスケールアップ戦略に必須の知見である。"
+      ]
+    },
+    {
+      "title_ja": "プレフィルドシリンジ製剤におけるストッパー変位予測のための計算・解析ハイブリッドモデル",
+      "original_title": "A hybrid computational-analytical model for the prediction of stopper displacement in drug product prefilled syringe",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003850?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "航空輸送時などの気圧変動や保管温度変化に伴い、プレフィルドシリンジ（PFS）内で発生するガスケット（ストッパー）の変位と密封性喪失リスクを予測するハイブリッド数値計算モデルを構築した。",
+        "ヘッドスペース体積、封入気体の状態方程式、バレル内壁とゴムストッパー間の摩擦力およびシール圧を連成解析し、様々な環境ストレス条件下でのストッパー移動量を高精度に予測・実験検証した。",
+        "バイオ医薬品コンビネーション製品（PFS/オートインジェクター）の施栓完全性（CCI）保証、充填工程におけるヘッドスペース許容基準設定、および輸送検証の設計（QbD）に直結する計算工学的アプローチである。"
+      ]
+    },
+    {
+      "title_ja": "アジュバント含有ワクチンの振とう試験（シェイクテスト）：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "規制・CMC",
+      "points": [
+        "アルミニウム塩アジュバント含有ワクチン製剤の偶発的凍結による変性判定に汎用される現場試験「シェイクテスト（振とう試験）」について、製薬メーカーの実務的視点からその妥当性、限界、および標準化課題を検証した。",
+        "凝集・沈降挙動はアジュバントの種類、抗原の物理化学的吸着状態、充填容量、バイアル材質によって大きく左右され、目視判定のみでは凍結履歴の有無を誤判定（偽陽性・偽陰性）するリスクが存在することをデータで示した。",
+        "コールドチェーン管理の逸脱リスク評価において、従来のシェイクテストに過度に依存せず、粒度分布測定や濁度測定などの客観的物理化学的試験法を統合した厳密な品質管理基準策定の必要性を提起している。"
+      ]
+    },
+    {
+      "title_ja": "ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の概観",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗PEG抗体の出現によりバイオ医薬品やナノ製剤で懸念されるABC（加速血液クリアランス）現象を克服するため、ポリエチレングリコール（PEG）代替親水性ポリマーであるPOxおよびPOziの機能特性を総括した。",
+        "これらのポリマーは極めて低い生体分子吸着性、優れた血液滞留性（ステルス能）、および低免疫原性を示し、ポリマー構造・分子量・末端官能基による生体内動態の精密チューニングが可能であることを体系化した。",
+        "バイオ医薬品修飾体、高分子ミセル、LNP構成成分としての安全性プロファイル向上および非PEG化DDSプラットフォーム開発に向けたCMC処方設計指針を提供する。"
+      ]
+    }
+  ]
+}
