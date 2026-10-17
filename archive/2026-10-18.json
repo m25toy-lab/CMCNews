@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-18",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性評価手法であるシェイクテストについて、製造メーカーの観点から現状と課題を検証・考察した。",
+        "凍結履歴等によるアジュバントの凝集や力価への影響を簡易的に検出する手法としての実用性と限界を明らかにした。",
+        "ワクチンのコールドチェーン管理および出荷前品質試験における実用的な品質管理（QC）手順の改善に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "核酸医薬溶液の凍結保存中におけるバイアル破損の原因調査とバイアル内面コーティングがバイアルひずみに及ぼす影響",
+      "original_title": "Investigation for the cause of vial breakage during frozen storage of nucleic acid drug solution and the effect of the internal coating on the vial strain",
+      "url": "https://www.sciencedirect.com/science/article/pii/S002235492600376X?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "核酸医薬溶液の凍結保存時におけるガラスバイアル破損の原因を調査し、内面コーティングがバイアルのひずみに与える影響を解析した。",
+        "凍結時の体積膨張と応力集中が破損の主因であり、特定の内面コーティング技術が応力緩和とバイアル破損防止に有効であることを示した。",
+        "不安定な核酸医薬の凍結保存プロセスおよび容器・施栓系（CCCS）の設計・最適化において重要なエンジニアリング知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ドラッグプロダクトプレフィルドシリンジにおけるプランジャー変位予測のためのハイブリッド計算・分析モデル",
+      "original_title": "A hybrid computational-analytical model for the prediction of stopper displacement in drug product prefilled syringe",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003850?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プレフィルドシリンジ（PFS）内のプランジャー（ゴム栓）の変位を予測するため、計算科学と分析手法を組み合わせたハイブリッドモデルを構築した。",
+        "シリンジの保管中や輸送中の圧力変化に起因するプランジャーの移動挙動を高精度に予測できることを実証した。",
+        "バイオ医薬品液剤を充填したPFSの容器完全性試験（CCI）や、ライフサイクルを通じた品質保証（QA）の効率化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "遺伝子疾患および希少疾患におけるオリゴヌクレオチド医薬品の送達アーキテクチャ：GalNAcベースの肝実質細胞標的化と肝外送達",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "遺伝子疾患・希少疾患を対象としたオリゴヌクレオチド医薬品の送達システムについて、GalNAcコンジュゲートによる肝標的化と肝外組織への送達技術を包括的にレビューした。",
+        "各送達アーキテクチャの体内動態、細胞取り込みメカニズム、および治療上の有効性の比較データを整理した。",
+        "次世代核酸医薬品のDDS設計およびCMC戦略において、組織特異的送達を最適化するための指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "PEG（ポリエチレングリコール）の代替として注目されるポリ（2-オキサゾリン）およびポリ（2-オキサジン）の物理化学的性質、ステルス性、薬物動態（PK）、免疫原性を総括した。",
+        "抗PEG抗体の問題に対する優れた代替高分子として、血中滞留性や生体適合性のデータを詳細に比較・分析した。",
+        "DDSキャリアのPEG化における免疫学的課題を克服するための新たな製剤材料選択肢として、CMC開発に重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "自己組織化生分解性高分子ナノ粒子によるインスリン封入の分子動力学およびクラスタリング解析",
+      "original_title": "Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生分解性高分子ナノ粒子を用いたインスリン封入メカニズムを、分子動力学（MD）シミュレーションとクラスタリング解析により原子レベルで解析した。",
+        "高分子とタンパク質間の相互作用およびナノ粒子の自己組織化プロセスにおける構造変化の主要因を特定した。",
+        "タンパク質・ペプチド医薬品のナノ粒子化製剤設計における論理的アプローチ（QbDアプローチ）の基盤データを提供する。"
+      ]
+    },
+    {
+      "title_ja": "HPMCフタレート系単離フィルムの透過性に及ぼす水性エタノール系媒体の影響に関する機構的洞察",
+      "original_title": "Mechanistic insights into the influence of aqueous ethanolic media on the permeability of HPMC phthalate-based isolated films",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002791?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "腸溶性コーティング基剤であるHPMCフタレートのフィルム透過性に、水性エタノール溶媒組成が与える影響とそのメカニズムを解明した。",
+        "溶媒組成の変化に伴うポリマー鎖のコンフォメーション変化や可塑化状態が、水分および薬物の透過挙動に直結することを明らかにした。",
+        "コーティング工程における溶媒選択やプロセスパラメータの最適化、ならびに製品の品質安定化に向けた科学的根拠を提供する。"
+      ]
+    },
+    {
+      "title_ja": "トレハロースを含む噴霧乾燥タンパク質粉末製剤の物理的安定性とエアロゾル化に対するL-ロイシンの影響の理解に関する正誤表",
+      "original_title": "Corrigendum to “Understanding the impact of L-leucine on physical stability and aerosolization of spray-dried protein powder formulations containing trehalose” [Int. J. Pharm. 677 (2025) 125636]",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732600935X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "吸入用タンパク質製剤の噴霧乾燥プロセスにおけるL-ロイシンとトレハロースの添加効果を評価した重要論文の訂正版。",
+        "粉末の物理的安定性および微粒子画分（FPF）などのエアロゾル化特性に関するデータの正確性を担保するもの。",
+        "呼吸器投与製剤（吸入製剤）の処方設計および噴霧乾燥条件の最適化における信頼性の高いリファレンスとなる。"
+      ]
+    },
+    {
+      "title_ja": "緑色蛍光タンパク質（GFP）に融合した組換えタンパク質からの生物活性ペディオシンの熱安定性に基づく回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "GFPとの融合タンパク質として発現させた抗菌ペプチド（ペディオシン）を、熱安定性を利用して効率的に回収・精製する新規バイオプロセスを開発した。",
+        "目的タンパク質の高純度な回収と活性保持を両立させ、複雑な精製工程の簡素化に成功した。",
+        "バイオ医薬品や有用生理活性ペプチドの川上・川下プロセス（Downstream Process）におけるコスト削減と収率向上のヒントを提供する。"
+      ]
+    },
+    {
+      "title_ja": "銅フリーのクリック可能なアルギン酸マイクロカプセル：RGD-DWIVA分岐ペプチドのin situ共役による早期骨芽細胞分化の促進",
+      "original_title": "Copper-free clickable alginate microcapsules promote early osteogenic differentiation by in situ conjugation of RGD-DWIVA branched peptides",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002720?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "生体適合性の高いアルギン酸マイクロカプセル表面に、銅フリークリック化学を用いてペプチドをその場で修飾する技術を開発した。",
+        "細胞接着性と分化誘導能が大幅に向上し、早期の骨芽細胞分化を効果的に促進することを確認した。",
+        "再生医療用スキャフォールドや細胞治療製品の表面修飾・品質設計における新しい生体材料工学的手法を提示する。"
+      ]
+    }
+  ]
+}
