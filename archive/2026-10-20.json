@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "title_ja": "弱酸性Protein A溶出と酸性領域陰イオン交換膜を用いたモノクローナル抗体精製のための単一pH連結ポリッシング工程の実現可能性評価",
+      "original_title": "Feasibility Assessment of a Single‐pH Connected Polishing Train for Monoclonal Antibody Purification Using Mildly Acidic Protein A Elution and an Acidic‐Window Anion Exchange Membrane",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70415?af=R",
+      "source": "Biotechnology and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体精製プロセス（ダウンストリーム）の簡素化・連続化を目指し、Protein A溶出液のpH調製工程を省略して単一の弱酸性pH条件下で陰イオン交換（AEX）膜メンブレンクロマトグラフィーに直接連結する統合ポリッシング工程の構築を検証した。",
+        "弱酸性溶出条件と酸性pH領域で機能する新規AEXメンブレンを組み合わせることで、従来の緩衝液交換やpH中和を行うことなく、宿主細胞由来タンパク質（HCP）やDNA、凝集体を高いクリアランス能で除去できることを実証した。",
+        "pH調整・中間ホールドタンクの削減により、mAb連続生産（Continuous Bioprocessing）のフットプリント削減、処理時間短縮、およびプロセス起因凝集リスクの低減に直結する有望なCMC戦略を提供する。"
+      ]
+    },
+    {
+      "title_ja": "医薬品プレフィルドシリンジにおけるプランジャー（ガスケット）移動を予測するためのハイブリッド計算-解析モデル",
+      "original_title": "A hybrid computational-analytical model for the prediction of stopper displacement in drug product prefilled syringe",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003850?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "空輸や環境気圧・温度変化に伴うプレフィルドシリンジ（PFS）内のヘッドスペース圧変動が引き起こすストッパー（ガスケット）の変位を定量予測するため、計算力学と理論解析を統合したハイブリッド予測モデルを開発した。",
+        "ヘッドスペース体積、液剤粘度、シリンジバレルとストッパー間の摩擦抵抗（しゅう動性）および気圧変化速度をパラメータとし、ストッパー変位の挙動を高い精度でシミュレーションすることに成功した。",
+        "コンテナ施栓系（CCI）の完全性維持、気圧変化による無菌性破壊リスクや漏液防止の事前予測が可能となり、一次容器の選定基準および流通・輸送条件の設計空間（Design Space）設定に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "アジュバント添加ワクチンにおけるシェイクテスト：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "規制・CMC",
+      "points": [
+        "アルミニウム等のアジュバント含有ワクチンが偶発的な凍結融解に曝された際の品質劣化（ゲル構造破壊・凝集）を現場で判定する「シェイクテスト（振とう試験）」について、製造業者の観点からその科学的妥当性と限界を評価した。",
+        "沈降挙動や濁度変化に基づく目視判定プロトコルの感度・特異度を、動的光散乱（DLS）や粒子カウンター等の高度物性測定データと体系的に比較検証し、誤判定が生じる境界条件を明らかにした。",
+        "コールドチェーン逸脱時のリリース・廃棄基準の標準化、治験薬・市販品の品質保証ガイドライン策定、およびより定量的・客観的なオンサイト代替分析手法の開発指針を提示している。"
+      ]
+    },
+    {
+      "title_ja": "遺伝性疾患および希少疾患におけるオリゴ核酸治療薬の送達アーキテクチャ：GalNAcベースの肝細胞標的化と肝外送達への展開",
+      "original_title": "Delivery architectures for oligonucleotide therapeutics in genetic and rare diseases: GalNAc-based hepatocyte targeting and extrahepatic translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008357?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ASOやsiRNAなどの核酸医薬における確立されたGalNAc抱合プラットフォームの分子構造・結合価数・リンカー設計を総括し、肝細胞からCNS・筋肉・腎臓などの肝外組織標的化へ展開するための最新コンジュゲート技術をレビューした。",
+        "受容体介在性エンドサイトーシスを最大化するリガンド密度や、エンドソーム脱出効率を改善するケミカルモディフィケーション（修飾核酸・脂質複合体等）の相乗的アーキテクチャについて詳細な知見を整理した。",
+        "核酸原薬の化学合成プロセス、不純物プロファイルの管理、および生体内送達効率を両立させる次世代核酸製剤のCMC開発指針として実用的な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗PEG抗体の出現による血中半減期低下やアナフィラキシーリスクを克服する代替親水性ポリマーとして、ポリ(2-オキサゾリン)（POx）およびポリ(2-オキサジン)（POzi）のバイオ医薬修飾への適用性を網羅的に評価した。",
+        "POx/POzi修飾体は優れた血中滞留性（ステルス性）を示しつつ、PEGと比較して反復投与時の抗体産生（ABC現象等）が有意に低く、優れた生体適合性と明確な構造制御能を持つことが示された。",
+        "PEG化製剤の安全性・有効性プロファイルの刷新、バイオベターやLNP構成成分の改変において、次世代高分子修飾プラットフォームのCMC品質基準設定に資する基盤データとなる。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよびラジオコンジュゲートのための生体直交化学",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "放射性同位元素標識抗体・ペプチド（RDC）や診断治療一体化（セラノスティクス）製剤の創製に不可欠なクリックケミストリー（IEDDAやSPAAC等）の反応機構、生体適合性、反応キネティクスを精査した。",
+        "プレターゲティング戦略における生体内カップリング反応の迅速性、高収率化、副反応低減を両立する新規二官能性リンカーやキレート剤結合プロトコルの最適化手法を体系化した。",
+        "ADC（抗体薬物複合体）や放射性医薬品の均一性（DAR制御）、化学的安定性確保、およびスケールアップ時の結合反応制御に関するCMC要件を提示している。"
+      ]
+    }
+  ]
+}
