@@ -1,0 +1,101 @@
+{
+  "date": "2026-10-21",
+  "articles": [
+    {
+      "title_ja": "ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗PEG抗体の出現に伴うPEG化バイオ医薬品・ナノ製剤の薬効低下や副反応を克服するため、代替親水性ポリマーであるポリ(2-オキサゾリン)(POx)およびポリ(2-オキサジン)(POzi)の構造特性、体内動態、免疫応答をレビュー。",
+        "POxおよびPOziはPEGと同等以上の優れた生体適合性とタンパク質非特異吸着抑制能を示し、ポリマー側鎖修飾による精密な親疎水性制御と低免疫原性を両立可能であることを提示。",
+        "PEG代替ポリマーとしての修飾抗体、ADC、高分子ナノ粒子（LNP等）へのコンジュゲーション設計において、反復投与時の抗体産生回避やクリアランス制御を見据えたCMC戦略の基盤情報を提供。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよび放射性コンジュゲートに向けた生体直交性化学",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体や標的ペプチドに放射性同位体や診断・治療用分子を部位特異的に結合させる生体直交性反応（クリックケミストリー、テトラジンライゲーション等）の最新進展と応用を整理。",
+        "生体内プレターゲティング戦略における高反応速度、高い生体安定性、非特異的結合の低減により、標的組織への高集積化と正常組織への被ばく・副作用軽減を実証した事例を体系化。",
+        "抗体-薬物複合体(ADC)やラジオイムノコンジュゲートの製造において、均一なDAR（薬物抗体比）の確保、高収率かつ温和な条件下での部位特異的結合プロセス構築への指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "アジュバント添加ワクチンに対するシェイクテスト：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アルミニウムアジュバント吸着ワクチンが凍結融解損傷を受けたか否かを判定する現場簡便法「シェイクテスト（振とう試験）」について、製薬企業の製造・品質保証視点からその妥当性と課題を検証。",
+        "粒子沈降速度の目視比較に基づく従来判定法に対し、コロイド分散性、凝集塊形成機構、製剤組成やバイアル形状・材質が沈降挙動の判別に及ぼす影響を物理化学的観点から解析。",
+        "コールドチェーン逸脱時の品質保証プロセスにおいて、シェイクテストの感度限界と代替・補完的な機器分析法（光散乱法や濁度測定等）の導入および管理基準設定の重要性を指摘。"
+      ]
+    },
+    {
+      "title_ja": "インスリン封入のための自己組織化生分解性高分子ナノ粒子の分子動力学およびクラスタリング解析",
+      "original_title": "Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all",
+      "source": "EJPB",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "経口インスリン送達を目指した生分解性ポリマーナノ粒子において、高分子鎖とインスリンの相互作用、自己組織化メカニズム、封入効率を分子動力学(MD)シミュレーションおよびクラスター解析により解明。",
+        "ポリマーの親疎水性バランスや電荷分布がナノ粒子コア内部でのインスリンの構造保持（高次構造変性の抑制）および安定な複合体形成に果たす重要パラメータを原子レベルで特定。",
+        "バイオペプチド・タンパク質医薬品の高分子ナノキャリア設計において、封入時の立体構造保護と放出制御を両立させる合理的な処方スクリーニング手法を提供。"
+      ]
+    },
+    {
+      "title_ja": "精密セラノスティクスのためのレドックス応答性ペプチド自己組織化体",
+      "original_title": "Redox-responsive peptide assemblies for precision theranostic",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腫瘍細胞内や炎症局所に特有の酸化還元微小環境（グルタチオン濃度差や活性酸素種）に応答して構造転移・解離する機能性ペプチド自己組織化ナノキャリアの設計戦略を総括。",
+        "ジスルフィド結合やジセレニド結合の精密導入により、血中循環時の安定性と標的部位特異的な急速薬物放出、蛍光・MRIシグナル増強を両立したシステム特性を解説。",
+        "ペプチド医薬および低分子抗がん剤の内包におけるキャリア自体の生体分解性・低毒性を担保しつつ、刺激応答性の刺激閾値をCMC工程で安定的に制御するための設計要件を提示。"
+      ]
+    },
+    {
+      "title_ja": "チェックポイント阻害療法の経口増強に向けたスケール培養可能な腸内細菌叢由来ナノ小胞",
+      "original_title": "Scalable cultured gut microbiota-derived nanovesicles for oral augmentation of checkpoint blockade therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008606?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗PD-(L)1抗体等の免疫チェックポイント阻害剤の治療効果を高めるため、大量培養が可能な有用腸内細菌株から分泌される外膜小胞（ナノ小胞）の経口送達プラットフォームを開発。",
+        "スケーラブルな培養・単離プロセスにより均一なナノ小胞を調製し、経口投与により腸管免疫系および腸内微小環境をリモデリングして抗腫瘍免疫応答を有意に増強することを確認。",
+        "細菌由来細胞外小胞（bEVs）の医薬品化に向けた大量培養・回収プロセス設計、バッチ間再現性、および不純物管理を含むCMC開発のモデルケースを提示。"
+      ]
+    },
+    {
+      "title_ja": "腫瘍内治療用タンパク質発現を強化するための強力な嫌気性大腸菌プロモーターのスクリーニング",
+      "original_title": "Screening strong anaerobic <em>E. coli</em> promoters to enhance therapeutical protein expression in tumors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008114?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "腫瘍内低酸素領域に特異的に集積する細菌送達ベクターを用いた治療用タンパク質局所産生において、高い発現強度と嫌気誘導性を持つ大腸菌プロモーターを網羅的に同定・評価。",
+        "常酸素下での漏出発現を最小限に抑えつつ、嫌気条件下で高レベルに目的タンパク質（サイトカインや抗体フラグメント等）を誘導発現できるプロモーター配列群を選抜。",
+        "遺伝子組換え生菌製剤（Live Biotherapeutic Products: LBP）を用いた生体内タンパク質局所発現システムにおける、発現カセット設計と安全管理・有効性制御のCMC指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "GFP融合組換えタンパク質からの熱安定性に基づく生理活性ペディオシンの回収法",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "JBB",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "発現が困難な抗菌ペプチドであるペディオシンをGFPとの融合タンパク質として大腸菌で可溶性発現させ、ペディオシンの高熱安定性を利用してGFPを選択的熱変性・沈殿除去する精製プロセスを開発。",
+        "熱処理工程によるワンステップ処理で宿主由来タンパク質(HCP)の大部分を凝集・除去し、クロマトグラフィー工程を簡略化しながら高い抗菌活性を保持したペディオシンを回収。",
+        "難発現・難精製ペプチドや熱耐性バイオ医薬品の下流精製（ダウンストリームプロセス）において、コスト低減と高純度化を両立する新規分離技術の可能性を実証。"
+      ]
+    }
+  ]
+}
