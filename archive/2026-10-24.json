@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-24",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性評価におけるシェイクテストの有用性について、メーカーの観点から調査・検証を行った。",
+        "凍結ストレスなどの物理的ストレスに対するワクチン製剤の挙動と凝集リスクに関する実践的な知見を得た。",
+        "ワクチン製品のコールドチェーン管理および品質保証（QC）における簡易試験法としての適用性と限界を示唆している。"
+      ]
+    },
+    {
+      "title_ja": "生理学的に妥当な食餌性胃pHプロファイルによる食物効果予測精度の向上",
+      "original_title": "A physiologically relevant fed gastric pH profile improves the prediction of food effects",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003898?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "経口製剤の体内動態における「食物効果」を高精度に予測するため、生理学的に妥当な食餌性胃pHプロファイルを取り入れたモデルを構築した。",
+        "食事による胃内pH変動が薬物の溶解性および吸収に与える影響をシミュレーションし、実験データとの高い相関を確認した。",
+        "難溶性化合物の早期製剤設計や、IVIVC（体内外相関）構築における予測性向上に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "標的特異的なバイオフィルム浸透およびメチシリン耐性黄色ブドウ球菌の根絶に向けたマクロファージ膜皮膜型脂質-高分子ハイブリッドナノ粒子",
+      "original_title": "Macrophage-membrane-camouflaged lipid–polymer hybrid nanoparticles for target-specific biofilm penetration and eradication of methicillin-resistant staphylococcus aureus",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003758?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "マクロファージ細胞膜をコーティングした脂質-高分子ハイブリッドナノ粒子を設計し、薬剤耐性菌バイオフィルムへの送達効率を評価した。",
+        "バイオフィルム内部への深部浸透と、メチシリン耐性黄色ブドウ球菌（MRSA）に対する優れた殺菌・根絶効果を実証した。",
+        "難治性感染症に対する高度なDDS（ドラッグデリバリーシステム）設計および表面修飾ナノ粒子のCMC評価に有用な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "レトロゾール誘導体標的送達のためのインバソームナノキャリア：乳がん軽減のための新しい戦略",
+      "original_title": "Invasomes nanocarriers for targeted delivery of letrozole derivative: A novel strategy to mitigate breast cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003710?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "抗がん剤（レトロゾール誘導体）の経皮および標的送達効率を高めるため、テルペン含有リポソーム様キャリアであるインバソームを開発した。",
+        "小粒子径、高い薬物包封率、および皮膚透過性の飛躍的な向上をイン・ビトロ/イン・ビボで確認した。",
+        "乳がん治療に向けた経皮吸収型製剤や局所DDS製剤の開発において、新規ナノキャリアの最適化手法を提示する。"
+      ]
+    },
+    {
+      "title_ja": "トリアムシノロンアセトニドの局所送達に向けた酵素的脱ガラクトース化キシログルカンin situゲル",
+      "original_title": "Enzymatically degalactosylated xyloglucan in situ gels for topical delivery of triamcinolone acetonide",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003904?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生体温応答性・粘着性を持つキシログルカンを酵素的に脱ガラクトース化し、トリアムシノロンアセトニドの局所投与用in situゲルを調製した。",
+        "ゲル化挙動の制御および持続的な薬物放出プロファイルの最適化に成功した。",
+        "局所投与製剤における薬物動態のコントロールおよび製剤学的特性（粘度、レオロジー）の制御に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "空間的時間的に制御された精密タンパク質分解のためのデュアルゲート操作型細菌プラットフォーム",
+      "original_title": "A dual-gated engineered bacterial platform for spatiotemporally controlled precise protein degradation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "特定の微小環境や外因性シグナルに応じて標的タンパク質を精密に分解・制御する、デュアルゲート型の遺伝子回路を持つ細菌プラットフォームを構築した。",
+        "in vivoでの優れたスパイオロジカル制御性と、標的疾患部位での特異的なタンパク質ノックダウン効果を実証した。",
+        "遺伝子治療や次世代生きた医薬品（Live Biotherapeutic Products）における先進的な機能制御設計の基盤となる。"
+      ]
+    },
+    {
+      "title_ja": "細胞外小胞と生体分子の相互作用の解明：生体分子コロナが細胞外小胞の体内動態とクリアランスに与える影響",
+      "original_title": "Decoding extracellular vesicle–biomolecule interactions: How the biomolecular corona shapes extracellular vesicle biodistribution and clearance in vivo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008515?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "細胞外小胞（EV）を生体内に投与した際に形成される「生体分子コロナ」が、体内動態やクリアランス機構に与える影響を網羅的に解析した。",
+        "コロナの組成がEVの血中滞留性や標的組織への移行性に決定的な役割を果たしていることを解明した。",
+        "EV製剤（エクソソーム医薬）の薬物動態プロファイル予測、表面修飾、および品質評価における重要パラメータを提示する。"
+      ]
+    },
+    {
+      "title_ja": "活性ケロイド治療に向けた、金属フェノール系セルバックパックを統合した機械的適応型デュアル架橋ハイドロゲル",
+      "original_title": "Mechanically adaptive dual-crosslinked hydrogel integrated with metal-phenolic cell backpacks for active keloid therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926007777?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ケロイドの組織特性に合わせた機械的物性を持つデュアル架橋ハイドロゲルに、金属フェノール系細胞バックパックを組み込んだ治療システムを開発した。",
+        "患部の線維化抑制および持続的な抗炎症・組織修復効果を動物モデルで確認した。",
+        "局所適用ハイドロゲル製剤における機械的物性の最適化およびセルのキャリア化に関する新しいアプローチを提供する。"
+      ]
+    },
+    {
+      "title_ja": "チェックポイント阻害療法の経口増強に向けた、スケーラブルな培養腸内細菌叢由来ナノ小胞",
+      "original_title": "Scalable cultured gut microbiota-derived nanovesicles for oral augmentation of checkpoint blockade therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008606?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "培養可能な腸内細菌叢からスケーラブルに取得できるナノ小胞を作製し、免疫チェックポイント阻害剤の経口増強効果を評価した。",
+        "経口投与により腸管免疫系を介して腫瘍微小環境を改善し、抗腫瘍免疫を相乗的に高めることを示した。",
+        "マイクロバイオーム関連DDS製剤の大規模培養・精製プロセス（バイオプロセス）および経口製剤化への道を開く。"
+      ]
+    },
+    {
+      "title_ja": "腫瘍内での治療用タンパク質発現を高めるための強力な偏性嫌気性大腸菌プロモーターのスクリーニング",
+      "original_title": "Screening strong anaerobic E. coli promoters to enhance therapeutical protein expression in tumors",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008114?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腫瘍内の低酸素・嫌気的環境を利用して治療用タンパク質を効率的に発現させるため、新規の大腸菌嫌気性プロモーターをスクリーニングした。",
+        "腫瘍特異的に高レベルのタンパク質発現を誘導できる強力なプロモーター配列を同定した。",
+        "細菌ベースの腫瘍ターゲティング療法や遺伝子送達システムにおける発現カセットの最適化に直結する。"
+      ]
+    },
+    {
+      "title_ja": "構造-相互作用-性能の関係性：分子シミュレーションと実験的キャラクタリゼーションによるケルセチン系共非晶質系の洞察",
+      "original_title": "Structure–interaction–performance relationships in quercetin-based co-amorphous systems: insights from molecular simulations and experimental characterization",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002833?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難溶性ポリフェノールであるケルセチンを用いた共非晶質系について、分子動力学シミュレーションと物理化学的分析（DSC、PXRD等）を組み合わせて解析した。",
+        "分子間相互作用と物理的安定性・溶解性向上との相関関係を明らかにした。",
+        "非晶質固形分散体（ASD）や共非晶質製剤の開発において、分子レベルの知見に基づく合理的処方設計を支援する。"
+      ]
+    },
+    {
+      "title_ja": "HPMCフタレート系単離フィルムの透過性に対する水性エタノール系メディアの影響に関する機械論的洞察",
+      "original_title": "Mechanistic insights into the influence of aqueous ethanolic media on the permeability of HPMC phthalate-based isolated films",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002791?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "腸溶性コーティング基剤として広く使われるHPMCフタレートのフィルム物性と透過性に対し、水-エタノール混合溶媒が与える影響をメカニカルに解析した。",
+        "溶媒組成によるポリマー鎖の膨潤挙動や結晶化度の変化が、薬物透過速度を変動させる要因を特定した。",
+        "コーティングプロセスや溶出試験（アルコール誘発性ドゥンプニング評価など）における品質管理の重要な注意点を提供する。"
+      ]
+    },
+    {
+      "title_ja": "局所コルチコステロイド送達のための脂質ナノキャリアの合理的選択",
+      "original_title": "Rational selection of lipid nanocarriers for topical corticosteroid delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002808?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "コルチコステロイドの皮膚局所送達効率を最大化するため、各種脂質ナノキャリア（SLN、NLC等）の物性比較と合理的選択基準を検討した。",
+        "キャリアの組成、粒子径、薬物抱封率が皮膚透過性と貯留性に及ぼす影響を系統的に評価した。",
+        "皮膚科学的外用製剤の処方スクリーニングおよび品質プロファイルの設計に有用なガイドラインを与える。"
+      ]
+    },
+    {
+      "title_ja": "プロポフォールエステルプロドラッグの溶解度、化学的安定性、および生体活性化に対する側鎖効果",
+      "original_title": "Side-chain effects on solubility, chemical stability, and bioactivation of propofol ester prodrugs",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002821?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プロポフォールのエステルプロドラッグにおいて、導入する側鎖の化学構造が水への溶解度、溶液中での化学的安定性、および加水分解による生体活性化速度に与える影響を評価した。",
+        "側鎖の立体・電子効果を体系化し、薬物動態と保存安定性のバランスを最適化する構造特長を明らかにした。",
+        "注射剤や他の投与経路におけるプロドラッグ設計の化学的・製剤学的合理化に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "インスリン封入用自己組み立て型生分解性高分子ナノ粒子の分子動力学およびクラスター解析",
+      "original_title": "Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "インスリン封入を目的とした生分解性高分子ナノ粒子の自己組み立てプロセスを分子動力学（MD）シミュレーションにより解析した。",
+        "高分子とインスリン間の相互作用パターンやクラスター形成挙動を原子レベルで視覚化・定量化した。",
+        "タンパク質・ペプチド医薬用ナノ粒子キャリアのインシリコスクリーニングおよび処方最適化の強力なアプローチを示す。"
+      ]
+    }
+  ]
+}
