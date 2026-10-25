@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/10/25 (Sun)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/10/25 (Sun) ／ 6 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-cmc">📋 規制・CMC</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">アジュバント含有ワクチンのためのシェイクテスト：製造業者の視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>凍結融解によって不可逆的に凝集・沈降速度が変化するアルミニウムアジュバント含有ワクチンについて、コールドチェーン逸脱時の品質判定法であるシェイクテストの妥当性を製造者視点から評価。</li>
+<li>凍結履歴を持つバイアルと未凍結バイアルの沈降挙動の差を体系的に解析し、目視判定プロトコルの信頼性と感度に影響を及ぼす製剤学的要因（粒子径、アジュバント種、バイアル形状）を特定。</li>
+<li>WHO推奨の現場検査法を商用製剤の品質保証や流通時の安定性担保戦略（コールドチェーンマネジメント）へ組み込むための実践的な運用基準およびバリデーション指針を提示。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の包括的概要</a>
+      </h2>
+      <p class="original-title">原題: Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity</p>
+      <ul class="points-list">
+        <li>抗PEG抗体の出現や加速血液クリアランス（ABC現象）を克服する次世代ステルスポリマーとして、ポリ(2-オキサゾリン)（POx）およびポリ(2-オキサジン)（POz）の特性を総括。</li>
+<li>両ポリマーが示す優れた親水性、生体適合性、狭い分子量分布、体内動態プロファイル、およびPEGと比較した顕著に低い免疫原性データを整理・提示。</li>
+<li>抗体医薬品、核酸医薬、脂質ナノ粒子（LNP）のPEG代替コーティングポリマーとしての分子設計方針やCMC開発における実用化課題を明示。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008515?dgcid=rss_sd_all" target="_blank" rel="noopener">細胞外小胞と生体分子の相互作用の解明：生体分子コロナが生体外小胞の生体内分布とクリアランスをどのように決定するか</a>
+      </h2>
+      <p class="original-title">原題: Decoding extracellular vesicle–biomolecule interactions: How the biomolecular corona shapes extracellular vesicle biodistribution and clearance in vivo</p>
+      <ul class="points-list">
+        <li>ドラッグデリバリー担体として注目される細胞外小胞（EV）が、生体内投与後に血中タンパク質等を吸着して形成する「バイオモレキュラーコロナ」の形成機序を解析。</li>
+<li>コロナを構成するアポリポタンパク質や補体成分が、EVの網内系（RES）捕捉、肝臓・脾臓への生体内分布、および血中半減期に直接的な影響を与えることを実証。</li>
+<li>EVを用いたバイオ医薬品DDSの再現性確保と標的指向性維持には、製剤段階での表面修飾制御と生体分子コロナ形成の事前予測・プロファイル評価が不可欠であることを示唆。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008515?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">セラノスティクスおよび放射性複合体のための生体直交化学</a>
+      </h2>
+      <p class="original-title">原題: Bioorthogonal chemistries for theranostics and radioconjugates</p>
+      <ul class="points-list">
+        <li>抗体放射性同位体複合体（RDC/ADC）やセラノスティクス分野で活用されるクリックケミストリー（IEDDA、SPAAC等）などの生体直交型結合反応の進展を総括。</li>
+<li>抗体や標的ペプチドの結合活性・構造安定性を損なわずに、温和な条件下で高収率かつ位置特異的に放射性核種やキレート剤を結合させる最新ケミストリーを分類・比較。</li>
+<li>前臨床から臨床応用におけるコンジュゲーション再現性、副反応抑制、均一な結合比（DAR制御）など、バイオ医薬品製造・CMC品質管理における要件を明確化。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 物性・分析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all" target="_blank" rel="noopener">インスリン封入のための自己組織化生分解性高分子ナノ粒子の分子動力学およびクラスタリング解析</a>
+      </h2>
+      <p class="original-title">原題: Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation</p>
+      <ul class="points-list">
+        <li>生分解性ポリマーを用いたナノ粒子内へのインスリン封入過程と自己組織化挙動を、全原子分子動力学（MD）シミュレーションおよびクラスタリング手法により原子レベルで解析。</li>
+<li>ポリマー親疎水性セグメントとインスリン表面残基との相互作用様式を特定し、インスリンの二次構造・高次構造安定性を保持したまま高封入率を達成する凝集メカニズムを解明。</li>
+<li>タンパク質・ペプチド医薬品のナノキャリア製剤設計において、試作実験数を削減し製剤安定性を合理的に高める計算化学（in silico）CMCアプローチの有用性を実証。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008643?dgcid=rss_sd_all" target="_blank" rel="noopener">アネキシンA5改変ナノワクチンによる時空間的抗原放出と貪食チェックポイント阻害の同期化による強力なin situがん免疫療法</a>
+      </h2>
+      <p class="original-title">原題: Annexin A5-engineered nanovaccines synchronize spatiotemporal antigen release with phagocytosis checkpoint blockade for potent in situ cancer immunotherapy</p>
+      <ul class="points-list">
+        <li>アポトーシス細胞表面のホスファチジルセリンに高親和性を示すアネキシンA5を提示し、抗原放出と貪食シグナル活性化を同期制御するナノワクチン製剤を開発。</li>
+<li>腫瘍局所での選択的な抗原提示細胞（樹状細胞・マクロファージ）への抗原送達と「don't eat me」シグナル阻害の相乗効果により、強力な抗腫瘍細胞傷害性T細胞応答を誘導。</li>
+<li>タンパク質工学的に改変したリガンドと抗原を精密に集積させる高機能ナノ粒子製剤の設計戦略および免疫製剤の局所DDS構築法を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008643?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>

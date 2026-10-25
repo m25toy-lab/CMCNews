@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-25",
+  "articles": [
+    {
+      "title_ja": "アジュバント含有ワクチンのためのシェイクテスト：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "規制・CMC",
+      "points": [
+        "凍結融解によって不可逆的に凝集・沈降速度が変化するアルミニウムアジュバント含有ワクチンについて、コールドチェーン逸脱時の品質判定法であるシェイクテストの妥当性を製造者視点から評価。",
+        "凍結履歴を持つバイアルと未凍結バイアルの沈降挙動の差を体系的に解析し、目視判定プロトコルの信頼性と感度に影響を及ぼす製剤学的要因（粒子径、アジュバント種、バイアル形状）を特定。",
+        "WHO推奨の現場検査法を商用製剤の品質保証や流通時の安定性担保戦略（コールドチェーンマネジメント）へ組み込むための実践的な運用基準およびバリデーション指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "ポリ(2-オキサゾリン)およびポリ(2-オキサジン)：ステルス特性、薬物動態、および免疫原性の包括的概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗PEG抗体の出現や加速血液クリアランス（ABC現象）を克服する次世代ステルスポリマーとして、ポリ(2-オキサゾリン)（POx）およびポリ(2-オキサジン)（POz）の特性を総括。",
+        "両ポリマーが示す優れた親水性、生体適合性、狭い分子量分布、体内動態プロファイル、およびPEGと比較した顕著に低い免疫原性データを整理・提示。",
+        "抗体医薬品、核酸医薬、脂質ナノ粒子（LNP）のPEG代替コーティングポリマーとしての分子設計方針やCMC開発における実用化課題を明示。"
+      ]
+    },
+    {
+      "title_ja": "細胞外小胞と生体分子の相互作用の解明：生体分子コロナが生体外小胞の生体内分布とクリアランスをどのように決定するか",
+      "original_title": "Decoding extracellular vesicle–biomolecule interactions: How the biomolecular corona shapes extracellular vesicle biodistribution and clearance in vivo",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008515?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ドラッグデリバリー担体として注目される細胞外小胞（EV）が、生体内投与後に血中タンパク質等を吸着して形成する「バイオモレキュラーコロナ」の形成機序を解析。",
+        "コロナを構成するアポリポタンパク質や補体成分が、EVの網内系（RES）捕捉、肝臓・脾臓への生体内分布、および血中半減期に直接的な影響を与えることを実証。",
+        "EVを用いたバイオ医薬品DDSの再現性確保と標的指向性維持には、製剤段階での表面修飾制御と生体分子コロナ形成の事前予測・プロファイル評価が不可欠であることを示唆。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよび放射性複合体のための生体直交化学",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗体放射性同位体複合体（RDC/ADC）やセラノスティクス分野で活用されるクリックケミストリー（IEDDA、SPAAC等）などの生体直交型結合反応の進展を総括。",
+        "抗体や標的ペプチドの結合活性・構造安定性を損なわずに、温和な条件下で高収率かつ位置特異的に放射性核種やキレート剤を結合させる最新ケミストリーを分類・比較。",
+        "前臨床から臨床応用におけるコンジュゲーション再現性、副反応抑制、均一な結合比（DAR制御）など、バイオ医薬品製造・CMC品質管理における要件を明確化。"
+      ]
+    },
+    {
+      "title_ja": "インスリン封入のための自己組織化生分解性高分子ナノ粒子の分子動力学およびクラスタリング解析",
+      "original_title": "Molecular dynamics and clustering analysis of self-assembled biodegradable polymeric nanoparticles for insulin encapsulation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002778?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "物性・分析",
+      "points": [
+        "生分解性ポリマーを用いたナノ粒子内へのインスリン封入過程と自己組織化挙動を、全原子分子動力学（MD）シミュレーションおよびクラスタリング手法により原子レベルで解析。",
+        "ポリマー親疎水性セグメントとインスリン表面残基との相互作用様式を特定し、インスリンの二次構造・高次構造安定性を保持したまま高封入率を達成する凝集メカニズムを解明。",
+        "タンパク質・ペプチド医薬品のナノキャリア製剤設計において、試作実験数を削減し製剤安定性を合理的に高める計算化学（in silico）CMCアプローチの有用性を実証。"
+      ]
+    },
+    {
+      "title_ja": "アネキシンA5改変ナノワクチンによる時空間的抗原放出と貪食チェックポイント阻害の同期化による強力なin situがん免疫療法",
+      "original_title": "Annexin A5-engineered nanovaccines synchronize spatiotemporal antigen release with phagocytosis checkpoint blockade for potent in situ cancer immunotherapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008643?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "アポトーシス細胞表面のホスファチジルセリンに高親和性を示すアネキシンA5を提示し、抗原放出と貪食シグナル活性化を同期制御するナノワクチン製剤を開発。",
+        "腫瘍局所での選択的な抗原提示細胞（樹状細胞・マクロファージ）への抗原送達と「don't eat me」シグナル阻害の相乗効果により、強力な抗腫瘍細胞傷害性T細胞応答を誘導。",
+        "タンパク質工学的に改変したリガンドと抗原を精密に集積させる高機能ナノ粒子製剤の設計戦略および免疫製剤の局所DDS構築法を提供。"
+      ]
+    }
+  ]
+}
