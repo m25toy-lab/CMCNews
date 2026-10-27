@@ -1,0 +1,185 @@
+{
+  "date": "2026-10-27",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性評価手法であるシェイクテストについて、メーカーの視点から評価と課題を整理。",
+        "凍結ストレス等に対するワクチンの挙動と感度、実用上の判定基準に関する知見を提示。",
+        "ワクチン製剤のコールドチェーン逸脱時の品質リスク評価および現場での簡易品質管理への示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "生理学的に関連性の高い摂食胃pHプロファイルによる食物効果予測の改善",
+      "original_title": "A physiologically relevant fed gastric pH profile improves the prediction of food effects",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003898?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品の体内動態における食物効果の予測精度向上を目的とし、生理学的に妥当な摂食状態の胃pHプロファイルを検討。",
+        "新しいpH条件を導入することで、経口投与製剤の溶出・吸収予測モデルの精度が向上することを確認。",
+        "経口固形製剤のIVIVC（体内外相関）構築および処方設計におけるインビトロ評価の信頼性向上に貢献。"
+      ]
+    },
+    {
+      "title_ja": "メチシリン耐性黄色ブドウ球菌の標的指向型バイオフィルム透過と根絶のためのマクロファージ膜被覆脂質-ポリマーハイブリッドナノ粒子",
+      "original_title": "Macrophage-membrane-camouflaged lipid–polymer hybrid nanoparticles for target-specific biofilm penetration and eradication of methicillin-resistant staphylococcus aureus",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003758?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "マクロファージ膜をコートした脂質-ポリマーハイブリッドナノ粒子を作製し、難治性バイオフィルムへの送達効率を評価。",
+        "標的細菌への優れたターゲティング能とバイオフィルム透過性により、MRSA感染巣での高い殺菌効果を実証。",
+        "感染症治療のための高度なDDS設計およびナノ医薬品の表面修飾技術への応用を示唆。"
+      ]
+    },
+    {
+      "title_ja": "レトロゾール誘導体の標的送達のためのインバソームナノキャリア：乳がん軽減のための新規戦略",
+      "original_title": "Invasomes nanocarriers for targeted delivery of letrozole derivative: A novel strategy to mitigate breast cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003710?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "抗がん剤候補であるレトロゾール誘導体の経皮・標的送達を高めるため、リン脂質とテルペンからなるインバソーム（Invasomes）キャリアを開発。",
+        "小粒子径と高い皮膚透過性・細胞取り込み能を示し、乳がん細胞に対する優れた抗腫瘍効果を確認。",
+        "難水溶性化合物の送達効率を高める新規脂質系ナノキャリア製剤の設計指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "トリアムシノロンアセトニドの局所投与に向けた酵素的脱ガラクトース化キシログルカン<em>in situ</em>ゲル",
+      "original_title": "Enzymatically degalactosylated xyloglucan <em>in situ</em> gels for topical delivery of triamcinolone acetonide",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003904?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "酵素処理によりガラクトースを除去したキシログルカンを用い、温度応答性の局所用<em>in situ</em>ゲル製剤を調製。",
+        "薬物の持続的な放出プロファイルと優れた粘弾性特性を示し、局所滞留性が大幅に向上。",
+        "粘膜や皮膚への適用を想定したスマート高分子製剤の開発において、物性制御の新しいアプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "空間的時間的に制御された精密なタンパク質分解のためのデュアルゲート操作型バクテリアプラットフォーム",
+      "original_title": "A dual-gated engineered bacterial platform for spatiotemporally controlled precise protein degradation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内でのタンパク質分解を空間的・時間的に制御するため、二重の制御スイッチを持つ遺伝子工学改変バクテリアプラットフォームを構築。",
+        "外部刺激に応答して目的タンパク質をピンポイントで分解・調節できる高度な制御能を確認。",
+        "次世代の生きた医薬品（LBP）や標的指向型タンパク質分解誘導（PROTAC等）の制約を打破する先進的DDS技術として期待。"
+      ]
+    },
+    {
+      "title_ja": "敗血症性心筋症治療のための環状RNAナノスポンジを介した炎症性miRNA分解の免疫抑制的終結",
+      "original_title": "Immunosuppressive termination of pro-inflammatory miRNA degradation via circular RNA nanosponge for sepsis-induced cardiomyopathy treatment",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008709?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "敗血症性心筋症の病態改善を目的として、炎症性miRNAを効率的に吸着・中和する環状RNAナノスポンジ製剤を開発。",
+        "過剰な免疫・炎症シグナルを選択的に抑制し、心筋組織の機能維持と生存率の有意な改善を実証。",
+        "核酸医薬（环状RNA）の安定化および炎症性疾患に対する標的送達システムの有効性を証明。"
+      ]
+    },
+    {
+      "title_ja": "早期肺がんにおける腫瘍内シスプラチンの患者別薬物動態と病理学的壊死の追跡",
+      "original_title": "Patient-specific pharmacokinetics of intratumoral cisplatin track pathologic necrosis in early-stage lung cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008758?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "早期肺がん患者における腫瘍内シスプラチン投与時の局所薬物動態（PK）と組織学的変化を臨床データに基づき解析。",
+        "薬剤の腫瘍内残留濃度が病理学的壊死の程度と強く相関することを明らかに。",
+        "局所投与型製剤の臨床効果予測や個別化医療における薬物動態モニタリングの重要性を示唆。"
+      ]
+    },
+    {
+      "title_ja": "肝細胞がんにおける段階的手技による塞栓後低酸素を軽減する三重モーダル可視化ラジオハイドロゲル",
+      "original_title": "Triple-modal visualized radiohydrogel alleviates post-embolization hypoxia via stage-type procedure in hepatocellular carcinoma",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008722?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝細胞がんの経カテーテル動脈塞栓術（TACE）に伴う低酸素状態を緩和するため、複数のイメージングが可能な多機能ラジオハイドロゲルを開発。",
+        "放射線治療と酸素供給・可視化機能を統合し、塞栓後の再発リスクとなる低酸素環境を効果的に改善。",
+        "放射線塞栓療法や局所留置型ハイドロゲル製剤のデザインにおいて、機能統合型の新しいアプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "アネキシンA5修飾ナノワクチンによる貪食チェックポイント阻害と空間的時間的抗原放出の同期化による強力なその場のがん免疫療法",
+      "original_title": "Annexin A5-engineered nanovaccines synchronize spatiotemporal antigen release with phagocytosis checkpoint blockade for potent in situ cancer immunotherapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008643?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗原の放出タイミングと貪食チェックポイント阻害剤の作用を同期させるアネキシンA5修飾ナノワクチンを設計。",
+        "免疫担当細胞の活性化と腫瘍特異的免疫応答を相乗的に高め、強力な抗腫瘍効果を発揮することを実証。",
+        "がん免疫療法における複合型ナノ製剤の空間的時間的コントロールの重要性を提示。"
+      ]
+    },
+    {
+      "title_ja": "脂肪組織オン・チッププラットフォーム：疾患モデリング、創薬、薬物動態モデリングへの応用",
+      "original_title": "Adipose tissue-on-Chip platforms for disease modelling, drug discovery and pharmacokinetic modelling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600205X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "脂肪組織の生理学的機能を微小流体デバイス上で再現する「Adipose tissue-on-Chip」の最新動向を総括。",
+        "代謝疾患モデリング、薬物スクリーニング、およびPBPK（生理学的薬物動態）モデル構築への応用例を整理。",
+        "動物実験代替およびヒト特異的な薬物動態・毒性評価ツールとしてのCMC/非臨床研究への実用性を提示。"
+      ]
+    },
+    {
+      "title_ja": "精密セラノスティクスに向けたレドックス応答性ペプチド集合体",
+      "original_title": "Redox-responsive peptide assemblies for precision theranostic",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内の酸化還元（レドックス）勾配に応答して構造変化を起こす自己組織化ペプチド系セラノスティクス（診断治療一体型）を総括。",
+        "腫瘍微小環境などの特定部位における特異的崩壊と薬物放出・画像診断シグナルの増強メカニズムを解説。",
+        "スマートペプチド材料を用いた高機能ナノキャリアおよび診断薬一体型製剤の開発設計に有用な知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよび放射性標的薬のための生体直交化学",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内で他の化学反応を阻害せず進行する「生体直交化学（Bioorthogonal chemistry）」の放射性医薬品や抗体医薬コンジュゲートへの応用を詳述。",
+        "プレターゲット法を用いた放射免疫療法や分子イメージングにおける体内標的効率の劇的な改善効果を報告。",
+        "次世代の放射性医薬品（RPT）やADCの結合技術、品質設計における革新的アプローチとして不可欠な情報を提供。"
+      ]
+    },
+    {
+      "title_ja": "創傷治癒のためのガス療法：酸素および一酸化窒素の治療的ポテンシャル",
+      "original_title": "Gas therapeutics for wound healing: Therapeutic potential of oxygen and nitric oxide",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002103?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "治療用ガス分子（酸素、一酸化窒素）を局所に効率よく送達・放出して創傷治癒を促進する最新の製剤技術を包括的にレビュー。",
+        "ガスキャリア（生体材料、ナノ粒子、ハイドロゲルなど）の保持・放出制御メカニズムと薬理効果を整理。",
+        "難治性潰瘍や創傷に対する新規ガス送達製剤の実用化に向けた製剤学的課題と解決策を提示。"
+      ]
+    },
+    {
+      "title_ja": "ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス性、薬物動態、および免疫原性の概要",
+      "original_title": "Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "PEG（ポリエチレングリコール）の代替として注目されるポリ（2-オキサゾリン）やポリ（2-オキサジン）のポリマー特性を総括。",
+        "生体適合性、血中滞留性（ステルス性）、低免疫原性、およびクリアランスに関する詳細なPKプロファイルを比較・分析。",
+        "PEG抗体問題（加速血中クリアランス等）を回避する次世代高分子修飾・コンジュゲート製剤の有望な選択肢として提示。"
+      ]
+    }
+  ]
+}
