@@ -1,0 +1,452 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/10/28 (Wed)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/10/28 (Wed) ／ 15 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>アジュバント添加ワクチンの物理的安定性評価手法として用いられるシェイクテストについて、製造メーカーの観点から検証と考察を実施した。</li>
+<li>凍結ストレスなどの不適切な取り扱いに対するワクチンの挙動と、目視および機器による評価の相関性を明らかにしている。</li>
+<li>コールドチェーン管理や現場での品質担保（QC）および出荷判定における実用的なストレステストの運用指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003898?dgcid=rss_sd_all" target="_blank" rel="noopener">生理学的に関連性の高い摂食時胃内pHプロファイルによる食物効果の予測精度向上</a>
+      </h2>
+      <p class="original-title">原題: A physiologically relevant fed gastric pH profile improves the prediction of food effects</p>
+      <ul class="points-list">
+        <li>医薬品の経口吸収に対する食事の影響（食物効果）を予測するため、生理学的に妥当な摂食時胃内pHプロファイルを組込んだモデルを構築した。</li>
+<li>より実態に近いin vitro/in silico評価により、薬物動態（PK）における食事起因の変動予測精度が向上することを示した。</li>
+<li>消化管内挙動を考慮した早期の製剤設計や、経口投与製剤のIVIVC（体内動態相関）構築の信頼性を高める。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003898?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003758?dgcid=rss_sd_all" target="_blank" rel="noopener">メチシリン耐性黄色ブドウ球菌の標的特異的バイオフィルム浸透と根絶に向けたマクロファージ膜被覆脂質-高分子ハイブリッドナノ粒子</a>
+      </h2>
+      <p class="original-title">原題: Macrophage-membrane-camouflaged lipid–polymer hybrid nanoparticles for target-specific biofilm penetration and eradication of methicillin-resistant <em>staphylococcus aureus</em></p>
+      <ul class="points-list">
+        <li>生体膜（マクロファージ膜）を模倣・コーティングした脂質-高分子ハイブリッドナノ粒子を作製し、難治性細菌バイオフィルムへの送達効率を評価した。</li>
+<li>バイオフィルム内部への高い浸透性と標的特異的な抗菌作用により、MRSA感染巣の効率的な根絶に成功した。</li>
+<li>難治性感染症に対する高度なDDS設計および生体適合性に優れたナノキャリア製剤の開発基盤を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003758?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003710?dgcid=rss_sd_all" target="_blank" rel="noopener">レトロゾール誘導体の標的送達のためのインバソームナノキャリア：乳がん軽減のための新規戦略</a>
+      </h2>
+      <p class="original-title">原題: Invasomes nanocarriers for targeted delivery of letrozole derivative: A novel strategy to mitigate breast cancer</p>
+      <ul class="points-list">
+        <li>抗がん剤（レトロゾール誘導体）の経皮・標的送達を高めるため、テルペン類を含有する柔軟なベシクルであるインバソーム（Invasomes）製剤を開発した。</li>
+<li>物理化学的特性評価およびin vitro/in vivo評価により、腫瘍組織への集積性と抗腫瘍効果の有意な向上が確認された。</li>
+<li>低分子医薬品の局所・全身送達における皮膚透過性向上のための新規ナノ製剤プラットフォームとして応用できる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003710?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003904?dgcid=rss_sd_all" target="_blank" rel="noopener">トリアムシノロンアセトニドの局所投与に向けた酵素的脱ガラクトース化キシログルカンin situゲル</a>
+      </h2>
+      <p class="original-title">原題: Enzymatically degalactosylated xyloglucan <em>in situ</em> gels for topical delivery of triamcinolone acetonide</p>
+      <ul class="points-list">
+        <li>天然多糖類キシログルカンを酵素的に脱ガラクトース化し、温度応答性のゲル化特性を持つin situゲル製剤を設計した。</li>
+<li>ステロイド薬トリアムシノロンアセトニドの溶解性と持続的な放出プロファイルが大幅に改善されたことを示した。</li>
+<li>粘膜や皮膚などの局所投与部位における滞留時間延長と薬物送達効率の最適化に寄与する製剤技術である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003904?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all" target="_blank" rel="noopener">空間的時間的に制御された精密タンパク質分解のためのデュアルゲート型エンジニアードバクテリアプラットフォーム</a>
+      </h2>
+      <p class="original-title">原題: A dual-gated engineered bacterial platform for spatiotemporally controlled precise protein degradation</p>
+      <ul class="points-list">
+        <li>生体内での標的タンパク質の分解を空間的・時間的に精密制御するため、二重の制御スイッチを備えた遺伝子組み換えバクテリアプラットフォームを構築した。</li>
+<li>外部刺激に応答して目的の分解酵素を高精度に作動させ、標的分子の特異的ノックダウンに成功した。</li>
+<li>遺伝子治療や次世代の生きた医薬品（LBP）における高度な制御システムの設計に重要な概念を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S016836592600876X?dgcid=rss_sd_all" target="_blank" rel="noopener">膵がんにおける免疫療法増強のためのID3 mRNA送達による腫瘍関連マクロファージのリプログラミング</a>
+      </h2>
+      <p class="original-title">原題: Reprogramming tumor-associated macrophages <em>via</em> ID3 mRNA delivery for enhanced immunotherapy in pancreatic cancer</p>
+      <ul class="points-list">
+        <li>免疫抑制性の腫瘍関連マクロファージ（TAM）を抗腫瘍性にリプログラミングするため、ID3 mRNAを搭載したナノDDS製剤を開発した。</li>
+<li>膵がんモデルにおいて免疫微小環境を改善し、免疫チェックポイント阻害剤の効果を劇的に増強することを実証した。</li>
+<li>核酸医薬（mRNA）の新たな標的細胞の開拓と、難治性がんに対する免疫併用療法の製剤学的アプローチを示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S016836592600876X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008709?dgcid=rss_sd_all" target="_blank" rel="noopener">敗血症性心筋症治療のための環状RNAナノスポンジを介した炎症性miRNA分解の免疫抑制的終結</a>
+      </h2>
+      <p class="original-title">原題: Immunosuppressive termination of pro-inflammatory miRNA degradation via circular RNA nanosponge for sepsis-induced cardiomyopathy treatment</p>
+      <ul class="points-list">
+        <li>敗血症性心筋症における過剰な炎症反応を抑制するため、病因となるmiRNAを特異的に吸着・中和する環状RNAナノスポンジ製剤を開発した。</li>
+<li>心筋組織における炎症性カスケードの遮断と心機能の顕著な改善効果をin vivoで確認した。</li>
+<li>環状RNAを用いた安定性の高い核酸医薬の送達システムと、急性炎症性疾患に対するDDSの有効性を示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008709?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008758?dgcid=rss_sd_all" target="_blank" rel="noopener">初期肺がんにおける腫瘍内シスプラチンの患者個別化薬物動態と病理学的壊死の追跡</a>
+      </h2>
+      <p class="original-title">原題: Patient-specific pharmacokinetics of intratumoral cisplatin track pathologic necrosis in early-stage lung cancer</p>
+      <ul class="points-list">
+        <li>初期肺がん患者を対象に、腫瘍内投与されたシスプラチンの局所薬物動態（PK）と組織学的反応の相関関係を臨床解析した。</li>
+<li>個々の患者における腫瘍内薬物滞留性と病理学的壊死の間に明確な相関があることを明らかにした。</li>
+<li>局所投与型抗がん剤製剤の臨床開発において、患者ごとの薬物動態モニタリングと治療効果予測の重要性を示唆する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008758?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008722?dgcid=rss_sd_all" target="_blank" rel="noopener">肝細胞がんにおける段階的手技を介した塞栓後低酸素を緩和するトリプルモーダル可視化ラジオハイドロゲル</a>
+      </h2>
+      <p class="original-title">原題: Triple-modal visualized radiohydrogel alleviates post-embolization hypoxia via stage-type procedure in hepatocellular carcinoma</p>
+      <ul class="points-list">
+        <li>肝細胞がんの塞栓療法における治療後の低酸素誘導を改善するため、3種類の画像診断モーダルで追跡可能な多機能ラジオハイドロゲルを開発した。</li>
+<li>塞栓効果と酸素供給（または低酸素緩和）を両立させ、腫瘍再発リスクを軽減する段階的治療プロトコルを実証した。</li>
+<li>画像診断機能（セラノスティクス）を統合した次世代の局所塞栓用高分子製剤設計の好例となる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008722?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-11">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X2600205X?dgcid=rss_sd_all" target="_blank" rel="noopener">疾患モデリング、創薬、薬物動態モデリングのための脂肪組織オンチッププラットフォーム</a>
+      </h2>
+      <p class="original-title">原題: Adipose tissue-on-Chip platforms for disease modelling, drug discovery and pharmacokinetic modelling</p>
+      <ul class="points-list">
+        <li>脂肪組織の生理学的機能を微小流体デバイス上で再現する「アディポース・ティッシュ・オン・チップ」の最新動向を包括的にレビューした。</li>
+<li>疾患メカニズムの解明、新規薬剤のスクリーニング、および全身PBPK（生理学的薬物速度論）モデリングへの応用価値を整理している。</li>
+<li>動物実験代替法およびヒト生体外モデルを活用した効率的な製剤・DDSスクリーニング戦略の構築に役立つ。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X2600205X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-12">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all" target="_blank" rel="noopener">精密セラノスティクスに向けたレドックス応答性ペプチド集合体</a>
+      </h2>
+      <p class="original-title">原題: Redox-responsive peptide assemblies for precision theranostic</p>
+      <ul class="points-list">
+        <li>細胞内の酸化還元（レドックス）環境に応答して構造変化や分解を起こすペプチドベースの自己集合体について総説した。</li>
+<li>腫瘍特異的な環境に応じた画像化（診断）と薬物放出（治療）を同時に達成するセラノスティクス製剤のデザイン原則を解説している。</li>
+<li>高分子・ペプチド医薬品のスマートDDS設計における構造最適化と化学修飾の指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-13">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">セラノスティクスおよび放射性コンジュゲートのための生体直交化学</a>
+      </h2>
+      <p class="original-title">原題: Bioorthogonal chemistries for theranostics and radioconjugates</p>
+      <ul class="points-list">
+        <li>生体内で他の分子と干渉せずに特異的に反応する「生体直交化学（Bioorthogonal chemistry）」の放射性医薬品やADCへの応用をまとめた。</li>
+<li>プレターゲット法を用いた放射性リガンドの体内動態改善や、標的集積性の劇的な向上に関する最新の成果を紹介している。</li>
+<li>抗体医薬や放射性医薬品（RPT）の化学修飾・コンジュゲーション技術の高度化に直接貢献する知見である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-14">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002103?dgcid=rss_sd_all" target="_blank" rel="noopener">創傷治癒のためのガスセラピューティクス：酸素および一酸化窒素の治療的ポテンシャル</a>
+      </h2>
+      <p class="original-title">原題: Gas therapeutics for wound healing: Therapeutic potential of oxygen and nitric oxide</p>
+      <ul class="points-list">
+        <li>治療用ガス分子（酸素や一酸化窒素など）を活用した創傷治癒療法について、その生理学的作用と製剤学的送達戦略をレビューした。</li>
+<li>ガス分子の局所貯蔵・制御放出を可能にする生体材料、ハイドロゲル、ナノキャリアの設計アプローチを比較・解説している。</li>
+<li>ガス状治療薬の物理的安定性の課題を克服し、臨床応用するための製剤化技術の方向性を示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002103?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-15">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">ポリ（2-オキサゾリン）およびポリ（2-オキサジン）：ステルス性、薬物動態、免疫原性の概要</a>
+      </h2>
+      <p class="original-title">原題: Poly(2-oxazoline)s and poly(2-oxazine)s: An overview of stealth properties, pharmacokinetics, and immunogenicity</p>
+      <ul class="points-list">
+        <li>ポリエチレングリコール（PEG）の代替として注目されるポリ（2-オキサゾリン）およびポリ（2-オキサジン）のポリマー特性を総括した。</li>
+<li>血中滞留性（ステルス性）、PKプロファイル、および懸念される免疫原性や抗体産生に関する近年のデータを整理している。</li>
+<li>PEG化（PEGylation）の代替技術として、次世代DDSや高分子複合体製剤を設計する際の重要な材料選択肢を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002097?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
