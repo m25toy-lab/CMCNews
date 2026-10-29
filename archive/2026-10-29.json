@@ -1,0 +1,173 @@
+{
+  "date": "2026-10-29",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのためのシェイクテスト：メーカーの視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの品質管理において用いられる簡易的な「シェイクテスト」について、製造メーカーの立場から評価・考察を行った。",
+        "物理的ストレスに対するワクチン製剤の安定性や凝集挙動、および現場での簡便な品質確認手法の妥当性に関する知見を示した。",
+        "コールドチェーン破綻や凍結ストレスを受けたワクチンの迅速なスクリーニングや、出荷判定における実用的な品質保証アプローチに寄与する。"
+      ]
+    },
+    {
+      "title_ja": "生理学的に妥当な摂食状態の胃内pHプロファイルによる食物効果予測の改善",
+      "original_title": "A physiologically relevant fed gastric pH profile improves the prediction of food effects",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003898?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "摂食状態における生理学的な胃内pH変動をより正確に反映したプロファイルを構築し、経口製剤の食物効果（Food Effect）の予測精度向上を試みた。",
+        "新規胃内pHプロファイルを用いることで、in vitro溶解試験や体内動態シミュレーションにおいて、食事による薬物吸収変動の予測力が大幅に改善した。",
+        "経口投与製剤の開発初期における臨床での食物効果リスクの低減や、適切な処方設計・IVIVC（体内外相関）の構築に有用なツールを提供する。"
+      ]
+    },
+    {
+      "title_ja": "ポリマーナノ粒子を介したマイクロRNA 145の送達：実験モデルにおける肝細胞がんに対する潜在的治療戦略",
+      "original_title": "Polymer nanoparticle-mediated delivery of microRNA 145: A potential therapeutic strategy for hepatocellular carcinoma in an experimental model",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004077?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "不安定な核酸医薬であるマイクロRNA 145を効率的に送達するため、ポリマーナノ粒子製剤を設計し、肝細胞がんモデルでの治療効果を評価した。",
+        "最適化されたポリマーナノ粒子により、核酸の分解を防ぎつつ腫瘍部位への集積と細胞内取り込みが著しく向上し、優れた抗腫瘍効果が確認された。",
+        "核酸医薬のDDS研究において、ポリマーベースのナノキャリア設計やがん標的型製剤のCMC開発に向けた基礎データを提供する。"
+      ]
+    },
+    {
+      "title_ja": "マイクロニードルの幾何学形状が経皮ドラッグデリバリーシステムにおける薬物輸送を調節する",
+      "original_title": "Microneedle geometry modulates drug transport in transdermal delivery systems",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004016?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "マイクロニードルの長さ、形状、配列ピッチなどの幾何学的パラメータが、経皮的な薬物輸送効率に与える影響を系統的に解析した。",
+        "特定のニードルジオメトリーが皮膚角質層のバリアを効率的に突破し、高分子やタンパク質を含む薬物の透過速度および送達量を劇的に変化させることが実証された。",
+        "低侵襲な経皮ドラッグデリバリーシステムの設計・最適化において、デバイスの物理的設計指針と品質設計の重要性を示唆している。"
+      ]
+    },
+    {
+      "title_ja": "マクロファージ膜でカモフラージュした脂質-ポリマーハイブリッドナノ粒子による標的特異的バイオフィルム浸透とメチシリン耐性黄色ブドウ球菌の根絶",
+      "original_title": "Macrophage-membrane-camouflaged lipid–polymer hybrid nanoparticles for target-specific biofilm penetration and eradication of methicillin-resistant <em>staphylococcus aureus</em>",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003758?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生体膜（マクロファージ膜）をコーティングした脂質-ポリマーハイブリッドナノ粒子を作製し、難治性バイオフィルムへの浸透性と抗菌効果を評価した。",
+        "膜カモフラージュにより免疫回避能と感染部位への標的移行性が向上し、MRSAバイオフィルム内部へ深く浸透して効率的に菌を根絶することに成功した。",
+        "難治性感染症に対する高度なDDS製剤の開発において、細胞膜コート技術の有効性とナノ粒子物性制御の重要性を示した。"
+      ]
+    },
+    {
+      "title_ja": "時空間制御された精密なタンパク質分解のためのデュアルゲート型エンジニアードバクテリアプラットフォーム",
+      "original_title": "A dual-gated engineered bacterial platform for spatiotemporally controlled precise protein degradation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的部位で目的のタンパク質を時空間制御下で正確に分解するため、2つの異なるトリガーに応答するデュアルゲート型の生体工学細菌プラットフォームを開発した。",
+        " in vivo環境において二重の制御スイッチが正常に作動し、標的タンパク質の分解を特定の場所と時間で精密に制御できることが確認された。",
+        "遺伝子治療や次世代の生きた医薬品（LBP）における安全性および送達制御メカニズムの設計において重要なアプローチを提供する。"
+      ]
+    },
+    {
+      "title_ja": "デキサメタゾンパルミテートを内包したナノディスクによる炎症関節の標的化と関節リウマチの抑制",
+      "original_title": "Dexamethasone palmitate-loaded nanodiscs target inflamed joints and suppress rheumatoid arthritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008801?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗炎症薬デキサメタゾンパルミテートを効率よく可溶化・送達するために高密度リポタンパク質模倣ナノディスク製剤を開発し、関節リウマチモデルで評価した。",
+        "ナノディスクの優れた血中滞留性と炎症部位特異的集積により、関節炎の症状が効果的に抑制され、副作用リスクの低減も示唆された。",
+        "難治性炎症性疾患に対する低分子・脂質複合体製剤のDDS設計およびナノキャリアの物性最適化に関する有用な知見となる。"
+      ]
+    },
+    {
+      "title_ja": "樹状細胞と腫瘍細胞の二重制御による、酸化還元応答性ナノ粒子を用いたアブレーション後の肝細胞がん再発防止",
+      "original_title": "Redox-responsive nanoparticles prevent post-ablation hepatocellular carcinoma recurrence by dual regulation of dendritic cells and tumor cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008734?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腫瘍焼灼術後の肝細胞がん再発を防ぐため、腫瘍微小環境の酸化還元（レドックス）に応答して薬物を放出し、樹状細胞と残存腫瘍細胞を同時に制御するナノ粒子を開発した。",
+        "レドックス応答による的確な薬物放出により、免疫活性化と残存がん細胞の排除が相乗的に働き、再発率を大幅に低下させることに成功した。",
+        "がん免疫療法を組み合わせた複合型ナノ医薬品の設計や、微小環境応答型キャリアの品質設計における設計思想を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ID3 mRNA送達による腫瘍関連マクロファージのリプログラミングを通じた膵がんにおける免疫療法増強",
+      "original_title": "Reprogramming tumor-associated macrophages <em>via</em> ID3 mRNA delivery for enhanced immunotherapy in pancreatic cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600876X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "免疫抑制的な腫瘍関連マクロファージ（TAM）を抗腫瘍型へリプログラムするため、ID3 mRNAを効率的に送達する脂質ベースのナノキャリア系を構築した。",
+        "膵がんモデルにおいて、標的送達されたID3 mRNAがマクロファージの表現型を転換し、免疫チェックポイント阻害剤の効果を劇的に増強した。",
+        "難治性がんに対するmRNA医薬の適応拡大や、免疫細胞を標的としたLNP等の核酸送達製剤のCMC研究に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "環状RNAナノスポンジを介した炎症性miRNA分解の免疫抑制的終結による敗血症性心筋症の治療",
+      "original_title": "Immunosuppressive termination of pro-inflammatory miRNA degradation via circular RNA nanosponge for sepsis-induced cardiomyopathy treatment",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008709?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "敗血症性心筋症の治療を目的とし、有害な炎症性マイクロRNAを中和・捕捉する「環状RNAナノスポンジ」製剤を開発した。",
+        "環状RNAの優れた安定性を活かしたナノスポンジ構造により、心筋組織における過剰な炎症反応を速やかに抑制し、心機能の改善が確認された。",
+        "次世代のRNAモダリティである環状RNAを用いた安定な製剤設計や、救急・重症疾患領域への応用展開において重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "疾患モデリング、創薬、薬物動態モデリングのための脂肪組織オン・チッププラットフォーム",
+      "original_title": "Adipose tissue-on-Chip platforms for disease modelling, drug discovery and pharmacokinetic modelling",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600205X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "脂肪組織の生理的・病理的機能を微小流体デバイス上で再現する「Adipose tissue-on-Chip」の最新動向を網羅的にレビューした。",
+        "代謝疾患のモデリング、新規化合物のスクリーニング、および全身動態を予測するPBPK（生理学的薬物速度論）モデルへの統合の可能性を詳述している。",
+        "動物実験代替法や非臨床におけるヒト体内動態・薬物代謝予測の精度向上を目指す製剤研究・DDS開発者にとって必読の総説。"
+      ]
+    },
+    {
+      "title_ja": "精密セラノスティクスに向けた酸化還元応答性ペプチド集合体",
+      "original_title": "Redox-responsive peptide assemblies for precision theranostic",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内の酸化還元環境（レドックス勾配）に応じた構造変化を示す、自己組織化ペプチドベースのセラノスティクス（診断治療一体型）システムの進歩を総括した。",
+        "腫瘍などの特定環境における選択的な分解やイメージングシグナルの増強を可能にする、ペプチド配列設計の原則を整理している。",
+        "次世代のインテリジェントDDSや、分子イメージング機能を付与したバイオ医薬品・ペプチド製剤の設計指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよび放射性医薬品共役体におけるバイオオルトogonal化学",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内で他の化学反応と干渉せずに進行する「バイオオルトogonal化学」について、放射性医薬品や抗体医薬共役体（ADC）への応用を中心に概説した。",
+        "プレターゲット（事前標的化）イメージングや、生体内での精密な分子連結技術により、標的集積性の向上と放射線被曝の低減を両立する最新戦略を紹介している。",
+        "高度な抗体・タンパク質修飾技術や、ADC・ラジオイムノセラピーのCMCおよび分子設計における革新的アプローチを示す。"
+      ]
+    },
+    {
+      "title_ja": "創傷治癒のためのガス治療薬：酸素および一酸化炭素の治療ポテンシャル",
+      "original_title": "Gas therapeutics for wound healing: Therapeutic potential of oxygen and nitric oxide",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002103?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "治療ガス（酸素や一酸化炭素など）を用いた創傷治癒アプローチについて、その生理学的メカニズムと製剤学的送達技術をレビューした。",
+        "ガス分子の低溶解性や不安定性を克服するための、ナノキャリアや高分子マトリックスを用いた局所送達・制御放出システムの開発動向を整理した。",
+        "特殊な物性を持つガス治療薬の製剤化技術、および皮膚・創傷領域におけるDDSキャリアの設計に有用な示唆を与える。"
+      ]
+    }
+  ]
+}
