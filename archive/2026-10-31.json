@@ -1,0 +1,125 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのシェイクテスト：製造者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性評価において広く用いられるシェイクテストについて、製造者視点から実践的な評価と課題を検証した。",
+        "凍結ストレスなどの物理的ストレスに対するワクチンの挙動と凝集リスクの関係性に関するデータを提示した。",
+        "ワクチン製剤のコールドチェーン管理や品質保証（QA）における簡易試験法としての有用性と限界を明確化した。"
+      ]
+    },
+    {
+      "title_ja": "イオン化脂質がmRNAワクチン製剤の物性と免疫原性に及ぼす影響",
+      "original_title": "Ionizable lipid impact on mRNA vaccine formulation properties and immunogenicity",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008710?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "脂質ナノ粒子（LNP）に用いるイオン化脂質の構造的違いが、mRNA製剤の物性（粒子径・カプセル化効率）および免疫原性に与える影響を系統的に評価した。",
+        "特定のイオン化脂質構造がin vivoでの発現効率や抗原提示能を大きく左右し、免疫応答のプロファイルに直結することを明らかにした。",
+        "高効率かつ安全なmRNAワクチン・LNP製剤を合理的に設計するための重要なデザイン指針を提供している。"
+      ]
+    },
+    {
+      "title_ja": "バイオオーソゴナル化学共役：ADCおよびその先へ",
+      "original_title": "Bioorthogonal chemistry conjugates: ADCs and beyond",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体薬物複合体（ADC）をはじめとする次世代バイオコンジュゲーションにおけるバイオオーソゴナル化学の適用動向を総括した。",
+        "部位特異的修飾や均一な薬物抗体比（DAR）制御を実現するための最新の化学的アプローチと利点を整理した。",
+        "ADC等の複雑なバイオ医薬品の品質均一化や薬物動態プロファイルの改善に向けたCMC開発戦略への応用を提示した。"
+      ]
+    },
+    {
+      "title_ja": "ネブライゼーションに対して安定なmRNA送達用脂質ポリマーハイブリッドナノ粒子：高度なin vitro呼吸器モデルにおける評価",
+      "original_title": "Nebulization-stable lipid–polymer hybrid nanoparticles for mRNA delivery in advanced in vitro respiratory models",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009993?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "吸入投与を想定したmRNA送達用の脂質ポリマーハイブリッドナノ粒子を開発し、ネブライザー噴霧時の物理的ストレスに対する安定性を検証した。",
+        "噴霧後も粒子径やカプセル化率が維持され、高度なin vitro呼吸器モデルにおいて効率的な遺伝子導入が可能であることを示した。",
+        "呼吸器疾患に対する吸入型核酸医薬の製剤化およびデバイス適合性評価の基盤技術として貢献する。"
+      ]
+    },
+    {
+      "title_ja": "LGA-PEIナノ粒子によるマウス初代T細胞への効率的な核酸送達",
+      "original_title": "LGA-PEI nanoparticles enable efficient nucleic acid delivery to primary murine T cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326010331?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難トランスフェクション細胞であるマウス初代T細胞への核酸送達を高めるため、LGA-PEIベースの新規ナノ粒子製剤を開発した。",
+        "細胞毒性を抑えつつ、高いトランスフェクション効率と目的遺伝子の発現を達成できることを実証した。",
+        "CAR-T細胞療法などの遺伝子・細胞治療におけるex vivoベクター・キャリアの選択肢を広げる有用な知見となる。"
+      ]
+    },
+    {
+      "title_ja": "トランスフェリン修飾によるカバジタクセル含有ポリ間ナノ粒子の前立腺がん細胞取り込みと細胞傷害性の向上",
+      "original_title": "Transferrin functionalization enhances prostate cancer cell uptake and cytotoxicity of cabazitaxel-loaded polymeric nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732601032X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "抗がん剤カバジタクセルを内包したポリマーナノ粒子表面にトランスフェリンを修飾し、受容体媒介性取り込みを狙ったDDSを構築した。",
+        "前立腺がん細胞に対する標的特異的な細胞取り込みの向上と、それに伴う顕著な細胞傷害性の増強を確認した。",
+        "難治性がんに対するナノ粒子製剤のターゲティング効率化および有効性改善の設計戦略を提供する。"
+      ]
+    },
+    {
+      "title_ja": "緑色アババナナの代謝物プロファイルおよび利用可能炭水化物に及ぼす乾燥技術の影響",
+      "original_title": "Influence of drying techniques on metabolite profile and available carbohydrate in green Awak banana",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002458?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "異なる乾燥手法（凍結乾燥、熱風乾燥等）が緑色アババナナの代謝物プロファイルおよび炭水化物組成に与える影響を網羅的に解析した。",
+        "乾燥プロセスによって有効成分や糖質構造が大きく変動することを定量的に明らかにした。",
+        "天然物由来の原料を用いた製剤開発やサプリメント製造において、適切なプロセスパラメータ選定の重要性を示唆する。"
+      ]
+    },
+    {
+      "title_ja": "熱安定性を利用した、緑色蛍光タンパク質（GFP）融合組換えタンパク質からの生物活性型ペディオシンの回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "バクテリオシンの一種であるペディオシンをGFPとの融合タンパク質として組換え発現させ、熱安定性を利用した効率的な分離・回収法を開発した。",
+        "熱処理プロセスにより不純物を効果的に除去しつつ、高い生物活性を維持したペディオシンの回収に成功した。",
+        "有用生理活性ペプチドのバイオプロセスおよび下流工程（ダウンストリーム）の簡素化・コスト削減につながる手法である。"
+      ]
+    },
+    {
+      "title_ja": "デキサメタゾンパルミテート含有ナノディスクによる炎症関節の標的化と関節リウマチの抑制",
+      "original_title": "Dexamethasone palmitate-loaded nanodiscs target inflamed joints and suppress rheumatoid arthritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008801?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗炎症薬デキサメタゾンパルミテートを搭載した高密度リポ蛋白（HDL）模倣ナノディスクを調製し、関節リウマチモデルに対する治療効果を検証した。",
+        "ナノディスクが炎症部位へ高効率に蓄積し、局所の炎症を強力に抑制することをin vivoで実証した。",
+        "難治性炎症性疾患に対するナノキャリアを活用したドラッグデリバリーシステムの有効なデザインを示す。"
+      ]
+    },
+    {
+      "title_ja": "リポソームおよび脂質ナノキャリアの局所性コルチコステロイド送達に向けた合理的選択",
+      "original_title": "Rational selection of lipid nanocarriers for topical corticosteroid delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002808?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "コルチコステロイドの経皮・局所投与を最適化するため、各種脂質ナノキャリア（リポソームや固体脂質ナノ粒子等）の物性を比較・検討した。",
+        "キャリアの組成や物理化学的特性が皮膚透過性および局所滞留性に与える相関関係を明らかにした。",
+        "皮膚科学的製剤設計におけるナノキャリアの合理的選択（QbDアプローチ）のための有益な指針を提供する。"
+      ]
+    }
+  ]
+}
