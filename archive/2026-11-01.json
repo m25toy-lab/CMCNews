@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "title_ja": "アジュバント添加ワクチンのシェイクテスト：製造者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンの物理的安定性評価手法として用いられる「シェイクテスト」について、製造業者の観点からその課題と実用性を整理・検証する。",
+        "凍結ストレスなどの物理的ストレスに対するワクチン製剤の凝集・沈降挙動とシェイクテストの結果との相関を明らかにした。",
+        "ワクチン製剤の品質管理（QC）およびコールドチェーン管理における現場での簡易試験法としての適用性と限界に関する示唆を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ネブライゼーションに安定な脂質-高分子ハイブリッドナノ粒子：先進的呼吸器in vitroモデルを用いたmRNA送達",
+      "original_title": "Nebulization-stable lipid–polymer hybrid nanoparticles for mRNA delivery in advanced <i>in vitro</i> respiratory models",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326009993?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "mRNA送達を目的とした脂質-高分子ハイブリッドナノ粒子（LPHN）を構築し、ネブライザー噴霧ストレスに対する物理的安定性と送達効率を評価した。",
+        "噴霧後もナノ粒子の粒径、カプセル化効率、mRNAの完全性が保持され、高度な呼吸器系in vitroモデルにおいて優れた遺伝子発現を示した。",
+        "吸入型核酸医薬の製剤化において、製造プロセスや送達デバイス（ネブライザー）によるせん断応力に対する耐性確保のための設計指針となる。"
+      ]
+    },
+    {
+      "title_ja": "ジスルフィド結合修飾イオナイズド脂質を用いた、急性肝障害治療におけるsiRNAとカーボン ドットの共送達",
+      "original_title": "Disulfide bond-modified ionizable lipids for co-delivery of siRNA and carbon dots in the treatment of acute liver injury",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326010501?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "還元応答性のジスルフィド結合を導入した新規イオナイズド脂質を合成し、siRNAとカーボン ドットの効率的な共送達システムを開発した。",
+        "標的細胞内の還元環境（GSH）に応答して迅速に分解し、高いトランスフェクション効率と優れた抗炎症・抗酸化作用による急性肝障害の治療効果を確認した。",
+        "核酸医薬（siRNA）のDDSキャリア設計において、細胞内環境に応じた応答性放出制御を取り入れるための有用なアプローチを提示している。"
+      ]
+    },
+    {
+      "title_ja": "LGA-PEIナノ粒子による初代マウスT細胞への効率的な核酸送達",
+      "original_title": "LGA-PEI nanoparticles enable efficient nucleic acid delivery to primary murine T cells",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326010331?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "遺伝子治療や細胞医療においてトランスフェクションが困難とされる初代マウスT細胞に対し、リポ(ポリ)アミノ酸-ポリエチレンイミン（LGA-PEI）ナノ粒子を用いた核酸導入法を検証した。",
+        "細胞毒性を抑えつつ、効率的な遺伝子導入（核酸送達）を達成し、T細胞の機能維持と高い発現効率の両立を確認した。",
+        "CAR-T細胞療法などの次世代遺伝子・細胞治療薬製造における、非ウイルスベクターを用いた効率的な遺伝子導入プロセスの構築に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "トランスフェリン修飾によるカバジタクセル含有高分子ナノ粒子の前立腺がん細胞取り込みと細胞傷害性の向上",
+      "original_title": "Transferrin functionalization enhances prostate cancer cell uptake and cytotoxicity of cabazitaxel-loaded polymeric nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732601032X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "抗がん剤カバジタクセルを内包した高分子ナノ粒子の表面をトランスフェリンで修飾し、受容体介在性取り込みを利用した標的指向性DDS製剤を開発した。",
+        "前立腺がん細胞株に対する細胞取り込み量およびインビトロでの細胞傷害性が、未修飾粒子に比べて有意に向上した。",
+        "低分子抗がん剤の高分子ナノ粒子化およびリガンド修飾によるターゲティング最適化のCMCおよび製剤設計の好例となる。"
+      ]
+    },
+    {
+      "title_ja": "デキサメタゾンパルミテート含有ナノディスクによる炎症関節の標ッゲティングと関節リウマチの抑制",
+      "original_title": "Dexamethasone palmitate-loaded nanodiscs target inflamed joints and suppress rheumatoid arthritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008801?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗炎症薬であるデキサメタゾンパルミテートを搭載した高密度リポ蛋白（HDL）模倣ナノディスクを調製し、関節リウマチモデルに対する治療効果を評価した。",
+        "ナノディスクの優れた血中滞留性と炎症部位への集積性により、関節の炎症抑制効果が著しく改善された。",
+        "難水溶性薬物の血中安定化と受動的ターゲティングを両立する新規DDS製剤として、高分子・脂質ナノ粒子製剤の設計に応用できる。"
+      ]
+    },
+    {
+      "title_ja": "リトレシチニブ脂質微小球の開発とモデル駆動型による健常人における消化管領域別送達性の決定",
+      "original_title": "Ritlecitinib lipid microsphere development and model-facilitated determination of regional gastrointestinal delivery in healthy volunteers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008965?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "リトレシチニブの経口吸収性および消化管内での薬物動態を最適化するため、脂質微小球製剤を開発し、PBPKモデル等の数理モデルを活用して体内動態を解析した。",
+        "消化管の特定領域における薬物放出挙動とヒトでの吸収プロファイルとの相関を明らかにすることに成功した。",
+        "経口徐放性製剤や消化管標的型ドラッグデリバリーシステムの設計において、モデルベースト・ドラッグ・ディベロップメント（MIDD）手法の有用性を示している。"
+      ]
+    },
+    {
+      "title_ja": "バイオオルソゴナルケミストリー抱合体：抗体薬物複合体（ADC）およびその先へ",
+      "original_title": "Bioorthogonal chemistry conjugates: ADCs and beyond",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "バイオオルソゴナル反応（クリック化学等）を活用した抗体薬物複合体（ADC）および多様なバイオコンジュゲーション技術の最新動向を総括する。",
+        "部位特異的（サイトスペシフィック）な修飾による均一なDAR（薬物抗体比）の制御や、in vivoでの安定性向上に関する知見を整理した。",
+        "次世代ADCや抗体・タンパク質医薬の品質均一化、製造プロセス（CMC）におけるコンジュゲーション技術の革新に直結する示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "セラノスティクスおよび放射性抱合体のためのバイオオルソゴナルケミストリー",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "診断と治療を融合したセラノスティクス（Theranostics）および放射性医薬品におけるバイオオルソゴナル反応の応用を詳述する。",
+        "プレターゲット法（pre-targeting）を用いた体内での効率的なラベリングや、放射性同位元素の崩壊に耐える安定な結合様式について解説している。",
+        "放射性医薬品や抗体ベースのイメージング・治療薬の開発において、化学的安定性と生体適合性を両立する製剤設計の指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "遺伝子組換え緑色蛍光タンパク質（GFP）融合ペディオシンの熱安定性に基づく生物活性回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "抗菌ペプチドであるペディオシンをGFPとの融合タンパク質として発現させ、その高い熱安定性を利用した効率的な回収・精製プロセスを開発した。",
+        "熱処理による宿主由来タンパク質の選択的変性と沈殿除去を行い、簡便な操作で高純度の生物活性ペディオシンを得ることに成功した。",
+        "バイオ医薬品や生理活性ペプチドの下流工程（ダウンストリームプロセス）において、コスト削減と高収率を両立する新規精製戦略の可能性を示す。"
+      ]
+    }
+  ]
+}
