@@ -1,0 +1,137 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "title_ja": "抗体医薬品・アジュバント添加ワクチンのシェイクテスト：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント添加ワクチンにおける物理的安定性評価としてのシェイクテストについて、工業的・製造業者の視点から包括的に検証した。",
+        "凍結ストレス等による凝集や物理的変化の検出におけるシェイクテストの感度と実用上の課題を明確化した。",
+        "ワクチン製剤のコールドチェーン逸脱や輸送中の品質リスク評価、および実用的な品質管理手法への重要な示唆を提供している。"
+      ]
+    },
+    {
+      "title_ja": "ジスルフィド結合修飾型イオナイズド脂質を用いたsiRNAとカーボンナノドットの共送達による急性肝障害治療",
+      "original_title": "Disulfide bond-modified ionizable lipids for co-delivery of siRNA and carbon dots in the treatment of acute liver injury",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326010501?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "細胞内還元環境に応答して分解・脱離するジスルフィド結合を導入した新規イオナイズド脂質を合成し、siRNAとカーボンナノドットの共送達システムを開発した。",
+        "標的細胞内での効率的な核酸放出と優れた肝障害治療効果を実証し、安全性と送達効率の双方を向上させた。",
+        "核酸医薬（siRNA）のLNP（脂質ナノ粒子）製剤設計において、還元応答性脂質の活用がデリバリー効率を高める有効なアプローチであることを示した。"
+      ]
+    },
+    {
+      "title_ja": "バイオインフォマティクスおよびモデル駆動型バイオ医薬品学のためのドメイン検証済み残差XGBoostサロゲートモデル",
+      "original_title": "Domain-validated residual XGBoost surrogates for model-informed biopharmaceutics and population pharmacokinetic inference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S093964112600281X?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "モデルインフォームド医薬品開発（MIDD）および母集団薬物動態（PopPK）解析を高速化・高精度化するため、残差XGBoostに基づく機械学習サロゲートモデルを構築した。",
+        "複雑な生理学的薬物動態シミュレーションをドメイン検証済みの機械学習で代替し、予測精度を維持しつつ計算コストを劇的に削減した。",
+        "製剤の体内動態予測やバーチャル臨床試験におけるAI/ML活用の実用的な枠組みを提供し、CMCおよび臨床開発の効率化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "リツルチニブ脂質微小球の開発と、健康成人における消化管領域別送達のモデル化決定",
+      "original_title": "Ritlecitinib lipid microsphere development and model-facilitated determination of regional gastrointestinal delivery in healthy volunteers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008965?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "難水溶性薬剤であるリツルチニブを搭載した脂質微小球製剤を開発し、ヒト臨床試験における消化管各部位からの薬物送達挙動をモデルベースで解析した。",
+        "先進的な製剤技術（脂質微小球）とPBPK等のモデリング手法を組み合わせることで、消化管吸収プロファイルの詳細な特定に成功した。",
+        "経口徐放性製剤や局所送達を目的とした微小球製剤の設計において、臨床バイオアベイラビリティ予測と製剤最適化の強力なツールとなる。"
+      ]
+    },
+    {
+      "title_ja": "バイオ直交化学コンジュゲート：抗体薬物複合体（ADC）とその先へ",
+      "original_title": "Bioorthogonal chemistry conjugates: ADCs and beyond",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体薬物複合体（ADC）をはじめとする次世代の生体複合体創製に向けたバイオ直交化学の最新動向を総括した。",
+        "部位特異的修飾や均一なDAR（薬物抗体比）制御を可能にする多様な化学反応の利点と課題を整理した。",
+        "次世代バイオコンジュゲーション医薬品のCMCプロセス設計および品質特性評価における技術指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "心血管疾患向けナノ粒子：前臨床の成功を臨床応用へ繋ぐ上での障壁の特定と克服",
+      "original_title": "Nanoparticles for cardiovascular diseases: identifying and overcoming barriers in translating preclinical success to clinical applications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002140?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "心血管疾患治療を目的としたナノ粒子DDSについて、前臨床研究から臨床段階へ移行する際の主要なボトルネックを分析した。",
+        "生体適合性、標的特異性、スケーラビリティ、免疫原性といったCMC・薬理学的課題とその克服アプローチを詳解した。",
+        "臨床応用を見据えたナノ医薬品の品質設計（QbD）やスケールアップ研究において考慮すべき重要なベンチマークを示す。"
+      ]
+    },
+    {
+      "title_ja": "バイオ直交化学を活用したセラノスティクスおよび放射性リガンド・コンジュゲート",
+      "original_title": "Bioorthogonal chemistries for theranostics and radioconjugates",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "診断と治療を融合するセラノスティクスおよび放射性医薬品（ラジオコンジュゲート）へのバイオ直交化学の応用をレビューした。",
+        "インビボでのクリック反応等を利用した高効率かつ高選択的なプレターゲット法等の最新進展をまとめた。",
+        "核医学治療薬の安定性向上や標的集積性の最適化を図る製剤設計・コンジュゲーション技術の未来像を提示。"
+      ]
+    },
+    {
+      "title_ja": "熱可逆性鼻腔内ゾル－ゲルからのイメージング剤放出に関する定量的なin vitro PET/MRIとキネティックモデリング",
+      "original_title": "Quantitative in vitro PET/MRI and kinetic modelling of imaging agent release from a thermoreversible intranasal sol-gel",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002894?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "鼻腔投与用の熱可逆性ゾル－ゲル製剤からの薬物・イメージング剤放出挙動を、PET/MRIと動態モデリングを用いて非侵襲かつ定量的に評価した。",
+        "高感度イメージングと数理モデルを融合し、ゲル基質内からの薬物拡散と放出速度を3次元的に追跡することに成功した。",
+        "粘膜適用製剤や局所徐放性製剤のin vitro-in vivo相関（IVIVC）構築および放出試験法の高度化に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "構造・相互作用・性能の関係性：ケルセチンベースの共非晶質系における分子シミュレーションと実験的キャラクタリゼーションの洞察",
+      "original_title": "Structure–interaction–performance relationships in quercetin-based co-amorphous systems: insights from molecular simulations and experimental characterization",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002833?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難水溶性ポリフェノールであるケルセチンを用いた共非晶質系の分子間相互作用と物理的安定性を分子シミュレーションと実験手法で解析した。",
+        "分子レベルでの水素結合等の相互作用が、非晶質状態の安定性および溶解性向上性能に与える影響を定量的に解明した。",
+        "難水溶性化合物のバイオアベイラビリティ改善に向けた非晶質固形分散体（ASD）や共非晶質製剤の合理的設計指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "トランスフェリン修飾による前立腺がん細胞へのカバジタクセル含有ポリマーナノ粒子の取り込み向上と細胞障害性の増強",
+      "original_title": "Transferrin functionalization enhances prostate cancer cell uptake and cytotoxicity of cabazitaxel-loaded polymeric nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S037851732601032X?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "抗がん剤カバジタクセルを内包したポリマーナノ粒子の表面をトランスフェリンで修飾し、受容体媒介性エンドサイトーシスを介したターゲティング性を検証した。",
+        "表面修飾により前立腺がん細胞に対する細胞取り込み効率が飛躍的に高まり、結果として細胞障害性が有意に向上することを示した。",
+        "高分子ナノ粒子を用いた能動的ドラッグデリバリーシステムの表面修飾技術と、薬効評価の重要なベンチマークデータを提供。"
+      ]
+    },
+    {
+      "title_ja": "緑色植物由来組換え融合タンパク質からの熱安定性に基づく生理活性ペディオシンの回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "緑色蛍光タンパク質（GFP）との組換え融合タンパク質として発現させた生理活性ペプチド（ペディオシン）を、熱安定性を利用して効率的に回収する精製プロセスを開発した。",
+        "熱処理を利用した簡便な分離スキームにより、高純度かつ高い生物活性を保持したまま標的ペプチドを回収することに成功した。",
+        "有用生理活性ペプチドや抗菌ペプチドのバイオプロセス・下流精製（Downstream Processing）におけるコスト削減と効率化につながる手法を提案。"
+      ]
+    }
+  ]
+}

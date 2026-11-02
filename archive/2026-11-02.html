@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/02 (Mon)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/02 (Mon) ／ 11 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">抗体医薬品・アジュバント添加ワクチンのシェイクテスト：製造業者の視点</a>
+      </h2>
+      <p class="original-title">原題: The shake-test for adjuvanted vaccines: A manufacturer's perspective</p>
+      <ul class="points-list">
+        <li>アジュバント添加ワクチンにおける物理的安定性評価としてのシェイクテストについて、工業的・製造業者の視点から包括的に検証した。</li>
+<li>凍結ストレス等による凝集や物理的変化の検出におけるシェイクテストの感度と実用上の課題を明確化した。</li>
+<li>ワクチン製剤のコールドチェーン逸脱や輸送中の品質リスク評価、および実用的な品質管理手法への重要な示唆を提供している。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics (IJP)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326010501?dgcid=rss_sd_all" target="_blank" rel="noopener">ジスルフィド結合修飾型イオナイズド脂質を用いたsiRNAとカーボンナノドットの共送達による急性肝障害治療</a>
+      </h2>
+      <p class="original-title">原題: Disulfide bond-modified ionizable lipids for co-delivery of siRNA and carbon dots in the treatment of acute liver injury</p>
+      <ul class="points-list">
+        <li>細胞内還元環境に応答して分解・脱離するジスルフィド結合を導入した新規イオナイズド脂質を合成し、siRNAとカーボンナノドットの共送達システムを開発した。</li>
+<li>標的細胞内での効率的な核酸放出と優れた肝障害治療効果を実証し、安全性と送達効率の双方を向上させた。</li>
+<li>核酸医薬（siRNA）のLNP（脂質ナノ粒子）製剤設計において、還元応答性脂質の活用がデリバリー効率を高める有効なアプローチであることを示した。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326010501?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics (EJPB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S093964112600281X?dgcid=rss_sd_all" target="_blank" rel="noopener">バイオインフォマティクスおよびモデル駆動型バイオ医薬品学のためのドメイン検証済み残差XGBoostサロゲートモデル</a>
+      </h2>
+      <p class="original-title">原題: Domain-validated residual XGBoost surrogates for model-informed biopharmaceutics and population pharmacokinetic inference</p>
+      <ul class="points-list">
+        <li>モデルインフォームド医薬品開発（MIDD）および母集団薬物動態（PopPK）解析を高速化・高精度化するため、残差XGBoostに基づく機械学習サロゲートモデルを構築した。</li>
+<li>複雑な生理学的薬物動態シミュレーションをドメイン検証済みの機械学習で代替し、予測精度を維持しつつ計算コストを劇的に削減した。</li>
+<li>製剤の体内動態予測やバーチャル臨床試験におけるAI/ML活用の実用的な枠組みを提供し、CMCおよび臨床開発の効率化に貢献する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S093964112600281X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926008965?dgcid=rss_sd_all" target="_blank" rel="noopener">リツルチニブ脂質微小球の開発と、健康成人における消化管領域別送達のモデル化決定</a>
+      </h2>
+      <p class="original-title">原題: Ritlecitinib lipid microsphere development and model-facilitated determination of regional gastrointestinal delivery in healthy volunteers</p>
+      <ul class="points-list">
+        <li>難水溶性薬剤であるリツルチニブを搭載した脂質微小球製剤を開発し、ヒト臨床試験における消化管各部位からの薬物送達挙動をモデルベースで解析した。</li>
+<li>先進的な製剤技術（脂質微小球）とPBPK等のモデリング手法を組み合わせることで、消化管吸収プロファイルの詳細な特定に成功した。</li>
+<li>経口徐放性製剤や局所送達を目的とした微小球製剤の設計において、臨床バイオアベイラビリティ予測と製剤最適化の強力なツールとなる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926008965?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all" target="_blank" rel="noopener">バイオ直交化学コンジュゲート：抗体薬物複合体（ADC）とその先へ</a>
+      </h2>
+      <p class="original-title">原題: Bioorthogonal chemistry conjugates: ADCs and beyond</p>
+      <ul class="points-list">
+        <li>抗体薬物複合体（ADC）をはじめとする次世代の生体複合体創製に向けたバイオ直交化学の最新動向を総括した。</li>
+<li>部位特異的修飾や均一なDAR（薬物抗体比）制御を可能にする多様な化学反応の利点と課題を整理した。</li>
+<li>次世代バイオコンジュゲーション医薬品のCMCプロセス設計および品質特性評価における技術指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002140?dgcid=rss_sd_all" target="_blank" rel="noopener">心血管疾患向けナノ粒子：前臨床の成功を臨床応用へ繋ぐ上での障壁の特定と克服</a>
+      </h2>
+      <p class="original-title">原題: Nanoparticles for cardiovascular diseases: identifying and overcoming barriers in translating preclinical success to clinical applications</p>
+      <ul class="points-list">
+        <li>心血管疾患治療を目的としたナノ粒子DDSについて、前臨床研究から臨床段階へ移行する際の主要なボトルネックを分析した。</li>
+<li>生体適合性、標的特異性、スケーラビリティ、免疫原性といったCMC・薬理学的課題とその克服アプローチを詳解した。</li>
+<li>臨床応用を見据えたナノ医薬品の品質設計（QbD）やスケールアップ研究において考慮すべき重要なベンチマークを示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002140?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">バイオ直交化学を活用したセラノスティクスおよび放射性リガンド・コンジュゲート</a>
+      </h2>
+      <p class="original-title">原題: Bioorthogonal chemistries for theranostics and radioconjugates</p>
+      <ul class="points-list">
+        <li>診断と治療を融合するセラノスティクスおよび放射性医薬品（ラジオコンジュゲート）へのバイオ直交化学の応用をレビューした。</li>
+<li>インビボでのクリック反応等を利用した高効率かつ高選択的なプレターゲット法等の最新進展をまとめた。</li>
+<li>核医学治療薬の安定性向上や標的集積性の最適化を図る製剤設計・コンジュゲーション技術の未来像を提示。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002127?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics (EJPB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002894?dgcid=rss_sd_all" target="_blank" rel="noopener">熱可逆性鼻腔内ゾル－ゲルからのイメージング剤放出に関する定量的なin vitro PET/MRIとキネティックモデリング</a>
+      </h2>
+      <p class="original-title">原題: Quantitative in vitro PET/MRI and kinetic modelling of imaging agent release from a thermoreversible intranasal sol-gel</p>
+      <ul class="points-list">
+        <li>鼻腔投与用の熱可逆性ゾル－ゲル製剤からの薬物・イメージング剤放出挙動を、PET/MRIと動態モデリングを用いて非侵襲かつ定量的に評価した。</li>
+<li>高感度イメージングと数理モデルを融合し、ゲル基質内からの薬物拡散と放出速度を3次元的に追跡することに成功した。</li>
+<li>粘膜適用製剤や局所徐放性製剤のin vitro-in vivo相関（IVIVC）構築および放出試験法の高度化に寄与する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002894?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics (EJPB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002833?dgcid=rss_sd_all" target="_blank" rel="noopener">構造・相互作用・性能の関係性：ケルセチンベースの共非晶質系における分子シミュレーションと実験的キャラクタリゼーションの洞察</a>
+      </h2>
+      <p class="original-title">原題: Structure–interaction–performance relationships in quercetin-based co-amorphous systems: insights from molecular simulations and experimental characterization</p>
+      <ul class="points-list">
+        <li>難水溶性ポリフェノールであるケルセチンを用いた共非晶質系の分子間相互作用と物理的安定性を分子シミュレーションと実験手法で解析した。</li>
+<li>分子レベルでの水素結合等の相互作用が、非晶質状態の安定性および溶解性向上性能に与える影響を定量的に解明した。</li>
+<li>難水溶性化合物のバイオアベイラビリティ改善に向けた非晶質固形分散体（ASD）や共非晶質製剤の合理的設計指針を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002833?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics (IJP)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S037851732601032X?dgcid=rss_sd_all" target="_blank" rel="noopener">トランスフェリン修飾による前立腺がん細胞へのカバジタクセル含有ポリマーナノ粒子の取り込み向上と細胞障害性の増強</a>
+      </h2>
+      <p class="original-title">原題: Transferrin functionalization enhances prostate cancer cell uptake and cytotoxicity of cabazitaxel-loaded polymeric nanoparticles</p>
+      <ul class="points-list">
+        <li>抗がん剤カバジタクセルを内包したポリマーナノ粒子の表面をトランスフェリンで修飾し、受容体媒介性エンドサイトーシスを介したターゲティング性を検証した。</li>
+<li>表面修飾により前立腺がん細胞に対する細胞取り込み効率が飛躍的に高まり、結果として細胞障害性が有意に向上することを示した。</li>
+<li>高分子ナノ粒子を用いた能動的ドラッグデリバリーシステムの表面修飾技術と、薬効評価の重要なベンチマークデータを提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S037851732601032X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-11">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering (JBB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">緑色植物由来組換え融合タンパク質からの熱安定性に基づく生理活性ペディオシンの回収</a>
+      </h2>
+      <p class="original-title">原題: Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein</p>
+      <ul class="points-list">
+        <li>緑色蛍光タンパク質（GFP）との組換え融合タンパク質として発現させた生理活性ペプチド（ペディオシン）を、熱安定性を利用して効率的に回収する精製プロセスを開発した。</li>
+<li>熱処理を利用した簡便な分離スキームにより、高純度かつ高い生物活性を保持したまま標的ペプチドを回収することに成功した。</li>
+<li>有用生理活性ペプチドや抗菌ペプチドのバイオプロセス・下流精製（Downstream Processing）におけるコスト削減と効率化につながる手法を提案。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
