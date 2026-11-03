@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品および生ワクチンにおけるシェイクテスト：製造業者の視点",
+      "original_title": "The shake-test for adjuvanted vaccines: A manufacturer's perspective",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926003539?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "アジュバント含有ワクチンの物理的安定性評価に用いられる伝統的なシェイクテストについて、製造業者の視点から検証・考察を行った。",
+        "凝集や物理的変化の検知におけるシェイクテストの限界と実用上の意義を整理した。",
+        "ワクチン製品の品質管理および出荷判定における物理的ストレステストの適切な運用と標準化への示唆を与えている。"
+      ]
+    },
+    {
+      "title_ja": "バイオ医薬品の物性解析のための高度な非特異的結合測定法：5原則を超える化合物の非結合分画の測定を可能にする新規手法",
+      "original_title": "A novel non-specific binding method enables measurement of the fraction unbound of beyond rule-of-five compounds",
+      "url": "https://www.sciencedirect.com/science/article/pii/S002235492600403X?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "分子量が大きく脂溶性が高い「5原則を超える（bRo5）」化合物や複雑なバイオ医薬品候補を対象とした、非特異的結合を正確に評価する新しい測定法を開発した。",
+        "遊離分画（fraction unbound）の正確な定量化を実現し、複雑な製剤環境下での薬物挙動評価の精度を向上させた。",
+        "難溶性・高分子量化合物の前臨床動態予測や製剤設計時のスクリーニングにおいて信頼性の高いデータを提供する。"
+      ]
+    },
+    {
+      "title_ja": "スピオテンポラルに制御された精密なタンパク質分解のためのデュアルゲート型エンジニアード細菌プラットフォーム",
+      "original_title": "A dual-gated engineered bacterial platform for spatiotemporally controlled precise protein degradation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008631?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的タンパク質の分解を空間的・時間的に精密制御するため、2つの制御系を組み込んだデュアルゲート型の遺伝子組換え細菌プラットフォームを構築した。",
+        "体内の特定部位や環境に応じた条件でのみ標的タンパク質を選択的かつ効率的に分解・制御できることを実証した。",
+        "次世代の生きた細胞製剤や標的指向型DDSにおける高度な制御システムの設計に資する。"
+      ]
+    },
+    {
+      "title_ja": "マイクロバイオームと薬物送達の連関：ファーマコミクロバイオミクスから生きたバイオ医薬品のデリバリーまで",
+      "original_title": "The microbiota-drug delivery nexus: from pharmacomicrobiomics to live biotherapeutic delivery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008837?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腸内マイクロバイオームと薬物代謝・送達の相互作用（ファーマコミクロバイオミクス）に関する最新の知見と、生きたバイオ医薬品（LBP）の送達技術を包括的にレビューした。",
+        "マイクロバイオームによる薬物の代謝・失活メカニズムと、それを回避・利用するためのDDS設計戦略を整理した。",
+        "LBP製剤の開発や、腸内環境を考慮した経口バイオ医薬品・DDSの最適化に向けた指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "デキサメタゾンパルミテート含有ナノディスクによる炎症関節の標的化と関節リウマチの抑制",
+      "original_title": "Dexamethasone palmitate-loaded nanodiscs target inflamed joints and suppress rheumatoid arthritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008801?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗炎症薬デキサメタゾンパルミテートを内包した高密度リポタンパク質（HDL）模倣ナノディスクを開発し、関節リウマチモデルでの治療効果を検証した。",
+        "炎症部位への優れた集積性を示し、関節炎の症状および炎症性サイトカインの産生を強力かつ持続的に抑制した。",
+        "関節リウマチ治療のためのナノ粒子製剤の設計およびドラッグリポジショニングの有効なアプローチを提示している。"
+      ]
+    },
+    {
+      "title_ja": "先進的な薬物送達および治療に向けた活性酸素種（ROS）の活用",
+      "original_title": "Harnessing reactive oxygen species for advanced drug delivery and therapeutics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008412?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "病巣部に高発現する活性酸素種（ROS）をトリガーとして薬物を放出する、または治療自体に応用するスマートDDSの最新動向を総括した。",
+        "ROS応答性ポリマー、脂質ナノ粒子（LNP）、無機ナノ材料などの設計原理と、がんや炎症性疾患における治療成績をまとめた。",
+        "次世代の環境応答型バイオ医薬品・DDS製剤におけるキャリア設計や品質評価の重要なトレンドを示している。"
+      ]
+    },
+    {
+      "title_ja": "リトレシチニブ脂質微小球の開発と、健康成人における消化管領域別送達のモデル化評価",
+      "original_title": "Ritlecitinib lipid microsphere development and model-facilitated determination of regional gastrointestinal delivery in healthy volunteers",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926008965?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "難水溶性薬物リトレシチニブを搭載した脂質微小球製剤を開発し、薬物動態モデリングを用いて健康成人における消化管各部位からの薬物放出・吸収挙動を解析した。",
+        "生理学的薬物動態（PBPK）モデル等を活用することで、経口投与後の消化管領域ごとの送達効率を定量的に明らかにすることに成功した。",
+        "消化管局所送達を目的とした脂質ベースの製剤設計および臨床 pharmacokinetic 予測の強力な手法を提供する。"
+      ]
+    },
+    {
+      "title_ja": "心血管疾患用ナノ粒子：前臨床の成功を臨床応用へ移行させる際の障壁の特定と克服",
+      "original_title": "Nanoparticles for cardiovascular diseases: identifying and overcoming barriers in translating preclinical success to clinical applications",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002140?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "心血管疾患治療を目的としたナノ粒子製剤について、前臨床研究で得られた高い効果が臨床試験で再現されにくい理由（生体内障壁、ターゲティング効率、免疫原性など）を分析した。",
+        "血栓や動脈硬化巣への特異的集積性を高めるための表面修飾技術や、スケールアップを見据えた製剤設計上の課題を整理した。",
+        "心血管領域におけるナノ医薬品のトランスレーショナルリサーチ（橋渡し研究）およびCMC開発における重要な留意点を示す。"
+      ]
+    },
+    {
+      "title_ja": "生体直交化学によるコンジュゲート：抗体薬物複合体（ADC）とその先へ",
+      "original_title": "Bioorthogonal chemistry conjugates: ADCs and beyond",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体薬物複合体（ADC）をはじめとするバイオコンジュゲーション技術において、生体直交化学（バイオオルトゴナルケミストリー）を用いた最新の結合手法を総括した。",
+        "従来のランダムコンジュゲーションの課題を克服する、均一性（DAR制御）に優れた部位特異的修飾技術の利点を詳述した。",
+        "次世代ADCや抗体・タンパク質複合体医薬品の品質設計、製造プロセス、およびCMC評価戦略に直接的な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "レドックス応答性ペプチド集合体による精密なセラノスティクス",
+      "original_title": "Redox-responsive peptide assemblies for precision theranostic",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002115?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内の酸化還元（レドックス）状態の変化に応じて構造や機能が変化するペプチド自己集合体について、診断と治療（セラノスティクス）への応用をレビューした。",
+        "腫瘍微小環境や細胞内還元環境を利用した、標的特異的なイメージング造影剤の放出と薬剤の放出メカニズムを解説した。",
+        "高精度なターゲティングと診断を両立するペプチドベースの医薬品製剤設計の指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ジブカインとのイオン対形成およびラジカルフリーパッチ基剤の選択によるメチルラジカルを介したケトプロフェンの光分解抑制",
+      "original_title": "Inhibition of ketoprofen photodecomposition mediated by methyl radicals: ion-pair formation with dibucaine and selection of radical-free patch base materials",
+      "url": "https://www.sciencedirect.com/science/article/pii/S03939641126002882?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "経皮吸収型製剤におけるケトプロフェンの光分解メカニズム（メチルラジカル介在）を解明し、その抑制アプローチを検討した。",
+        "ジブカインとのイオン対形成およびラジカルを発生しない基剤材料の選定により、光安定性が劇的に向上することを実験的に証明した。",
+        "光不安定性を持つ低分子製剤の処方設計、安定性試験、およびパッチ製剤の品質改善に直接役立つ知見である。"
+      ]
+    },
+    {
+      "title_ja": "熱可逆性鼻腔内ゾル－ゲルからの画像化剤放出の定量的なin vitro PET/MRIおよび動態モデリング",
+      "original_title": "Quantitative in vitro PET/MRI and kinetic modelling of imaging agent release from a thermoreversible intranasal sol-gel",
+      "url": "https://www.sciencedirect.com/science/article/pii/S03939641126002894?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "鼻腔内投与用の熱可逆性ゾル-ゲル製剤からの薬物（画像化剤）放出挙動を、PET/MRIと動態モデリングを組み合わせて非侵襲的かつ定量的に評価した。",
+        "ゲル内での薬物拡散と放出速度の相関を空間的・時間的分解能高く可視化・解析ことに成功した。",
+        "徐放性粘膜投与製剤のin vitro/in vivo相関（IVIVC）評価および放出試験法の開発に高度なアプローチを提示する。"
+      ]
+    },
+    {
+      "title_ja": "モデルに基づいた生物薬剤学および母集団薬物動態学的推論のためのドメイン検証済みの残差XGBoostサロゲートモデル",
+      "original_title": "Domain-validated residual XGBoost surrogates for model-informed biopharmaceutics and population pharmacokinetic inference",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0393964112600281X?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "モデルインフォームド医薬品開発（MIDD）および母集団薬物動態（PopPK）解析を高速化・高精度化するため、残差XGBoost機械学習サロゲートモデルを開発・検証した。",
+        "複雑な非線形薬物動態を効率的に近似し、従来の計算負荷を大幅に削減しつつ予測精度を担保できることを示した。",
+        "製剤のインビトロ-インビボ相関（IVIVC）や製剤処方最適化におけるデジタルツイン・AI活用の実用的な枠組みを提供する。"
+      ]
+    },
+    {
+      "title_ja": "創傷被覆材に向けたAI搭載カラー認識機能を持つpH応答性クルクミン含有ナノファイバー複合体の開発",
+      "original_title": "Development of pH-Responsive Curcumin-Loaded nanofiber composites with AI-Assisted color recognition for wound dressing",
+      "url": "https://www.sciencedirect.com/science/article/pii/S03939641126002870?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "傷の治癒状態（pH変化）を検知して色調が変化するクルクミン含有ナノファイバー複合体を作製し、AIによる画像カラー認識システムと統合した。",
+        "創傷治癒過程のpH変化に基づいた視覚的なモニタリングと、クルクミンの持続的放出による治療効果を同時に達成した。",
+        "スマート創傷ドレッシング製剤のデザインおよびデジタルヘルスケアを融合した品質管理・評価法の新たな方向性を示す。"
+      ]
+    }
+  ]
+}
