@@ -1,0 +1,65 @@
+{
+  "date": "2026-11-04",
+  "articles": [
+    {
+      "title_ja": "バイオ医薬品・製剤（CMC）分野における最新文献選定および要約",
+      "original_title": "Selected and Summarized Recent Literature in CMC and Biopharmaceuticals",
+      "url": "https://www.sciencedirect.com",
+      "source": "Advanced Drug Delivery Reviews / Journal of Controlled Release / International Journal of Pharmaceutics",
+      "category_tag": "製剤・DDS / 抗体・バイオプロセス",
+      "points": [
+        "本リストではバイオ医薬品およびDDS分野に関連する最新の査読済み論文を網羅的に解析対象とした。",
+        "抗体、ナノ粒子、リポソーム、およびバイオ医薬品の物性・製剤化に関する重要な知見を抽出した。",
+        "製剤開発、品質管理、およびCMC戦略における実用的な示唆を提供する。"
+      ]
+    },
+    {
+      "title_ja": "バイオ直交化学コンジュゲート：ADCおよびその先へ",
+      "original_title": "Bioorthogonal chemistry conjugates: ADCs and beyond",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002139?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体薬物複合体（ADC）をはじめとするバイオ医薬品へのバイオ直交化学の応用について、最新の進化と技術的アプローチを概観した。",
+        "サイト特異的コンジュゲーションによる均一性の向上や、薬物対抗体比（DAR）の厳密な制御手法に関する知見を整理した。",
+        "次世代ADCの製造プロセス開発（CMC）および品質管理において、均一性と安定性を担保するための設計指針となる。"
+      ]
+    },
+    {
+      "title_ja": "ファブリ病酵素補充療法のためのRGD機能化ナノリポソームにおけるプロテインコロナの影響",
+      "original_title": "Impact of the protein corona in RGD-functionalized nanoliposomes delivering enzymatic replacement therapy for Fabry disease",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326010318?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ファブリ病向け酵素補充療法用のRGD修飾ナノリポソームが生体内で形成するプロテインコロナが、標的指向性に与える影響を評価した。",
+        "血漿中タンパク質との相互作用によるナノ粒子の物理化学的変化と細胞取り込み効率への影響を定量的に解析した。",
+        "リポソーム製剤の体内動態制御や、ターゲティング効率を最大化するための製剤設計・表面修飾の重要性を示唆している。"
+      ]
+    },
+    {
+      "title_ja": "オメプラゾールの薬物関連ニトロソ化不純物に関する最適化された強制ニトロソ化条件を用いた調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "医薬品有効成分（API）および関連物質中に微量発生しうるニトロソ化不純物（ニトロソアミン類）を検出・評価するため、最適化された強制ニトロソ化条件を検討した。",
+        "オメプラゾールをモデルとして、不純物由来の潜在的ニトロソ化不純物の生成経路とリスク因子を特定した。",
+        "医薬品の品質管理（QC）および規制当局が求める変異原性不純物のリスク評価（LC-MS/MS等による分析法バリデーション）への実用的なアプローチを提供する。"
+      ]
+    },
+    {
+      "title_ja": "組換え緑色蛍光タンパク質に融合した生理活性ペディオシンの熱安定性に基づく回収",
+      "original_title": "Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "緑色蛍光タンパク質（GFP）との融合タンパク質として発現させた生理活性ペディオシンについて、熱安定性を利用した効率的な回収・精製プロセスを開発した。",
+        "熱処理により夾雑宿主タンパク質を選択的に沈殿除去しつつ、標的タンパク質の活性を維持したまま高純度で回収できることを実証した。",
+        "バイオ医薬品の上流・下流プロセス（Downstream Process）における新規かつ経済的な精製技術のプラットフォームとして応用が期待される。"
+      ]
+    }
+  ]
+}
