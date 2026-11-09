@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/09 (Mon)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/09 (Mon) ／ 10 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release (JCR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009296?dgcid=rss_sd_all" target="_blank" rel="noopener">マクロファージ標的GAS6 siRNA送達多機能マンナンペプチドナノキャリアによる肺線維症の進行抑制</a>
+      </h2>
+      <p class="original-title">原題: Macrophage-targeted GAS6 siRNA delivery by a multifunctional mannan-peptide nanocarrier attenuates pulmonary fibrosis progression</p>
+      <ul class="points-list">
+        <li>マクロファージを標的とするマンナンペプチド修飾ナノキャリアを構築し、GAS6 siRNAの効率的な送達システムを開発した。</li>
+<li>標的細胞への特異的集積と遺伝子サイレンシングにより、肺線維症の進行を有意に抑制することを確認した。</li>
+<li>核酸医薬の体内動態制御および難治性疾患に対するDDS設計の優れた実例となる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009296?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews (ADDR)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">抗体医薬送達における抗PEG抗体：起源から回避戦略まで</a>
+      </h2>
+      <p class="original-title">原題: Anti-PEG antibodies in drug delivery: From origins to mitigation strategies</p>
+      <ul class="points-list">
+        <li>PEG化製剤に対する抗PEG抗体の産生メカニズムと、血中クリアランス促進やアレルギー反応などの臨床的課題を包括的にレビューした。</li>
+<li>抗PEG抗体の影響を回避するための代替ポリマー（PVAや双性イオン材料など）の活用や構造最適化のトレンドを整理した。</li>
+<li>血中滞留性や薬物動態に直結する次世代DDS設計および安全性評価戦略の重要な指針を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics (EJPB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002912?dgcid=rss_sd_all" target="_blank" rel="noopener">ポリビニルアルコール誘導体で表面改修したリポソームによる粘液透過性と経口吸収の向上：ポリエチレングリコールの有望な代替</a>
+      </h2>
+      <p class="original-title">原題: Surface-modified liposomes with polyvinyl alcohol derivatives improve mucus penetration and oral absorption: A potential alternative to polyethylene glycol</p>
+      <ul class="points-list">
+        <li>PEGの代替としてポリビニルアルコール（PVA）誘導体を用いた表面改修リポソームを作製し、粘液透過性と経口吸収性を評価した。</li>
+<li>PVA修飾により粘液層での捕捉を防ぎ、消化管粘膜の透過効率が著しく向上することを実証した。</li>
+<li>抗PEG抗体問題に対する有効な製剤処方上の解決策として、経口DDS開発に直接応用できる知見である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002912?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics (EJPB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003061?dgcid=rss_sd_all" target="_blank" rel="noopener">皮下投与用PLGAマイクロスフェresの生理学的に関連したインビトロ放出試験に向けて</a>
+      </h2>
+      <p class="original-title">原題: Toward physiologically relevant in vitro release testing of PLGA microspheres for subcutaneous administration</p>
+      <ul class="points-list">
+        <li>皮下投与型PLGAマイクロスフェresを対象に、実際の体内環境を反映した生理学的インビトロ放出試験（IVRT）系の構築を試みた。</li>
+<li>試験条件（流速、媒体組成、撹拌方法など）が放出挙動に与える影響を詳細に解析し、相関性を高めるパラメータを特定した。</li>
+<li>徐放性製剤の品質管理（QC）およびIVIVC（インビトロ・インビボ相関）確立のための重要なCMCアプローチを提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003061?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">オメプラゾールの薬物関連ニトロソ化不純物の最適化強制ニトロソ化条件を用いた調査</a>
+      </h2>
+      <p class="original-title">原題: Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions</p>
+      <ul class="points-list">
+        <li>オメプラゾールをモデルとして、最適化した強制ニトロソ化条件下で生成する薬物関連のニトロソ化不純物を網羅的に調査した。</li>
+<li>不純物プロファイルの詳細な解析により、分解経路および新規のニトロソ化副産物の構造を同定した。</li>
+<li>原薬および製剤におけるニトロソアミン類（NDSRIs等）のリスク評価と分析法バリデーションに向けた実用的データを提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004211?dgcid=rss_sd_all" target="_blank" rel="noopener">代表的な低分子ニトロソアミンの経皮透過：リスク評価へのインプリケーション</a>
+      </h2>
+      <p class="original-title">原題: Dermal permeation of representative small molecule nitrosamines: Implications for risk assessment</p>
+      <ul class="points-list">
+        <li>代表的な低分子ニトロソアミン類について、皮膚透過性を実験的・理論的に評価しリスク管理への影響を考察した。</li>
+<li>化合物の物性値と経皮吸収性の相関を明らかにし、皮膚外用剤等における曝露リスクを定量化した。</li>
+<li>医薬品中の変異原性不純物管理における、外用製剤特有のリスク評価ガイドライン策定に寄与する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004211?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences (JPharmSci)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004156?dgcid=rss_sd_all" target="_blank" rel="noopener">フェニルボロン酸官能化ゼラチン/PVAフィルムによる膣粘着性の向上とメトロニダゾールの持続放出</a>
+      </h2>
+      <p class="original-title">原題: Phenylboronic acid-functionalised gelatin/PVA films for enhanced vaginal mucoadhesion and sustained metronidazole release</p>
+      <ul class="points-list">
+        <li>フェニルボロン酸を導入したゼラチン/PVA複合フィルムを作製し、粘着性と薬物放出制御機能を評価した。</li>
+<li>シアル酸との相互作用に基づく優れた粘着性を示し、有効成分の持続放出を達成した。</li>
+<li>粘膜適用型DDSの処方設計およびポリマー修飾技術の具体的な応用例を示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004156?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics (IJP)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326010914?dgcid=rss_sd_all" target="_blank" rel="noopener">マイクロ流体工学で作製したハイブリッドアルギン酸/Eudragit L100マイクロゲルによる脂溶性薬物の腸管送達</a>
+      </h2>
+      <p class="original-title">原題: Hybrid Alginate/Eudragit L100 microgels fabricated by microfluidics for intestinal delivery of lipophilic drugs</p>
+      <ul class="points-list">
+        <li>マイクロ流体デバイスを用いて、アルギン酸とEudragit L100からなるハイブリッドマイクロゲルを調製した。</li>
+<li>胃酸耐性と腸管特異的な放出プロファイルを示し、難水溶性・脂溶性薬物のバイオアベイラビリティ改善を確認した。</li>
+<li>製造再現性に優れた連続生産プロセス（マイクロ流体プロセス）による製剤設計の利点を示す。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326010914?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering (JBB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326003129?dgcid=rss_sd_all" target="_blank" rel="noopener">ELISAベースのスクリーニングアプローチによるファージ非依存的単一ドメイン抗体の親和性 maturation</a>
+      </h2>
+      <p class="original-title">原題: Enzyme-linked immunosorbent assay-based screening approach for phage-independent affinity maturation of single-domain antibodies</p>
+      <ul class="points-list">
+        <li>ファージディスプレイ法を用いない、ELISAベースのハイスループットな単一ドメイン抗体（VHH等）の親和性成熟スクリーニング系を開発した。</li>
+<li>効率的かつ迅速に高親和性クローンを取得できることを実証し、抗体エンジニアリングの工数削減に成功した。</li>
+<li>抗体医薬のリード最適化プロセス（バイオプロセス・スクリーニング）の効率化に貢献する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326003129?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering (JBB)</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">緑色蛍光タンパク質融合組換えタンパク質を利用した生理活性ペディオシンの熱安定性に基づく回収</a>
+      </h2>
+      <p class="original-title">原題: Thermal-stability-based recovery of biologically active pediocin from a recombinant protein fused to green fluorescent protein</p>
+      <ul class="points-list">
+        <li>GFPとの融合タンパク質として発現させた生理活性ペプチド（ペディオシン）に対し、熱安定性の差を利用した精製回収プロセスを構築した。</li>
+<li>複雑なクロマトグラフィー工程を簡素化しつつ、高い回収率と生物活性を維持できる分離法を確立した。</li>
+<li>バイオ医薬品および生理活性ペプチドの下流工程（ダウンストリーム・プロセス）のコスト削減と効率化のヒントを提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002744?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
