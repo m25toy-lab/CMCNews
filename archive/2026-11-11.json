@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "title_ja": "薬物送達における抗PEG抗体：起源から軽減戦略まで",
+      "original_title": "Anti-PEG antibodies in drug delivery: From origins to mitigation strategies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ポリエチレングリコール（PEG）化製剤に対する抗PEG抗体（APA）の発生メカニズム、臨床的影響、および免疫原性の起源を包括的にレビュー。",
+        "APAによる血中クリアランスの加速（ABC現象）や過敏症反応など、LNPやリポソーム製剤の有効性と安全性に及ぼすリスクを詳述。",
+        "APAの影響を軽減するためのポリマー構造の最適化、代替親水性ポリマー（PVA、ポリザルコシン等）の利用、および投与プロトコルの改善戦略を提示。"
+      ]
+    },
+    {
+      "title_ja": "生体内CAR-T細胞療法：機構的革新から臨床転用まで",
+      "original_title": "In vivo chimeric antigen receptor T cell therapy: From mechanistic innovation to clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009156?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "体外での細胞操作を必要としない、体内（in vivo）でのCAR-T細胞生成技術の最新動向と臨床応用に向けた課題を整理。",
+        "ウイルスベクター、LNP、ポリマーナノ粒子を用いたT細胞特異的な遺伝子導入手法と、その形質転換効率および安全性の比較。",
+        "製造コストの劇的な削減と個別化医療の普及に向けた、次世代遺伝子・細胞治療製品のCMC開発における重要な指針。"
+      ]
+    }
+  ]
+}
