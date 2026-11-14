@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "title_ja": "マクロファージ標的GAS6 siRNA送達のための多機能マンナンペプチドナノキャリアによる肺線維症進行の減弱",
+      "original_title": "Macrophage-targeted GAS6 siRNA delivery by a multifunctional mannan-peptide nanocarrier attenuates pulmonary fibrosis progression",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009296?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "マクロファージを標的としたGAS6 siRNA送達のため、多機能なマンナン-ペプチド複合ナノキャリアを開発・評価した。",
+        "標的細胞への効率的なsiRNA送達により、肺線維症の進行を有意に減弱させることに成功した。",
+        "核酸医薬の細胞特異的送達システムおよび肺線維症治療薬の製剤設計において有用なCMC/DDSの知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "ポリエチレングリコールの代替としてのポリビニルアルコール誘導体による表面修飾リポソームの粘液透過性と経口吸収性の向上",
+      "original_title": "Surface-modified liposomes with polyvinyl alcohol derivatives improve mucus penetration and oral absorption: A potential alternative to polyethylene glycol",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002912?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "PEG（ポリエチレングリコール）の代替としてポリビニルアルコール（PVA）誘導体を用いた表面修飾リポソームを調製し、粘液透過性および経口吸収性を評価した。",
+        "PVA誘導体修飾によりリポソームの粘液透過性が向上し、結果として薬物の経口吸収性が改善されることを示した。",
+        "PEG抗体等の課題を回避するための新しい表面修飾技術として、DDS製剤設計およびCMC戦略に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "ドラッグデリバリーにおける抗PEG抗体：起源から軽減戦略まで",
+      "original_title": "Anti-PEG antibodies in drug delivery: From origins to mitigation strategies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ドラッグデリバリーシステムにおける抗PEG抗体の産生メカニズム、その起源、および薬物動態に及ぼす影響を包括的にレビューした。",
+        "抗PEG抗体によるクリアランス促進や過敏症といった臨床的課題に対する具体的な軽減戦略を整理した。",
+        "PEG化製剤の免疫原性評価や、代替ポリマー選定等の将来的なCMC戦略立案に不可欠な知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "肝線維症に向けたナノデリバリー設計のマッピング：機能的統合のためのメカニズム情報に基づくフレームワーク",
+      "original_title": "Mapping nanodelivery design for liver fibrosis: A mechanism-informed framework for functional integration",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002218?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肝線維症治療のためのナノキャリア設計において、生体内メカニズムに基づいた機能統合フレームワークを提示した。",
+        "病態微小環境の特性に応じたナノデリバリーシステムの最適化アプローチを体系的に整理した。",
+        "標的指向性ナノ医薬品の製剤設計および非臨床薬効・安全性評価における開発効率化を支援する。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギ単一B細胞を用いたEcobody技術による腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギの単一B細胞からEcobody技術を用いて、腸内細菌に対する高親和性抗原結合フラグメントの同定およびキャラクタリゼーションを実施した。",
+        "効率的な抗体スクリーニング手法により、目的とする高親和性抗体断片の取得に成功した。",
+        "抗体医薬のリード探索プロセスおよびバイオプロセス上流でのスクリーニング技術の高度化に貢献する。"
+      ]
+    },
+    {
+      "title_ja": "最適化された強制ニトロソ化条件を用いたオメプラゾールの薬物関連ニトロソ化不純物の調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "最適化した強制ニトロソ化条件を用いて、オメプラゾールに関連するニトロソ化不純物の生成挙動を詳細に調査した。",
+        "不純物由来のニトロソ化不純物（「不純物の不純物」）の存在や生成経路を特定・解析した。",
+        "原薬および製剤における変異原性不純物（NDSIs等）のリスク評価と品質管理（CMC分析）に重要な知見を与える。"
+      ]
+    },
+    {
+      "title_ja": "代表的な低分子ニトロソアミンの経皮透過：リスク評価へのインプリケーション",
+      "original_title": "Dermal permeation of representative small molecule nitrosamines: Implications for risk assessment",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004211?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "代表的な低分子ニトロソアミン類の皮膚透過性を評価し、毒性学的リスク評価への影響を検討した。",
+        "分子特性に基づく経皮吸収性の違いを明らかにし、曝露リスクに関するデータを提供した。",
+        "外用剤や経皮吸収型製剤におけるニトロソアミン類不純物の許容値設定および安全性評価のCMC実務に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "生理学的情報を組み込んだ機械学習モデルを用いたヒト腸管受動膜透過性の予測",
+      "original_title": "Prediction of human intestinal passive membrane permeability using physiologically informed machine learning models",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003127?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生理学的パラメータを統合した機械学習モデルを構築し、ヒト腸管受動膜透過性の高精度な予測を行った。",
+        "in silico予測モデルにより、化合物の吸収特性を迅速かつ信頼性高くスクリーニングできることを示した。",
+        "製剤初期段階における化合物スクリーニングや経口吸収性の予測（IVIVC構築等）を効率化する。"
+      ]
+    },
+    {
+      "title_ja": "トリプトリド脂肪酸プロドラッグを搭載した脂肪酸鎖長可変リポソームによる乳がん治療",
+      "original_title": "Liposomal delivery of triptolide fatty acid prodrugs with varied fatty acid chain lengths for breast cancer therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003115?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "脂肪酸鎖長の異なるトリプトリド脂肪酸プロドラッグをリポソームに内包させ、乳がん治療への効果を評価した。",
+        "脂質鎖長がリポソームの物性、薬物保持能、および抗腫瘍効果に与える影響を定量的に明らかにした。",
+        "難水溶性薬物のプロドラッグ化とリポソーム製剤化を組み合わせた最適化設計における物性解析の指針となる。"
+      ]
+    },
+    {
+      "title_ja": "肺性緑膿菌感染症治療のための吸入用イミペネム乾粉末の開発と評価",
+      "original_title": "Development and evaluation of inhalable imipenem dry powder for treating pulmonary <em>P. aeruginosa</em> infection",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011166?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "緑膿菌による肺感染症治療を目的としたイミペネム含有吸入用乾粉末製剤（DPI）を開発し、その物性・エアロゾル特性を評価した。",
+        "優れた空気力学Particle size分布を示し、肺深部へ効率的に送達可能な粉体物性を確認した。",
+        "呼吸器感染症をターゲットとした吸入製剤の処方設計および品質評価（粒子径、分散性）の参考となる。"
+      ]
+    }
+  ]
+}
