@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "title_ja": "吸入バイオ医薬品に関する規制の現状：考慮事項とガイドライン",
+      "original_title": "Regulatory landscape for inhaled biologics: Considerations and Guidelines",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "吸入投与されるバイオ医薬品（抗体、タンパク質、核酸等）の開発において、各国規制当局が求める最新の考慮事項とガイドラインを体系的に整理した。",
+        "吸入製剤特有の物理的・化学的安定性（ネブライザーや吸入器によるずり応力の影響、エアロゾル化に伴う凝集リスクなど）に関する評価データを提示した。",
+        "CMCの観点から、品質評価試験、デバイスと製剤のコンビネーション製品としての承認要件、および非臨床・臨床試験における規制上のハードルに対する実践的な指針を提供している。"
+      ]
+    },
+    {
+      "title_ja": "マクロファージ標的型GAS6 siRNA送達多機能性マンナン-ペプチドナノキャリアによる肺線維症進行の抑制",
+      "original_title": "Macrophage-targeted GAS6 siRNA delivery by a multifunctional mannan-peptide nanocarrier attenuates pulmonary fibrosis progression",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009296?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肺線維症の治療を目的とし、マクロファージを特異的に標的とするマンナン-ペプチド複合体を用いた核酸医薬（siRNA）送達ナノキャリアを開発した。",
+        "in vitroおよびin vivoモデルにおいて、優れた標的細胞選択性と遺伝子ノックダウン効率を示し、肺線維症の病態進行を効果的に減弱させることを実証した。",
+        "核酸医薬の体内動態制御や、標的送達を可能にするナノキャリアの設計・修飾技術におけるCMC開発の有用なアプローチとなる。"
+      ]
+    },
+    {
+      "title_ja": "医薬品送達における抗PEG抗体：その起源から回避戦略まで",
+      "original_title": "Anti-PEG antibodies in drug delivery: From origins to mitigation strategies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "PEG化（ポリエチレングリコール化）バイオ医薬品やナノ粒子製剤に対して生体内で誘導される抗PEG抗体の産生機序と、それが薬物動態・安全性に及ぼす影響を総括した。",
+        "抗PEG抗体による血中クリアランスの加速（ABC現象）や過敏症反応を引き起こす免疫学的メカニズムを整理した。",
+        "脱PEG化技術や代替ポリマー（例：ポリビニルアルコール誘導体や双性イオン材料など）を用いた、免疫原性回避のための最新の製剤設計戦略を提示している。"
+      ]
+    },
+    {
+      "title_ja": "ポリビニルアルコール誘導体で表面改質したリポソームは粘液透過性と経口吸収性を改善する：ポリエチレングリコールの有望な代替案",
+      "original_title": "Surface-modified liposomes with polyvinyl alcohol derivatives improve mucus penetration and oral absorption: A potential alternative to polyethylene glycol",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002912?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "PEGの代替として、ポリビニルアルコール（PVA）誘導体を用いてリポソーム表面を修飾し、消化管粘液の透過性と経口吸収性の向上を試みた。",
+        "PVA修飾リポソームは粘液層へのトラップを効果的に防ぎ、優れた粘液透過性を示すとともに、難治性薬物の経口バイオアベイラビリティを大幅に改善した。",
+        "ナノ粒子製剤の表面工学において、安全性が高くPEGに代わる新たなステルス化・粘液透過性付与コーティング技術としてのCMC応用の可能性を示唆している。"
+      ]
+    },
+    {
+      "title_ja": "不純物の不純物！最適化された強制ニトロソ化条件を用いたオメプラゾールの薬物関連ニトロソ化不純物の調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プロトンポンプ阻害薬オメプラゾールをモデルに、原薬および既存の分解物から派生する「不純物の不純物」としてのニトロソ化不純物の生成挙動を、最適化された強制ニトロソ化条件下で調査した。",
+        "LC-MS/MS等の高度な分析手法を用い、微量に生成するニトロソ化合物や分解経路の構造同定に成功した。",
+        "原薬および製剤の品質管理（CMC）における、潜在的な変異原性不純物（ニトロソアミン類等）の網羅的スクリーニングとリスク評価に直結する知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "脂肪酸鎖長の異なるトリプトリド脂肪酸プロドラッグを搭載したリポソームによる乳がん治療",
+      "original_title": "Liposomal delivery of triptolide fatty acid prodrugs with varied fatty acid chain lengths for breast cancer therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003115?dGCID=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "トリプトリドに異なる鎖長の脂肪酸を導入したプロドラッグを合成し、それらを内包するリポソーム製剤を調製して、乳がん治療における物性と薬効への影響を評価した。",
+        "脂肪酸鎖長の違いがリポソーム内の薬物保持率、膜流動性、およびin vitro/in vivoでの放出挙動に与える影響を明らかにした。",
+        "難水溶性薬物や毒性の高い薬物のリポソーム製剤化において、プロドラッグの化学構造修飾がナノ粒子の物理化学的安定性とドラッグデリバリー性能を最適化するための重要なパラメータであることを示した。"
+      ]
+    },
+    {
+      "title_ja": "エトラシモッドの強制分解試験：主要分解生成物の構造解明と変換経路",
+      "original_title": "Forced degradation study of etrasimod: Structural elucidation and transformation pathways of its major degradation products",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "生理活性分子エトラシモッドに対し、ICHガイドラインに準拠した各種ストレステスト（加水分解、酸化、光分解など）を実施し、分解挙動を解析した。",
+        "HRMS（高分解能質量分析）等を用いて主要な分解生成物の化学構造を完全同定し、詳細な分解経路とメカニズムを解明した。",
+        "医薬品の品質・安定性試験の確立、分解物質のプロファイリング、および有効期限設定におけるCMC分析法の構築に直接寄与する。"
+      ]
+    },
+    {
+      "title_ja": "生理学的情報を組み込んだ機械学習モデルを用いたヒト小腸受動膜透過性の予測",
+      "original_title": "Prediction of human intestinal passive membrane permeability using physiologically informed machine learning models",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003127?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ヒト小腸における薬物の受動膜透過性を高精度に予測するため、生理学的パラメータを統合した機械学習モデルを構築した。",
+        "従来のインシリコ予測法と比較して、実測の小腸透過性データに対する予測精度が大幅に向上し、分子構造と物性の相関を明確化した。",
+        "経口製剤の初期スクリーニングや、バイオ医薬品・低分子化合物の吸収性予測・製剤設計の効率化に貢献するツールとなる。"
+      ]
+    },
+    {
+      "title_ja": "Ecobody技術を用いた非免疫化ウサギシングルB細胞からの腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞とEcobody技術を組み合わせることで、腸内細菌を標的とする高親和性抗原結合フラグメント（Fab等）の効率的なスクリーニング手法を開発した。",
+        "得られた抗体フラグメントの結合特異性や親和性を詳細に解析し、標的細菌に対する優れた結合能を確認した。",
+        "抗体医薬のリード探索プロセスにおいて、動物免疫を必要としない効率的な抗体取得プラットフォームとしてバイオプロセスへの応用が期待される。"
+      ]
+    },
+    {
+      "title_ja": "急性介入から慢性管理へ：経口メトロノミック化学療法におけるバイオ医薬品学的障壁と高度な製剤戦略",
+      "original_title": "From acute intervention to chronic management: biopharmaceutical barriers and advanced formulation strategies for peroral metronomic chemotherapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600222X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "がんの経口メトロノミック療法（低用量持続投与）における、低溶解性、消化管代謝、膜透過性などのバイオ医薬品学的障壁を包括的にレビューした。",
+        "持続的血中濃度維持やバイオアベイラビリティ向上を実現するための、ナノ粒子、固体分散体、スマート放出型経口製剤などの最新の製剤学的アプローチを比較・整理した。",
+        "患者のコンプライアンス向上と副作用低減を両立させるための経口抗がん剤の製剤設計およびCMC開発上の重要課題を提示している。"
+      ]
+    }
+  ]
+}
