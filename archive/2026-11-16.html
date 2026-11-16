@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/16 (Mon)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/16 (Mon) ／ 10 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-cmc">📋 規制・CMC</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all" target="_blank" rel="noopener">吸入バイオ医薬品の規制動向：考慮事項とガイドライン</a>
+      </h2>
+      <p class="original-title">原題: Regulatory landscape for inhaled biologics: Considerations and Guidelines</p>
+      <ul class="points-list">
+        <li>吸入投与されるバイオ医薬品（タンパク質、ペプチド、核酸等）の開発における最新の規制環境とガイドラインを体系的にレビュー</li>
+<li>エアロゾル化による物理的ストレス（せん断応力や界面活性）に対するバイオ分子の安定性評価の重要性を整理</li>
+<li>CMCの観点から、デバイスとの適合性、品質管理、および承認申請に向けた留意点を明確化</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">薬物送達における抗PEG抗体：その起源から低減戦略まで</a>
+      </h2>
+      <p class="original-title">原題: Anti-PEG antibodies in drug delivery: From origins to mitigation strategies</p>
+      <ul class="points-list">
+        <li>ポリエチレングリコール（PEG）修飾製剤に対する抗PEG抗体の産生メカニズムとその臨床的影響を包括的に解析</li>
+<li>血中クリアランスの加速（ABC現象）や過敏反応を引き起こす免疫学的背景を詳述</li>
+<li>代替ポリマーの利用や構造最適化など、抗PEG抗体による影響を回避・低減するための最新の製剤設計戦略を提示</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">キメラ抗原受容体T細胞療法によるサイトカイン放出症候群の精密制御のためのナノエンジニアリング戦略</a>
+      </h2>
+      <p class="original-title">原題: Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome</p>
+      <ul class="points-list">
+        <li>CAR-T細胞療法における重大な副作用であるサイトカイン放出症候群（CRS）をナノテクノロジーにより制御する手法を総括</li>
+<li>サイトカインの局所中和や免疫応答の動的コントロールを可能にするナノシステムの設計原理を解説</li>
+<li>細胞治療製剤の安全性プロファイルを向上させるための新たなDDSアプローチとしての有用性を示唆</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all" target="_blank" rel="noopener">ポリ（I:C）をアジュバント添加した脂質ナノ粒子は、タンパク質サブユニットワクチンによって誘導される呼吸器粘膜免疫を増強する</a>
+      </h2>
+      <p class="original-title">原題: Lipid nanoparticles adjuvanted with poly(I:C) enhance respiratory mucosal immunity induced by a protein subunit vaccine</p>
+      <ul class="points-list">
+        <li>タンパク質サブユニットワクチン用のデリバリーシステムとして、ポリ（I:C）を内包した脂質ナノ粒子（LNP）を開発</li>
+<li>呼吸器粘膜投与により、強力かつ持続的な粘膜免疫応答が誘導されることをin vivoモデルで実証</li>
+<li>感染症防御に向けた新規粘膜ワクチン製剤のプラットフォーム設計とLNPの物性評価に貢献</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">オメプラゾールの最適化された強制ニトロソ化条件を用いた薬物関連ニトロソ化不純物の網羅的調査</a>
+      </h2>
+      <p class="original-title">原題: Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions</p>
+      <ul class="points-list">
+        <li>プロトンポンプ阻害薬オメプラゾールをモデルに、強制ニトロソ化条件下で生成する微量な不純物（不純物のニトロソ化物）を解析</li>
+<li>最適化された反応条件と高度な分析手法を組み合わせることで、潜在的な変異原性不純物の構造を特定</li>
+<li>原薬および製剤の品質管理におけるニトロソアミン汚染リスク評価と分析メソッド開発に実践的な知見を提供</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all" target="_blank" rel="noopener">エトラシモッドの強制分解試験：主要分解生成物の構造解明と変換経路</a>
+      </h2>
+      <p class="original-title">原題: Forced degradation study of etrasimod: Structural elucidation and transformation pathways of its major degradation products</p>
+      <ul class="points-list">
+        <li>スフィンゴシン1-リン酸受容体モジュレーターであるエトラシモッドの強制分解試験を実施し、ストレス条件下での挙動を解析</li>
+<li>LC-MS/MS等を用いて主要な分解生成物の化学構造を同定し、詳細な分解経路（トランスフォーメーション・パスウェイ）を解明</li>
+<li>製剤の安定性試験デザイン、分解物プロファイリング、および有効期限設定における重要なCMCデータを提供</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003127?dgcid=rss_sd_all" target="_blank" rel="noopener">生理学的情報を活用した機械学習モデルによるヒト腸管受動膜透過性の予測</a>
+      </h2>
+      <p class="original-title">原題: Prediction of human intestinal passive membrane permeability using physiologically informed machine learning models</p>
+      <ul class="points-list">
+        <li>生理学的パラメータを組み込んだ機械学習モデルを構築し、化合物のヒト腸管受動膜透過性を高精度に予測</li>
+<li>実験値との高い相関を示し、in vitro実験の代替としてスクリーニング効率を飛躍的に向上</li>
+<li>経口投与製剤の吸収性予測および初期スクリーニング段階での候補化合物選定プロセスを合理化</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003127?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326010859?dgcid=rss_sd_all" target="_blank" rel="noopener">直接粉末押出3Dプリンティングオラパリブ錠剤からの薬物放出挙動設計における製剤組成とプリント構造の切り離し</a>
+      </h2>
+      <p class="original-title">原題: Decoupling formulation composition and printed architecture to engineer drug release from direct powder extrusion 3D-printed Olaparib tablets</p>
+      <ul class="points-list">
+        <li>ダイレクト粉末押出3Dプリンティングを用いたオラパリブ含有錠剤の製造において、組成と内部構造が薬物放出に与える影響を分離評価</li>
+<li>プリンティングの幾何学的設計パラメータを最適化することで、マテリアル組成を変えずに所望の放出プロファイルを制御可能に</li>
+<li>個別化医療や即時調製に対応する革新的な固形製剤の製造プロセス技術として応用可能性を提示</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326010859?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">非免疫化ウサギのシングルB細胞からEcobody技術を用いた腸内細菌に対する高親和性抗体断片の同定とキャラクタリゼーション</a>
+      </h2>
+      <p class="original-title">原題: Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology</p>
+      <ul class="points-list">
+        <li>非免疫化ウサギのシングルB細胞解析とEcobody技術を組み合わせ、腸内細菌抗原に対する高親和性抗体断片を効率的に取得</li>
+<li>標的特異性と結合親和性の高い抗体断片のスクリーニング手法の有効性を実験的に証明</li>
+<li>抗体医薬のリード探索やバイオロジクス創出における新規スクリーニングプラットフォームとして有用</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">International Journal of Pharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0378517326011324?dgcid=rss_sd_all" target="_blank" rel="noopener">アトピー性皮膚炎皮膚へのアブロシチニブ局所送達のための抗炎症作用を持つ新規局所製剤</a>
+      </h2>
+      <p class="original-title">原題: A novel topical formulation with anti-inflammatory potential for localized abrocitinib delivery to atopic dermatitis skin</p>
+      <ul class="points-list">
+        <li>ヤヌスキナーゼ（JAK）阻害薬アブロシチニブのアトピー性皮膚炎部への局所送達を目的とした新規外用製剤を開発</li>
+<li>皮膚透過性と組織内滞留性を最適化し、患部での抗炎症効果を相乗的に高めることに成功</li>
+<li>全身暴露を抑えつつ局所薬効を最大化する皮膚外用・DDS製剤設計の好例を提供</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0378517326011324?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
