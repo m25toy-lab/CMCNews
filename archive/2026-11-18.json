@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-18",
+  "articles": [
+    {
+      "title_ja": "吸入バイオ医薬品の規制動向：考慮事項とガイドライン",
+      "original_title": "Regulatory landscape for inhaled biologics: Considerations and Guidelines",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "規制・CMC",
+      "points": [
+        "吸入投与されるバイオ医薬品（タンパク質、ペプチド、核酸等）に関する最新の規制ランドスケープと、開発時の主要な考慮事項を総括。",
+        "非臨床安全性評価、CMC要件、デバイスとのコンビネーション製品特有の評価項目について詳述。",
+        "吸入バイオ製剤の薬事申請に向けたデザインスペース構築や品質管理戦略への実践的な指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "抗PEG抗体のドラッグデリバリーにおける影響：起源から軽減戦略まで",
+      "original_title": "Anti-PEG antibodies in drug delivery: From origins to mitigation strategies",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ナノ粒子やPEG化タンパク質製剤の薬物動態に影響を与える抗PEG抗体の産生機序と生体内への影響を網羅的に分析。",
+        "加速血中クリアランス（ABC現象）を引き起こす免疫学的メカニズムと、抗体誘導を回避・軽減する製剤設計上のアプローチを整理。",
+        "次世代DDS製剤における安全性プロファイル向上および免疫原性リスク管理のためのCMC戦略を提示。"
+      ]
+    },
+    {
+      "title_ja": "リポソームナノ粒子（LNPs）にポリ(I:C)をアジュバントとして添加し、タンパク質サブユニットワクチンが誘導する呼吸器粘膜免疫を増強する",
+      "original_title": "Lipid nanoparticles adjuvanted with poly(I:C) enhance respiratory mucosal immunity induced by a protein subunit vaccine",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "タンパク質サブユニットワクチン用の脂質ナノ粒子（LNP）製剤に免疫賦活剤ポリ(I:C)を組み込み、呼吸器粘膜免疫の誘導効果を評価。",
+        "LNP製剤による効率的な送達とアジュバントの相乗効果により、強力かつ持続的な粘膜免疫応答が確認された。",
+        "感染症予防に向けた粘膜投与型ワクチン製剤の設計とアジュバントスクリーニングに有用な知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "オメプラゾールの医薬品関連ニトロソ化不純物に関する網羅的調査：最適化された強制ニトロソ化条件を用いた検討",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プロトンポンプ阻害薬オメプラゾールを対象に、最適化した強制ニトロソ化条件を用いて、原薬および分解物由来のニトロソ化不純物を徹底調査。",
+        "微量不純物から派生する二次的なニトロソ化不純物の生成経路と構造を同定。",
+        "潜在的な変異原性不純物（ニトロソアミン類）のリスクアセスメントおよび品質管理・分析法開発における重要なCMC指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "エトラシモッドの強制劣化試験：主要分解物の構造解明と分解経路",
+      "original_title": "Forced degradation study of etrasimod: Structural elucidation and transformation pathways of its major degradation products",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "免疫モジュレーターであるエトラシモッドの強制劣化試験を実施し、主要な分解物の構造同定と分解メカニズムの解明を行った。",
+        "ストレステスト条件下での詳細な分解経路を明らかにし、安定性プロファイルを確立。",
+        "原薬および製剤の安定性試験デザイン、分解物プロファイリング、および品質保証体制の構築に貢献。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギの単一B細胞からエコボディ技術を用いて腸内細菌に対する高親和性抗原結合フラグメントを同定・キャラクトライズする",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "エコボディ技術を活用し、非免疫化ウサギのシングルB細胞から腸内細菌に対する高親和性抗体フラグメント（Fab等）の効率的な取得を実証。",
+        "標的特異性の高い抗体断片のスクリーニング手法と物性評価データを提示。",
+        "抗体医薬のリード探索やバイオロジクス開発における新規スクリーニングプラットフォームとしての応用を示唆。"
+      ]
+    },
+    {
+      "title_ja": "キメラ抗原受容体T細胞療法によるサイトカイン放出症候群の精密制御のためのナノエンジニアリング戦略",
+      "original_title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "CAR-T細胞療法における重篤な副作用であるサイトカイン放出症候群（CRS）を制御するためのナノ工学的アプローチを総括・開発。",
+        "ナノキャリアを用いた標的送達により、治療効果を維持しつつ過剰な炎症性サイトカインの放出を抑制する仕組みを実証。",
+        "細胞治療製剤の安全性向上と高度なDDSによる副作用管理戦略の設計に貢献。"
+      ]
+    },
+    {
+      "title_ja": "インテグリン標的ナノ粒子を介したデュアルドラッグデリバリーによるBRAF V600E大腸がんの治療効率向上",
+      "original_title": "Dual drug delivery via integrin-targeted nanoparticles enhances therapeutic efficiency in BRAF<sup>V600E</sup> colon cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009429?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "インテグリンを標的とするナノ粒子システムを用いて、変異型BRAF大腸がんに対する2種類の薬剤の同時送達（デュアルDDS）を構築。",
+        "細胞内取り込み効率の向上と腫瘍選択的な薬物放出により、抗腫瘍効果の著しい増強を確認。",
+        "難治性がんに対する複合薬物療法のためのナノ製剤設計およびデリバリー戦略に有益な知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "Hsp70依存的バイオオルソogonalプラットフォームによる腫瘍特異的薬物放出",
+      "original_title": "A Hsp70-dependent bioorthogonal platform for tumor-specific drug release",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009338?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "細胞ストレス応答タンパク質Hsp70を利用し、腫瘍微小環境で特異的に作動するバイオオルソogonalなドラッグリリースシステムを開発。",
+        "正常組織での漏出を防ぎつつ、病変部で高精度に活性型薬剤を遊離させる制御機構を実証。",
+        "低分子および中分子医薬品のターゲット指向型DDSにおける安全性・有効性プロファイルの最適化に貢献。"
+      ]
+    },
+    {
+      "title_ja": "急性介入から慢性管理まで：経口メトロノミック化学療法における生物薬剤学的障壁と先進的製剤化戦略",
+      "original_title": "From acute intervention to chronic management: biopharmaceutical barriers and advanced formulation strategies for peroral metronomic chemotherapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X2600222X?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "経口メトロノミック化学療法における薬物動態学的・生物薬剤学的障壁を克服するための先進的な経口製剤技術を徹底分析。",
+        "持続的かつ低用量の血中濃度を維持するための徐放性製剤、ナノキャリア、および腸管吸収改善技術を比較評価。",
+        "患者コンプライアンス向上と副作用低減を両立する経口抗がん剤の製剤設計指針を提示。"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/18 (Wed)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/18 (Wed) ／ 10 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-cmc">📋 規制・CMC</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all" target="_blank" rel="noopener">吸入バイオ医薬品の規制動向：考慮事項とガイドライン</a>
+      </h2>
+      <p class="original-title">原題: Regulatory landscape for inhaled biologics: Considerations and Guidelines</p>
+      <ul class="points-list">
+        <li>吸入投与されるバイオ医薬品（タンパク質、ペプチド、核酸等）に関する最新の規制ランドスケープと、開発時の主要な考慮事項を総括。</li>
+<li>非臨床安全性評価、CMC要件、デバイスとのコンビネーション製品特有の評価項目について詳述。</li>
+<li>吸入バイオ製剤の薬事申請に向けたデザインスペース構築や品質管理戦略への実践的な指針を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">抗PEG抗体のドラッグデリバリーにおける影響：起源から軽減戦略まで</a>
+      </h2>
+      <p class="original-title">原題: Anti-PEG antibodies in drug delivery: From origins to mitigation strategies</p>
+      <ul class="points-list">
+        <li>ナノ粒子やPEG化タンパク質製剤の薬物動態に影響を与える抗PEG抗体の産生機序と生体内への影響を網羅的に分析。</li>
+<li>加速血中クリアランス（ABC現象）を引き起こす免疫学的メカニズムと、抗体誘導を回避・軽減する製剤設計上のアプローチを整理。</li>
+<li>次世代DDS製剤における安全性プロファイル向上および免疫原性リスク管理のためのCMC戦略を提示。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002188?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all" target="_blank" rel="noopener">リポソームナノ粒子（LNPs）にポリ(I:C)をアジュバントとして添加し、タンパク質サブユニットワクチンが誘導する呼吸器粘膜免疫を増強する</a>
+      </h2>
+      <p class="original-title">原題: Lipid nanoparticles adjuvanted with poly(I:C) enhance respiratory mucosal immunity induced by a protein subunit vaccine</p>
+      <ul class="points-list">
+        <li>タンパク質サブユニットワクチン用の脂質ナノ粒子（LNP）製剤に免疫賦活剤ポリ(I:C)を組み込み、呼吸器粘膜免疫の誘導効果を評価。</li>
+<li>LNP製剤による効率的な送達とアジュバントの相乗効果により、強力かつ持続的な粘膜免疫応答が確認された。</li>
+<li>感染症予防に向けた粘膜投与型ワクチン製剤の設計とアジュバントスクリーニングに有用な知見を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">オメプラゾールの医薬品関連ニトロソ化不純物に関する網羅的調査：最適化された強制ニトロソ化条件を用いた検討</a>
+      </h2>
+      <p class="original-title">原題: Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions</p>
+      <ul class="points-list">
+        <li>プロトンポンプ阻害薬オメプラゾールを対象に、最適化した強制ニトロソ化条件を用いて、原薬および分解物由来のニトロソ化不純物を徹底調査。</li>
+<li>微量不純物から派生する二次的なニトロソ化不純物の生成経路と構造を同定。</li>
+<li>潜在的な変異原性不純物（ニトロソアミン類）のリスクアセスメントおよび品質管理・分析法開発における重要なCMC指針を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all" target="_blank" rel="noopener">エトラシモッドの強制劣化試験：主要分解物の構造解明と分解経路</a>
+      </h2>
+      <p class="original-title">原題: Forced degradation study of etrasimod: Structural elucidation and transformation pathways of its major degradation products</p>
+      <ul class="points-list">
+        <li>免疫モジュレーターであるエトラシモッドの強制劣化試験を実施し、主要な分解物の構造同定と分解メカニズムの解明を行った。</li>
+<li>ストレステスト条件下での詳細な分解経路を明らかにし、安定性プロファイルを確立。</li>
+<li>原薬および製剤の安定性試験デザイン、分解物プロファイリング、および品質保証体制の構築に貢献。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004223?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">非免疫化ウサギの単一B細胞からエコボディ技術を用いて腸内細菌に対する高親和性抗原結合フラグメントを同定・キャラクトライズする</a>
+      </h2>
+      <p class="original-title">原題: Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology</p>
+      <ul class="points-list">
+        <li>エコボディ技術を活用し、非免疫化ウサギのシングルB細胞から腸内細菌に対する高親和性抗体フラグメント（Fab等）の効率的な取得を実証。</li>
+<li>標的特異性の高い抗体断片のスクリーニング手法と物性評価データを提示。</li>
+<li>抗体医薬のリード探索やバイオロジクス開発における新規スクリーニングプラットフォームとしての応用を示唆。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">キメラ抗原受容体T細胞療法によるサイトカイン放出症候群の精密制御のためのナノエンジニアリング戦略</a>
+      </h2>
+      <p class="original-title">原題: Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome</p>
+      <ul class="points-list">
+        <li>CAR-T細胞療法における重篤な副作用であるサイトカイン放出症候群（CRS）を制御するためのナノ工学的アプローチを総括・開発。</li>
+<li>ナノキャリアを用いた標的送達により、治療効果を維持しつつ過剰な炎症性サイトカインの放出を抑制する仕組みを実証。</li>
+<li>細胞治療製剤の安全性向上と高度なDDSによる副作用管理戦略の設計に貢献。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009429?dgcid=rss_sd_all" target="_blank" rel="noopener">インテグリン標的ナノ粒子を介したデュアルドラッグデリバリーによるBRAF V600E大腸がんの治療効率向上</a>
+      </h2>
+      <p class="original-title">原題: Dual drug delivery via integrin-targeted nanoparticles enhances therapeutic efficiency in BRAF<sup>V600E</sup> colon cancer</p>
+      <ul class="points-list">
+        <li>インテグリンを標的とするナノ粒子システムを用いて、変異型BRAF大腸がんに対する2種類の薬剤の同時送達（デュアルDDS）を構築。</li>
+<li>細胞内取り込み効率の向上と腫瘍選択的な薬物放出により、抗腫瘍効果の著しい増強を確認。</li>
+<li>難治性がんに対する複合薬物療法のためのナノ製剤設計およびデリバリー戦略に有益な知見を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009429?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-9">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Journal of Controlled Release</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009338?dgcid=rss_sd_all" target="_blank" rel="noopener">Hsp70依存的バイオオルソogonalプラットフォームによる腫瘍特異的薬物放出</a>
+      </h2>
+      <p class="original-title">原題: A Hsp70-dependent bioorthogonal platform for tumor-specific drug release</p>
+      <ul class="points-list">
+        <li>細胞ストレス応答タンパク質Hsp70を利用し、腫瘍微小環境で特異的に作動するバイオオルソogonalなドラッグリリースシステムを開発。</li>
+<li>正常組織での漏出を防ぎつつ、病変部で高精度に活性型薬剤を遊離させる制御機構を実証。</li>
+<li>低分子および中分子医薬品のターゲット指向型DDSにおける安全性・有効性プロファイルの最適化に貢献。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009338?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-10">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X2600222X?dgcid=rss_sd_all" target="_blank" rel="noopener">急性介入から慢性管理まで：経口メトロノミック化学療法における生物薬剤学的障壁と先進的製剤化戦略</a>
+      </h2>
+      <p class="original-title">原題: From acute intervention to chronic management: biopharmaceutical barriers and advanced formulation strategies for peroral metronomic chemotherapy</p>
+      <ul class="points-list">
+        <li>経口メトロノミック化学療法における薬物動態学的・生物薬剤学的障壁を克服するための先進的な経口製剤技術を徹底分析。</li>
+<li>持続的かつ低用量の血中濃度を維持するための徐放性製剤、ナノキャリア、および腸管吸収改善技術を比較評価。</li>
+<li>患者コンプライアンス向上と副作用低減を両立する経口抗がん剤の製剤設計指針を提示。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X2600222X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
