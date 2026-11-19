@@ -1,0 +1,173 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "title_ja": "吸入型バイオ医薬品の規制上のランドスケープ：考慮事項とガイドライン",
+      "original_title": "Regulatory landscape for inhaled biologics: Considerations and Guidelines",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "吸入投与されるバイオ医薬品（吸入バイオロジクス）の開発における国内外の最新規制環境とガイドラインを体系的にレビュー。",
+        "局所および全身作用を目的とした吸入タンパク質・核酸製剤特有の非臨床・臨床評価における規制上のハードルを明確化。",
+        "CMCの観点から、エアロゾル特性評価、デバイスと製剤の適合性、および品質管理戦略への実践的な示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "タンパク質サブユニットワクチンによる呼吸器粘膜免疫を増強するポリ(I:C)をアジュバントとした脂質ナノ粒子",
+      "original_title": "Lipid nanoparticles adjuvanted with poly(I:C) enhance respiratory mucosal immunity induced by a protein subunit vaccine",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ポリ(I:C)を内包した脂質ナノ粒子（LNP）をアジュバントとして用いたタンパク質サブユニットワクチンの呼吸器粘膜投与製剤を開発。",
+        "LNPによる送達効率の向上により、強力かつ持続的な呼吸器粘膜免疫応答（分泌型IgAや細胞性免疫）の誘導を確認。",
+        "感染症予防のための新規粘膜ワクチン製剤設計およびLNP技術の応用展開における有効なアプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "抗生物質・去痰薬複合微粒子の吸入肺投与における抗菌・バイオフィルム阻害・粘液透過性および肺生体適合性",
+      "original_title": "Antibacterial, antibiofilm, mucus penetration properties and pulmonary biocompatibility of inhalable spray-dried levofloxacin–ambroxol composite microparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003164?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "噴霧乾燥法によりレボフロキサシンとアンブロキソールを配合した吸入用の複合微粒子を作製し、その物性と機能を評価。",
+        "肺深部送達に適した空気力学Particle sizeを示しつつ、呼吸器粘液層の透過性向上とバイオフィルム形成阻害効果を確認。",
+        "呼吸器感染症治療に向けた吸入複合粉末製剤の処方設計および安全性評価の重要な知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギ単一B細胞を用いたEcobody技術による腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞解析（Ecobody技術）を活用し、腸内細菌を標的とする高親和性抗体フラグメントを効率的にスクリーニング・取得。",
+        "取得した抗体の結合特異性や親和性を詳細にキャラクタリゼーションし、機能的抗体フラグメントの迅速取得法を実証。",
+        "抗体医薬品や診断薬のリード探索プロセス、およびバイオプロセスにおけるスクリーニング効率化への貢献を示唆。"
+      ]
+    },
+    {
+      "title_ja": "タンパク質機能のプログラミング：化学的・計算科学的アプローチの統合による化学・コンビナトリアル空間の拡張",
+      "original_title": "Reprogramming Protein Function by Expanding Chemical and Combinatorial Space: Integrating Chemical and Computational Strategies",
+      "url": "https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/10.1002/bit.70445?af=R",
+      "source": "Biotechnology and Bioengineering (B&B)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "ケミカルバイオロジーとコンピュテーショナルデザインを融合させ、タンパク質の構造・機能変異スペースを拡張する戦略をレビュー。",
+        "AI/機械学習を活用したin silicoデザインと化学修飾技術を組み合わせることで、抗体や酵素の安定性・機能向上を実現。",
+        "次世代バイオロジクスのエンジニアリングおよび分子設計・最適化プロセスの高度化に向けた指針を提供。"
+      ]
+    },
+    {
+      "title_ja": "キメラ抗原受容体T細胞誘導性サイトカインリリース症候群の精密制御に向けたナノエンジニアリング戦略",
+      "original_title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "CAR-T細胞療法における重大な副作用であるサイトカインリリース症候群（CRS）を精密に制御するためのナノ医療アプローチを総括。",
+        "炎症性サイトカインの局所捕捉や免疫調節薬のスマート放出を行うナノキャリアの設計原理と治療効果を解析。",
+        "細胞・遺伝子治療（CGT）分野における安全性向上と副作用管理のための製剤学的介入戦略を提示。"
+      ]
+    },
+    {
+      "title_ja": "インテグリン標的化ナノ粒子によるデュアル薬物送達がBRAF V600E大腸がんの治療効率を向上させる",
+      "original_title": "Dual drug delivery via integrin-targeted nanoparticles enhances therapeutic efficiency in BRAF<sup>V600E</sup> colon cancer",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009429?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "インテグリン受容体を標的とするナノ粒子に複数種の治療薬を搭載し、難治性BRAF変異大腸がんに対する同時送達システムを構築。",
+        "標的特異的集積により腫瘍組織内での薬物シナジー効果を高め、抗腫瘍効果を飛躍的に増強したことを実証。",
+        "複合薬物療法（カクテル療法）におけるナノDDS設計の最適化とドラッグデリバリー効率の改善に寄与。"
+      ]
+    },
+    {
+      "title_ja": "リソソーム局在型ナノリアクターによる、乳がん治療における脂質過酸化のカスケード増幅を介した空間的時間的制御フェロトーシス",
+      "original_title": "Lysosome-resident nanoreactor enables spatiotemporally controlled ferroptosis <em>via</em> cascade amplification of lipid peroxidation in breast cancer therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009144?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "がん細胞のリソソームに選択的に移行し、局所で Fenton反応を引き起こして脂質過酸化を連鎖的に増幅するナノリアクターを開発。",
+        "空間的・時間的に制御されたフェロトーシス誘導により、効率的かつ選択的な腫瘍細胞死を達成。",
+        "オルガネラ特異的なドラッグデリバリーおよび新規細胞死誘導型抗腫瘍製剤の設計戦略を提供。"
+      ]
+    },
+    {
+      "title_ja": "Hsp70依存的バイオオルソゴナルプラットフォームによる腫瘍特異的薬物放出",
+      "original_title": "A Hsp70-dependent bioorthogonal platform for tumor-specific drug release",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009338?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "腫瘍微小環境やストレス応答で高発現するHsp70を利用した、バイオオルソゴナル反応に基づく腫瘍特異的プロドラッグ活性化機構を構築。",
+        "正常組織での誤った活性化を最小限に抑えつつ、病変部で高効率に薬物を遊離させるスマート放出システムを実現。",
+        "高分子・低分子ハイブリッド製剤におけるプロファイルの改善と選択的毒性低減のための新しい化学的アプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "バイオオルソゴナル化学を活用したがん免疫療法のマルチスケールエンジニアリング",
+      "original_title": "Bioorthogonal chemistry-enabled multiscale engineering of cancer immunotherapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002322?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "生体内適合性の高いバイオオルソゴナル化学反応を用いた、がん免疫療法用キャリアおよび細胞表面工学の最新進展を包括的にレビュー。",
+        "分子レベルから組織レベルまでのマルチスケールでの免疫賦活化制御や標的送達システムの設計法を整理。",
+        "次世代の免疫治療製剤の開発において、その場でのクリック反応などを応用した革新的CMCおよびDDS戦略を提示。"
+      ]
+    },
+    {
+      "title_ja": "リソソーム障害と相乗的腫瘍治療のための 一酸化炭素放出型メソ多孔質ポリドパミンナノプラットフォーム",
+      "original_title": "Carbon monoxide-releasing mesoporous polydopamine nanoplatform for lysosomal disruption and synergistic tumor therapy",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011191?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "一酸化炭素（CO）ドナーを搭載したメソ多孔質ポリドパミンベースのナノキャリアを作製し、物性評価と抗腫瘍効果を検証。",
+        "リソソーム機能を標的としたオルガネラ障害とCOガス療法による相乗的な治療効果を確認。",
+        "刺激応答型ナノ材料の物理化学的安定性とドラッグロード・放出制御に関する製剤学的知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "特発性肺線維症の病理学的カスケードを克服するための吸入型ナノデリバリー戦略",
+      "original_title": "Inhalable nanodelivery strategies for overcoming the pathological cascade of idiopathic pulmonary fibrosis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011269?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "特発性肺線維症（IPF）の複雑な病理学的カスケードに対し、吸入ナノ医薬品がどのように作用するかを詳細に解析。",
+        "線維化組織への薬物移行性向上、肺深部到達性、および副作用軽減を両立する吸入製剤の設計要件を整理。",
+        "呼吸器疾患を標的とした吸入ナノ粒子の処方設計および前臨床評価における重要な指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "アトピー性皮膚炎皮膚への局所アブロシチニブ送達のための抗炎症作用を有する新規局所製剤",
+      "original_title": "A novel topical formulation with anti-inflammatory potential for localized abrocitinib delivery to atopic dermatitis skin",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011324?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "JAK阻害薬アブロシチニブをアトピー性皮膚炎の病変部に局所送達するための新規外用製剤を開発し、皮膚透過性を評価。",
+        "病変皮膚における効率的な薬物貯留性と優れた抗炎症作用の相乗効果を実証。",
+        "皮膚科学的疾患を対象とした外用剤の物性評価、薬物動態、および局所送達最適化のための処方設計に貢献。"
+      ]
+    },
+    {
+      "title_ja": "腸内ホメオスタシス再平衡化のための、Lactobacillus rhamnosus GGとその押出由来細菌膜小胞のCD44標的共送達用ヒアルロン酸グラフトpH応答性マイクロキャリア",
+      "original_title": "Hyaluronic acid-grafted pH-responsive microcarriers for CD44-targeted co-delivery of Lactobacillus rhamnosus GG and its extrusion-derived bacterial membrane vesicles to rebalance intestinal homeostasis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011051?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "プロバイオティクスと細菌膜小胞を効率よく大腸に送達するための、ヒアルロン酸修飾pH応答性マイクロキャリアを設計。",
+        "消化管上部での安定性を維持しつつ、病変部のCD44受容体を標的として患部で選択的に有効成分を放出することを確認。",
+        "生体医薬品・マイクロバイオーム関連製剤の標的送達および腸溶性・pH応答性キャリアの設計に有用な知見を提供。"
+      ]
+    }
+  ]
+}
