@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "title_ja": "選択的臓器標的化脂質ナノ粒子による線維化肺へのSMAD7 mRNA送達と肺線維症の軽減",
+      "original_title": "Selective ORgan-Targeting lipid nanoparticles deliver SMAD7 mRNA to fibrotic lungs and attenuate pulmonary fibrosis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009466?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "肺線維症治療を目的に、SMAD7 mRNAを病変肺組織へ特異的に送達可能なSelective ORgan-Targeting（SORT）脂質ナノ粒子（LNP）の設計と有効性を評価した。",
+        "肺指向性SORT LNPによりSMAD7 mRNAを高効率に導入し、TGF-β/Smadシグナル経路を抑制することで、ブレオマイシン誘発肺線維症モデルマウスにおける線維化病態を有意に減弱させた。",
+        "肝臓外（肺）特異的LNPの脂質組成設計指針および難治性線維性肺疾患に対するmRNA創薬・吸入/静注製剤開発の基盤を提供する知見である。"
+      ]
+    },
+    {
+      "title_ja": "吸入バイオ医薬品の規制状況：考慮事項とガイドライン",
+      "original_title": "Regulatory landscape for inhaled biologics: Considerations and Guidelines",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002206?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "規制・CMC",
+      "points": [
+        "抗体やペプチド、核酸等の吸入バイオ医薬品開発における主要規制当局（FDA、EMA等）のガイドライン、申請要件、CMC課題を包括的にレビューした。",
+        "吸入デバイス適合性、エアロゾル化プロセスに伴うタンパク質/核酸のせん断応力・界面変性、肺局所での免疫原性リスク、空気力学的粒子径分布（APSD）評価などの重要管理項目を整理した。",
+        "バイオ医薬品の吸入製剤化における処方設計、品質評価項目（CQA）、安定性試験基準、レギュラトリーストラテジー策定に直結するガイダンスである。"
+      ]
+    },
+    {
+      "title_ja": "キメラ抗原受容体T細胞誘発性サイトカイン放出症候群の精密制御に向けたナノ工学的戦略",
+      "original_title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "CAR-T細胞療法の重篤な副作用であるサイトカイン放出症候群（CRS）を選択的かつオンデマンドに抑制するためのナノエンジニアリング手法を概説した。",
+        "抗サイトカイン抗体や阻害剤のスマートデリバリー、過剰な炎症メディエーターを捕捉・中和する生体模倣ナノ材料、微小環境応答型DDSの最新アプローチを分析した。",
+        "細胞治療製品の安全性プロファイルを向上させるための併用ナノ製剤設計および先進医療等におけるCMC・製剤制御の新しい方向性を示している。"
+      ]
+    },
+    {
+      "title_ja": "poly(I:C)をアジュバントとした脂質ナノ粒子はタンパク質サブユニットワクチンが誘導する呼吸器粘膜免疫を増強する",
+      "original_title": "Lipid nanoparticles adjuvanted with poly(I:C) enhance respiratory mucosal immunity induced by a protein subunit vaccine",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003103?dgcid=rss_sd_all",
+      "source": "EJPB",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "タンパク質サブユニット抗原とTLR3アゴニストであるpoly(I:C)を内包した脂質ナノ粒子（LNP）製剤を構築し、経鼻投与による呼吸器粘膜免疫応答を評価した。",
+        "最適化されたLNP製剤は、抗原単独または非修飾投与群と比較して気道粘膜における分泌型IgA（sIgA）および全身性IgG抗体価と細胞性免疫を有意に高めた。",
+        "感染防御に不可欠な粘膜免疫を標的とする抗原タンパク質・アジュバント共内包型LNPの処方設計とバイオワクチン製剤開発における有用な指針となる。"
+      ]
+    },
+    {
+      "title_ja": "Ecobody技術を用いた非免疫ウサギ単一B細胞からの腸内細菌に対する高親和性抗原結合断片の同定と特性評価",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "JBB",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "無細胞タンパク質合成系と単一細胞RT-PCRを統合したEcobody技術を用い、非免疫ウサギ単一B細胞から腸内細菌に対するFab断片の迅速スクリーニングと取得を試みた。",
+        "動物免疫プロセスを経ずに、腸内細菌抗原に対してナノモルオーダーの高親和性を示す特異的Fabクローンの同定・配列決定および機能評価に成功した。",
+        "抗体医薬スクリーニング期間の大幅な短縮、多様な抗原に対応可能な抗体・断片抗体の高効率な創出・生産バイオプロセスの構築に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "不純物の不純物！最適化された強制ニトロソ化条件を用いたオメプラゾールの薬物関連ニトロソ化不純物の調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S022354926004028?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "オメプラゾール原薬およびその関連分解不純物から生じる可能性のあるニトロソアミン類（NDSRIs）を同定するため、最適化された強制ニトロソ化試験系を構築・検証した。",
+        "親化合物のみならず既存の不純物骨格に起因する新規ニトロソ化誘導体を複数検出し、LC-HRMS等を用いてそれらの化学構造と生成経路を解明した。",
+        "ICH M7や各極ニトロソアミン規制に対応する製剤化リスク評価、不純物管理閾値設定、原薬・添加剤適合性試験の高度化に不可欠な分析知見を提供する。"
+      ]
+    },
+    {
+      "title_ja": "エトラシモドの過酷分解試験：主要分解生成物の構造同定と分解経路",
+      "original_title": "Forced degradation study of etrasimod: Structural elucidation and transformation pathways of its major degradation products",
+      "url": "https://www.sciencedirect.com/science/article/pii/S022354926004223?dgcid=rss_sd_all",
+      "source": "JPharmSci",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "S1P受容体調節薬エトラシモドに対し、ICH Q1A(R2)ガイドラインに準拠した各種過酷ストレス（加水分解、酸化、光、熱等）条件下での分解挙動を評価した。",
+        "UHPLC-Q-TOF-MS/MSおよびNMRを用いて主要分解生成物のプロファイリングを実施し、酸化や光分解に伴う分解経路・化学変換メカニズムを特定した。",
+        "安定性予測試験（ASAP）、製剤処方設計（抗酸化剤の選定等）、安定性試験における安定性指示分析法（SIAM）の開発とCMC申請データパッケージの補強に直結する。"
+      ]
+    },
+    {
+      "title_ja": "誘導的共集合による速度論的に安定化されたナノ凝集体：創薬における溶解度と活性の乖離および溶媒交絡の解消",
+      "original_title": "Kinetically stabilized nanocondensates via guided co-assembly: resolving solubility-potency mismatches and solvent confounding in drug discovery",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009405?dgcid=rss_sd_all",
+      "source": "JCR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "低溶解性リード化合物スクリーニング時に発生する有機溶媒交絡や見かけの活性低下を克服するため、誘導的共集合法による速度論的安定ナノ凝集体作製法を開発した。",
+        "DMSOフリーの水系アッセイ系において難溶性分子の分散安定性を高め、偽陰性・偽陽性を低減し、本来の標的結合親和性・細胞活性を正確に反映することを示した。",
+        "初期スクリーニングからプレフォーミュレーション・初期CMC開発における難溶性分子の製剤化可能性（Druggability）評価の精度を向上させる手法である。"
+      ]
+    },
+    {
+      "title_ja": "クリックケミストリー対応デンドリマーの進展：分子工学、バイオメディカル応用、臨床応用の架橋",
+      "original_title": "Advances in click-enabled dendrimers: bridging molecular engineering, biomedical applications, and clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002310?dgcid=rss_sd_all",
+      "source": "ADDR",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "クリック反応（CuAAC、SPAAC等）を利用した精密制御デンドリマーの合成戦略、多価配位リガンド提示能、ドラッグデリバリーへの応用展開を総括した。",
+        "均一かつ単一分散な多機能キャリアの構築により、核酸医薬や抗がん剤の高密度担持、標的部位への高選択的送達、生体内クリアランスの精密制御が可能となった。",
+        "高分子キャリアのバッチ間再現性や化学的均一性（CMC上の重要課題）を担保しつつ、抗体-薬物複合体様（ADC-like）の精密複合体製剤の工業化を加速する技術である。"
+      ]
+    }
+  ]
+}
