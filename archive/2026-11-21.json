@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "title_ja": "線維化肺へのSMAD7 mRNA送達による肺線維症の減弱化を目的とした標的選択的臓器特異的脂質ナノ粒子",
+      "original_title": "Selective ORgan-Targeting lipid nanoparticles deliver SMAD7 mRNA to fibrotic lungs and attenuate pulmonary fibrosis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009466?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "標的選択的臓器特異的（SORT）脂質ナノ粒子（LNP）を用いて、線維化肺に対して特異的にSMAD7 mRNAを送達する手法を開発した。",
+        "肺線維症モデルにおいて効率的なmRNA発現が確認され、肺線維症の病態進行を有意に減弱させることに成功した。",
+        "核酸医薬（mRNA）の呼吸器疾患治療への適用拡大や、組織特異的DDS設計における有効なアプローチを提供する。"
+      ]
+    },
+    {
+      "title_ja": "呼吸器合胞体ウイルス（RSV）ワクチンのための針なし・熱安定性溶解型マイクロニードルパッチ",
+      "original_title": "Dissolving microneedle patches for needle-free and thermostable respiratory syncytial virus vaccination",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600948X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "RSVワクチンの簡便かつ痛みを伴わない投与を目指し、溶解型のマイクロニードルパッチの製剤化を検討した。",
+        "優れた熱安定性を示し、常温流通（コールドチェーン非依存）の可能性と高い免疫原性を実証した。",
+        "ワクチン製剤の安定性向上および医療従事者の手を借りない皮内送達システムの実用化に向けた重要なCMC知見となる。"
+      ]
+    },
+    {
+      "title_ja": "脂質ナノ粒子の迅速かつ廃棄物を削減する実験室スケール精製のための遠心フィルター",
+      "original_title": "Centrifugal filters for time-efficient and waste-reducing lab-scale purification of lipid nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003206?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "LNPのラボスケール調製における精製プロセスの効率化と廃棄物削減を目的に、遠心フィルター活用の評価を行った。",
+        "従来法と比較して処理時間を大幅に短縮しつつ、LNPの物理化学的特性（粒径や封入効率）を維持できることを示した。",
+        "核酸医薬やmRNA-LNP製剤の早期スクリーニング段階におけるプロセス最適化（ハイスループット化）に寄与する。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギ単一B細胞からのEcobody技術を用いた腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタイゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギの単一B細胞とEcobody技術を組み合わせ、腸内細菌を標的とする高親和性抗体フラグメントの効率的取得を試みた。",
+        "標的細菌に対して優れた結合特異性を持つ抗体フラグメントの同定に成功し、詳細なキャラクタイゼーションを実施した。",
+        "抗体医薬や診断薬開発の上流工程における新規抗体スクリーニングのプラットフォームとして有用な手法を提供する。"
+      ]
+    },
+    {
+      "title_ja": "至適化された強制ニトロソ化条件を用いたオメプラゾールの医薬品関連ニトロソ化不純物の網羅的調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "原薬・製剤中の潜在的な変異原性不純物（NDMA等）の管理を見据え、オメプラゾールの強制ニトロソ化条件を最適化した。",
+        "分解生成物や副次的なニトロソ化不純物（不純物中の不純物）の構造特定と生成挙動を詳細に解明した。",
+        "低分子医薬品の品質管理（CMC）におけるニトロソアミンリスク評価および分析法バリデーションの重要な指針となる。"
+      ]
+    },
+    {
+      "title_ja": "オラパリブ含有IV型脂質ベース製剤の生物薬剤学的パフォーマンスに及ぼす過飽和および析出抑制の影響",
+      "original_title": "Influence of supersaturation and precipitation inhibition on the biopharmaceutical performance of olaparib loaded Type IV lipid-based formulations",
+      "url": "https://www.sciencedirect.com/science/article/pii/S093964112600319X?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難水溶性抗がん薬オラパリブを搭載したIV型脂質ベース製剤（LBF）において、過飽和状態と薬物析出抑制が体内動態に与える影響を評価した。",
+        "適切な析出抑制剤の添加により過飽和状態が維持され、in vitro/in vivoでの溶出および吸収性が劇的に改善することを示した。",
+        "難水溶性化合物の経口製剤設計における可溶化戦略およびバイオアベイラビリティ予測への知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "アルツハイマー病治療におけるグルタミニルシクラーゼ阻害薬の脳標的送達に向けたRVG29修飾還元応答性ナノミセル",
+      "original_title": "RVG29-modified reduction-responsive nanomicelles for brain-targeted delivery of a glutaminyl cyclase inhibitor in Alzheimer’s disease",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011439?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "中枢神経系（CNS）疾患治療薬の血液脳関門（BBB）透過性を高めるため、RVG29ペプチド修飾と還元応答性を有するナノミセルを構築した。",
+        "標的部位での効率的な薬物放出と優れた脳内移行性を達成し、アルツハイマー病モデルでの治療効果を確認した。",
+        "中枢移行性の低い低分子・中分子医薬品の脳送達DDS設計における有用なアプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "人工知能（AI）ガイドによる設計と予測を介した精密ナノ医療の実現に向けて",
+      "original_title": "Toward precision nanomedicine via artificial intelligence guided design and prediction",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ナノ医療・ドラッグデリバリーシステム（DDS）の開発プロセスにおけるAIおよび機械学習活用の最新動向を総括した。",
+        "ナノ粒子の物性、体内動態、薬効予測におけるAIモデルの精度向上と開発期間短縮の具体例を提示した。",
+        "製剤研究のデジタル化（In Silico製剤設計）を加速するためのCMC研究者向け包括的レビュー。"
+      ]
+    },
+    {
+      "title_ja": "特発性肺線維症の病理学的カスケードを克服するための吸入ナノ送達戦略",
+      "original_title": "Inhalable nanodelivery strategies for overcoming the pathological cascade of idiopathic pulmonary fibrosis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011269?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "特発性肺線維症（IPF）の複雑な病理学的カスケードに対し、吸入投与によるナノDDSアプローチの有効性を体系的に整理した。",
+        "肺深部への効率的な送達、細胞特異的ターゲティング、および持続放出による線維化抑制メカニズムを解説した。",
+        "肺疾患をターゲットとした吸入製剤の処方設計および非臨床評価における重要なデザイン原則を提供。"
+      ]
+    }
+  ]
+}
