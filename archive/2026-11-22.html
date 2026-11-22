@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/22 (Sun)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/22 (Sun) ／ 7 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">JCR</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009466?dgcid=rss_sd_all" target="_blank" rel="noopener">選択的臓器標的化脂質ナノ粒子（SORT LNP）による線維化肺へのSMAD7 mRNA送達と肺線維症の軽減</a>
+      </h2>
+      <p class="original-title">原題: Selective ORgan-Targeting lipid nanoparticles deliver SMAD7 mRNA to fibrotic lungs and attenuate pulmonary fibrosis</p>
+      <ul class="points-list">
+        <li>特発性肺線維症（IPF）等の線維化病態に対して、肝臓外組織標的化技術であるSORT（Selective ORgan-Targeting）LNPを用いてSMAD7 mRNAを肺特異的に送達する手法を検討した。</li>
+<li>肺指向性SORT LNPによりSMAD7タンパク質を肺組織で高効率に発現させ、TGF-β/Smadシグナル経路を阻害することで、線維化モデルマウスにおいて肺機能改善と線維化マーカーの有意な抑制を実証した。</li>
+<li>全身投与型LNPの肝臓トラップを回避し、標的臓器（肺）特異的送達を達成した設計原理は、核酸医薬およびmRNA治療薬の組織特異的DDS製剤開発における重要なCMC/処方設計指針となる。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009466?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">EJPB</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003206?dgcid=rss_sd_all" target="_blank" rel="noopener">脂質ナノ粒子（LNP）の短時間かつ廃棄物削減を実現するラボスケール精製用遠心限外ろ過フィルターの評価</a>
+      </h2>
+      <p class="original-title">原題: Centrifugal filters for time-efficient and waste-reducing lab-scale purification of lipid nanoparticles</p>
+      <ul class="points-list">
+        <li>核酸搭載脂質ナノ粒子（LNP）のラボスケール調製において、従来の透析法に代わる遠心限外ろ過フィルター（Centrifugal filters）を用いた迅速かつ環境負荷の低い精製プロセスの適用性を評価した。</li>
+<li>メンブレン材質や分子量分画（MWCO）、遠心条件を最適化することで、粒子径や多分散指数（PDI）、カプセル化効率を維持しながら、透析に比べ処理時間を大幅に短縮し溶媒廃棄量を削減できることを示した。</li>
+<li>初期スクリーニングおよびプロセス開発段階におけるダウンストリーム工程（バッファー置換・濃縮）の迅速化と、粒子凝集や脂質損失を防ぐためのろ過膜選定クライテリアを提示している。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003206?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">ADDR</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all" target="_blank" rel="noopener">ドラッグデリバリーおよびバイオコンジュゲーションにおけるクリックケミストリーと生体直交ケミストリー：設計原理、生体挙動、実用化の展望</a>
+      </h2>
+      <p class="original-title">原題: Click and bioorthogonal chemistry in drug delivery and bioconjugation: Design principles, biological performance, and translational outlook</p>
+      <ul class="points-list">
+        <li>抗体薬物複合体（ADC）やポリマー・脂質コンジュゲート製剤の構築に不可欠なクリック反応・生体直交ケミストリー（SPAAC、IEDDA等）の反応機構と設計戦略を包括的にレビューした。</li>
+<li>副反応や金属毒性（銅フリー化）、生体内安定性、標的指向性リガンド付加効率など、コンジュゲーションの生物学的挙動と薬物動態に及ぼす影響を比較検証した。</li>
+<li>バイオ医薬品・ADCのCMC開発において、結合位置特異性の制御、不均一性（DAR分布）の低減、スケールアップ時における不純物プロファイル管理の観点から重要な指針を提供している。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">JCR</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S016836592600948X?dgcid=rss_sd_all" target="_blank" rel="noopener">針なしで熱安定性に優れたRSウイルスワクチンのための溶解型マイクロニードルパッチ</a>
+      </h2>
+      <p class="original-title">原題: Dissolving microneedle patches for needle-free and thermostable respiratory syncytial virus vaccination</p>
+      <ul class="points-list">
+        <li>RSウイルス（RSV）抗原タンパク質を搭載し、低温管理（コールドチェーン）依存を脱却可能な生分解性・溶解型マイクロニードル（DMN）パッチ製剤の開発を目的とした。</li>
+<li>糖類などの生体適合性マトリックスポリマーによる安定化処方を最適化し、高温条件下での抗原立体構造と免疫原性の維持、ならびに皮膚内での迅速な溶解・送達を確認した。</li>
+<li>生物製剤・ワクチンの物理化学的安定性（熱変性・凝集抑制）を担保する固体製剤化技術として、コールドチェーン不要なワクチン製剤のCMC設計に寄与する知見である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S016836592600948X?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">JCR</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009508?dgcid=rss_sd_all" target="_blank" rel="noopener">タンパク質医薬の経口送達プラットフォーム：放射線腸炎予防のためのTLR5アゴニスト応答放出型PDA/PEG修飾工学プロバイオティクス</a>
+      </h2>
+      <p class="original-title">原題: An oral delivery platform for protein drugs: PDA/PEGylated engineered probiotics responsively release TLR5 agonists to prevent radiation enteritis</p>
+      <ul class="points-list">
+        <li>胃酸や消化酵素による分解を受けやすいバイオ医薬品（タンパク質）の経口送達を可能にするため、ポリドーパミン（PDA）およびPEGでコーティングした遺伝子組換えプロバイオティクス基盤を構築した。</li>
+<li>消化管通過時の保護機能と腸内環境に応答した標的放出を両立させ、TLR5アゴニストタンパク質を局所放出して放射線腸炎モデルマウスに対する有意な保護効果と粘膜修復能を実証した。</li>
+<li>タンパク質・ペプチド医薬の経口投与における最大の課題である消化管内酵素安定性・消化管透過性を生きた細胞（プロバイオティクス）と高分子コーティングで克服する新たなCMCアプローチである。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009508?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">JBB</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">Ecobody技術を用いた非免疫ウサギ単一B細胞からの腸内細菌に対する高親和性抗原結合断片（Fab）の同定と特性評価</a>
+      </h2>
+      <p class="original-title">原題: Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology</p>
+      <ul class="points-list">
+        <li>非免疫ウサギの単一B細胞から無細胞タンパク質合成系を用いて目的の抗原結合断片（Fab）を迅速にスクリーニング・作製する「Ecobody技術」の適用性を検証した。</li>
+<li>腸内細菌を標的としたスクリーニングにより、動物免疫を介さずにナノモルオーダーの高親和性を有する機能的Fabフラグメントの同定・クローニング・発現に成功した。</li>
+<li>抗体創薬初期スクリーニング期間の劇的な短縮を可能とし、組換え抗体断片（Fab、scFv等）の迅速なコンストラクト評価やバイオプロセス上流開発を加速する技術である。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">JCR</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">CAR-T細胞誘発性サイトカイン放出症候群を精密に制御するためのナノエンジニアリング戦略</a>
+      </h2>
+      <p class="original-title">原題: Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome</p>
+      <ul class="points-list">
+        <li>CAR-T細胞療法の主要な重篤副作用であるサイトカイン放出症候群（CRS）を抑制するため、抗サイトカイン抗体や小分子阻害剤を標的局所送達・制御放出するナノキャリア技術を総括した。</li>
+<li>炎症微小環境応答型ナノ粒子や細胞表面工学により、CAR-T細胞の抗腫瘍活性を損なうことなく過剰なIL-6やIL-1放出を選択的に中和・抑制する設計手法を体系化した。</li>
+<li>生体材料を用いた次世代細胞療法製剤における安全性プロファイル向上と、細胞-ナノ粒子ハイブリッド製剤のCMC設計・品質特性評価への示唆を提供する。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>
