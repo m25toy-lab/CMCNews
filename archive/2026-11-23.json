@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-23",
+  "articles": [
+    {
+      "title_ja": "脂質ナノ粒子とその継承者：高密度組織浸透と臨床的トランスレーションのための設計原理",
+      "original_title": "Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "LNPおよび次世代型脂質ベースキャリアの組織浸透性向上と臨床応用を見据えた設計原理の包括的レビュー。",
+        "高密度組織における送達効率を最大化するための物理化学的特性や表面修飾の最適化戦略を提示。",
+        "核酸医薬や遺伝子治療薬のインビボ送達におけるCMC設計やスケールアップ課題への重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "人工知能誘導型設計と予測によるプレシジョン・ナノメディシンに向けて",
+      "original_title": "Toward precision nanomedicine via artificial intelligence guided design and prediction",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "AI技術を活用したナノメディシンおよびDDS製剤の設計・物性予測アプローチの現状を詳述。",
+        "機械学習を用いた製剤スクリーニングやインシリコでの体内動態予測による開発効率化の可能性を示した。",
+        "製剤開発のQbD（Quality by Design）アプローチにおけるAI活用のロードマップとして有用な知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "クリック・生直交化学の薬物送達およびバイオコンジュゲーションにおける応用：設計原理、生物学的性能、およびトランスレーショナルな展望",
+      "original_title": "Click and bioorthogonal chemistry in drug delivery and bioconjugation: Design principles, biological performance, and translational outlook",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体医薬複合体（ADC）や核酸・タンパク質コンジュゲーションにおけるクリック・生直交化学の活用法を総括。",
+        "高収率かつサイトスペシフィックな修飾を実現する化学的設計原理と、生体内での安定性を評価。",
+        "次世代バイオコンジュゲート製剤の製造プロセスおよび品質管理（CMC）における実用上の利点を明確化。"
+      ]
+    },
+    {
+      "title_ja": "脂質ナノ粒子の迅速かつ廃棄物を削減するラボスケール精製のための遠心式フィルター",
+      "original_title": "Centrifugal filters for time-efficient and waste-reducing lab-scale purification of lipid nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003206?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "LNPのラボスケール精製において、時間短縮と廃棄物削減を両立する遠心式フィルター法の開発と評価。",
+        "従来の透析法やTFF法と比較して、同等の回収率と物理化学的安定性（粒径・カプセル化効率）を効率的に達成できることを実証。",
+        "早期製剤スクリーニングや処方検討におけるプロセス効率化の有効なツールとしてCMCへ寄与。"
+      ]
+    },
+    {
+      "title_ja": "不純物の不純物！最適化された強制ニトロソ化条件を用いたオメプラゾールの医薬品関連ニトロソ化不純物の調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "強制ニトロソ化条件の最適化により、オメプラゾールに関連する微量なニトロソ化不純物（NDSA等）を網羅的に解析。",
+        "不純物からさらに生成される二次的不純物の構造同定と生成メカニズムを解明。",
+        "ICH M7ガイドラインに基づく原薬および製剤の変異原性不純物リスク評価と品質管理戦略への実践的知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "ニトロソ化剤スカベンジャー：強制ニトロソ化条件下で形成される副生物の構造解析とICH M7安全性評価",
+      "original_title": "Nitrosating agent scavengers: Structural characterization and ICH M7 safety assessment of byproducts formed under forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004600?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ニトロソアミン汚染防止に用いられるスカベンジャー添加剤が生じる副生物の構造同定と安全性評価を実施。",
+        "過酷な強制ニトロソ化条件下での副生物の挙動を分析し、潜在的な毒性リスクをスクリーニング。",
+        "製剤プロセスへのスカベンジャー導入におけるレギュラトリーサイエンスおよび安全性担保のためのCMC指針を提示。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギシングルB細胞を用いたEcobody技術による腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞とEcobody技術を組み合わせ、標的抗原に対する高親和性抗体フラグメントを迅速に取得。",
+        "取得した抗体の結合特異性や親和性を評価し、優れた機能特性を確認。",
+        "新規抗体医薬シーズの探索プロセスにおけるスループット向上とバイオプロセスの効率化に貢献。"
+      ]
+    },
+    {
+      "title_ja": "呼吸器合胞体ウイルス（RSV）ワクチンの針なし・熱安定性化のための溶解性マイクロニードルパッチ",
+      "original_title": "Dissolving microneedle patches for needle-free and thermostable respiratory syncytial virus vaccination",
+      "url": "https://www.sciencedirect.com/science/article/pii/S016836592600948X?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "RSVワクチンを搭載した溶解性マイクロニードル製剤の開発により、冷鎖（コールドチェーン）不要の熱安定性を実現。",
+        "皮膚を介した効率的な抗原送達により、優れた免疫応答を誘導できることをインビボで実証。",
+        "ワクチン製剤の投与デバイス設計、安定性保持、および流通性改善に向けた重要なCMC開発モデルを提供。"
+      ]
+    },
+    {
+      "title_ja": "タンパク質医薬品向け経口送達プラットフォーム：PDA/PEG化エンジニアリングプロバイオティクスによる放射線腸炎予防のためのTLR5アゴニスト応答性放出",
+      "original_title": "An oral delivery platform for protein drugs: PDA/PEGylated engineered probiotics responsively release TLR5 agonists to prevent radiation enteritis",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009508?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ポリドーパミン（PDA）とPEGで修飾した組換えプロバイオティクスを用い、タンパク質・ペプチド医薬の経口送達システムを構築。",
+        "腸内環境に応答した標的部位での薬物放出により、放射線腸炎に対する高い治療効果を確認。",
+        "不安定なバイオ医薬品の経口製剤化におけるキャリア設計および生体材料活用の新しいアプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "CAR-T細胞療法誘発性サイトカインリリース症候群の精密制御に向けたナノエンジニアリング戦略",
+      "original_title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "CAR-T細胞療法における重篤な副作用（サイトカインリリース症候群: CRS）を制御するためのナノ医薬製剤を開発。",
+        "炎症性サイトカインの産生を局所的かつ精密に抑制することで、治療効果を維持しつつ安全性を向上。",
+        "遺伝子・細胞治療（CGT）分野における安全性向上を目的とした製剤学的介入の新しい方向性を示す。"
+      ]
+    }
+  ]
+}
