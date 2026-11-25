@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>CMC News Daily — 2026/11/25 (Wed)</title>
+  <style>
+    :root {
+      --bg: #f8f9fa;
+      --card-bg: #ffffff;
+      --text: #1a1a2e;
+      --muted: #6c757d;
+      --accent: #2563eb;
+      --border: #e2e8f0;
+      --dds:      #16a34a;
+      --analysis: #7c3aed;
+      --bio:      #0284c7;
+      --cmc:      #d97706;
+      --default:  #475569;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans JP", sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.7;
+    }
+    header {
+      background: linear-gradient(135deg, #0f172a 0%, #1e3a5f 100%);
+      color: #fff;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 { font-size: 1.8rem; font-weight: 800; letter-spacing: -0.02em; }
+    header p  { margin-top: 0.4rem; opacity: 0.8; font-size: 0.95rem; }
+    .date-badge {
+      display: inline-block;
+      margin-top: 0.7rem;
+      background: rgba(255,255,255,0.15);
+      border-radius: 9999px;
+      padding: 0.2rem 1rem;
+      font-size: 0.85rem;
+    }
+    main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 4rem;
+    }
+    .article-card {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.2rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.05);
+      transition: box-shadow 0.2s;
+    }
+    .article-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.10); }
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+      margin-bottom: 0.6rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 0.15rem 0.7rem;
+      border-radius: 9999px;
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: #fff;
+    }
+    .badge-dds      { background: var(--dds); }
+    .badge-analysis { background: var(--analysis); }
+    .badge-bio      { background: var(--bio); }
+    .badge-cmc      { background: var(--cmc); }
+    .badge-default  { background: var(--default); }
+    .source-label {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-left: auto;
+    }
+    .article-title {
+      font-size: 1.05rem;
+      font-weight: 700;
+      margin-bottom: 0.25rem;
+      line-height: 1.4;
+    }
+    .article-title a {
+      color: var(--text);
+      text-decoration: none;
+    }
+    .article-title a:hover { color: var(--accent); text-decoration: underline; }
+    .original-title {
+      font-size: 0.78rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      font-style: italic;
+    }
+    .points-list {
+      list-style: none;
+      padding: 0;
+      margin-bottom: 0.8rem;
+    }
+    .points-list li {
+      padding: 0.18rem 0 0.18rem 1.2rem;
+      position: relative;
+      font-size: 0.9rem;
+      color: #334155;
+    }
+    .points-list li::before {
+      content: "•";
+      position: absolute;
+      left: 0.2rem;
+      color: var(--accent);
+      font-weight: bold;
+    }
+    .read-more {
+      display: inline-block;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+      font-weight: 600;
+    }
+    .read-more:hover { text-decoration: underline; }
+    .archive-nav {
+      background: var(--card-bg);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 1rem 1.4rem;
+      margin-top: 2rem;
+    }
+    .archive-nav h3 {
+      font-size: 0.85rem;
+      color: var(--muted);
+      margin-bottom: 0.6rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+    .archive-links { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+    .archive-links a {
+      display: inline-block;
+      padding: 0.25rem 0.8rem;
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      font-size: 0.82rem;
+      color: var(--accent);
+      text-decoration: none;
+    }
+    .archive-links a:hover { background: var(--accent); color: #fff; }
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: 0.78rem;
+      color: var(--muted);
+      border-top: 1px solid var(--border);
+    }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.3rem; }
+      .article-card { padding: 1rem 1.1rem; }
+    }
+</style>
+</head>
+<body>
+  <header>
+    <h1>🧬 CMC News Daily</h1>
+    <p>バイオ医薬品・製剤 最新論文ダイジェスト</p>
+    <span class="date-badge">📅 2026/11/25 (Wed) ／ 8 件</span>
+  </header>
+  <main>
+    
+    <article class="article-card" id="article-1">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all" target="_blank" rel="noopener">脂質ナノ粒子とその継承世代：高密度組織送達と臨床実用化のための設計原則</a>
+      </h2>
+      <p class="original-title">原題: Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation</p>
+      <ul class="points-list">
+        <li>核酸医薬やmRNAの送達において広く使われる脂質ナノ粒子（LNP）および次世代型キャリアの組織浸透性向上と臨床応用を見据えた設計原則を網羅的にレビュー。</li>
+<li>生体膜透過性や密な組織における薬物動態を改善するための物理化学的パラメータと最適化戦略を提示。</li>
+<li>核酸医薬や遺伝子治療製剤のDDS設計、およびin vivoでの送達効率向上と品質・安全性評価への明確な示唆を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-2">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all" target="_blank" rel="noopener">AIガイド付き設計と予測による精密ナノ医療に向けて</a>
+      </h2>
+      <p class="original-title">原題: Toward precision nanomedicine via artificial intelligence guided design and prediction</p>
+      <ul class="points-list">
+        <li>人工知能（AI）を活用したナノ医薬品の設計・物性予測・最適化に関する最新アプローチを総括。</li>
+<li>機械学習モデルを用いた薬物送達システムの挙動予測や、処方スクリーニングの効率化に関する具体例を解説。</li>
+<li>製剤開発（CMC）におけるQbD（Quality by Design）や処方スクリーニングの迅速化、開発期間短縮への応用可能性を示唆。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-3">
+      <div class="card-header">
+        <span class="badge badge-dds">💊 製剤・DDS</span>
+        <span class="source-label">Advanced Drug Delivery Reviews</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all" target="_blank" rel="noopener">クリックおよび生体直交化学：薬物送達とバイオコンジュゲーションにおける設計原則、生物学的パフォーマンス、およびトランスレーショナル展望</a>
+      </h2>
+      <p class="original-title">原題: Click and bioorthogonal chemistry in drug delivery and bioconjugation: Design principles, biological performance, and translational outlook</p>
+      <ul class="points-list">
+        <li>抗体薬物複合体（ADC）や核酸・タンパク質修飾におけるクリックケミストリーおよび生体直交化学の最新応用動向を議論。</li>
+<li>高効率な結合反応による均一なバイオコンジュゲートの合成と、生体内での安定性・薬効評価について分析。</li>
+<li>次世代ADCや修飾型バイオ医薬品の製造プロセス（CMC）における品質管理や分子設計の高度化に寄与。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-4">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126002900?dgcid=rss_sd_all" target="_blank" rel="noopener">凍結と一次乾燥の調整を組み合わせた高効率凍結乾燥：多孔質構造への洞察</a>
+      </h2>
+      <p class="original-title">原題: Combining adjustments in both freezing and primary drying for highly efficient lyophilization with insights into porous structure</p>
+      <ul class="points-list">
+        <li>バイオ医薬品の凍結乾燥（リヨフィライゼーション）において、凍結条件と一次乾燥条件を最適化しプロセス効率を最大化する手法を検討。</li>
+<li>ケーキの多孔質構造と熱・物質移動の関係性を解析し、乾燥時間の短縮と品質維持の両立を実証。</li>
+<li>バイオ製剤の製造プロセスにおけるサイクルタイム短縮、製品の構造安定性確保、およびスケールアップ時のCMC最適化に貢献。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126002900?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-5">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">不純物の不純物！最適化された強制ニトロソ化条件を用いたオメプラゾールの薬物関連ニトロソ化不純物の調査</a>
+      </h2>
+      <p class="original-title">原題: Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions</p>
+      <ul class="points-list">
+        <li>強制ニトロソ化条件を最適化し、低分子医薬品オメプラゾールにおける薬物由来のニトロソ化不純物（NDSRIs等）の生成挙動を詳細に調査。</li>
+<li>微量不純物および「不純物の不純物」に相当する分解生成物の構造同定とリスク評価を実施。</li>
+<li>ICH M7ガイドラインに基づく変異原性不純物の管理、分析法バリデーション、および原薬・製剤の安全性評価に直接的な示唆を提供。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-6">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">Journal of Pharmaceutical Sciences</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0022354926004600?dgcid=rss_sd_all" target="_blank" rel="noopener">ニトロソ化剤スカベンジャー：強制ニトロソ化条件下で形成される副生成物の構造特性評価とICH M7安全性評価</a>
+      </h2>
+      <p class="original-title">原題: Nitrosating agent scavengers: Structural characterization and ICH M7 safety assessment of byproducts formed under forced nitrosation conditions</p>
+      <ul class="points-list">
+        <li>ニトロソアミン汚染防止のために添加されるスカベンジャーが強制ニトロソ化条件下で生成する副生成物の構造解析を実施。</li>
+<li>生成した副生成物についてICH M7に基づく毒性・安全性評価（トキシコフォアの有無等）を実施し、安全性プロファイルを明確化。</li>
+<li>製剤処方設計におけるニトロソアミン対策（スカベンジャー添加）の安全性担保および規制当局への申請資料作成に貢献。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0022354926004600?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-7">
+      <div class="card-header">
+        <span class="badge badge-analysis">🔬 製剤・物性解析</span>
+        <span class="source-label">European Journal of Pharmaceutics and Biopharmaceutics</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S0939641126003218?dgcid=rss_sd_all" target="_blank" rel="noopener">高分子送達デバイスにおける水分の浸入をマスター変数とした挙動解析：構成成分の熱力学、マトリックス緩和、および生理活性分子の2領域拡散</a>
+      </h2>
+      <p class="original-title">原題: Water ingress as the master variable in polymeric delivery devices: constituent thermodynamics, matrix relaxation, and the two-region diffusion of bioactive molecules</p>
+      <ul class="points-list">
+        <li>徐放性高分子デバイスにおける水分浸入をキードライバーとし、熱力学やマトリックス緩和、薬物拡散挙動を数理的・熱力学的に解析。</li>
+<li>水分流入に伴うポリマーの構造変化と生理活性物質の放出速度の相関を解明。</li>
+<li>インプラントや徐放性製剤の設計において、長期放出プロファイルの予測精度向上と品質設計（QbD）に寄与。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S0939641126003218?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+
+    <article class="article-card" id="article-8">
+      <div class="card-header">
+        <span class="badge badge-bio">🧬 抗体・バイオプロセス</span>
+        <span class="source-label">Journal of Bioscience and Bioengineering</span>
+      </div>
+      <h2 class="article-title">
+        <a href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">非免疫化ウサギ単一B細胞からのEcobody技術を用いた腸内細菌に対する高親和性抗原結合断片の同定と特性評価</a>
+      </h2>
+      <p class="original-title">原題: Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology</p>
+      <ul class="points-list">
+        <li>非免疫化ウサギのシングルB細胞解析とEcobody技術を用いて、腸内細菌に対する高親和性抗体断片（Fab/scFv等）を効率的に取得・解析。</li>
+<li>スクリーニングプロセスの迅速化と取得された抗体断片の結合特異性・親和性を検証。</li>
+<li>抗体医薬のリード探索プロセス、抗体エンジニアリング、およびバイオプロセス上流のスクリーニング技術効率化に応用可能。</li>
+      </ul>
+      <a class="read-more" href="https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all" target="_blank" rel="noopener">原文を読む →</a>
+    </article>
+
+    
+        <nav class="archive-nav">
+          <h3>📅 過去アーカイブ</h3>
+          <div class="archive-links"><a href="archive/2026-09-22.html">2026-09-22</a></div>
+        </nav>
+  </main>
+  <footer>
+    自動生成: Gemini API + GitHub Actions ／ ソース: JPharmSci, JCR, ADDR, EJPB, IJP, Molecular Pharmaceutics, mAbs, B&amp;B 等
+  </footer>
+</body>
+</html>

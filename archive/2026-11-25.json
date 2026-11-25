@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "title_ja": "脂質ナノ粒子とその継承世代：高密度組織送達と臨床実用化のための設計原則",
+      "original_title": "Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬やmRNAの送達において広く使われる脂質ナノ粒子（LNP）および次世代型キャリアの組織浸透性向上と臨床応用を見据えた設計原則を網羅的にレビュー。",
+        "生体膜透過性や密な組織における薬物動態を改善するための物理化学的パラメータと最適化戦略を提示。",
+        "核酸医薬や遺伝子治療製剤のDDS設計、およびin vivoでの送達効率向上と品質・安全性評価への明確な示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "AIガイド付き設計と予測による精密ナノ医療に向けて",
+      "original_title": "Toward precision nanomedicine via artificial intelligence guided design and prediction",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "人工知能（AI）を活用したナノ医薬品の設計・物性予測・最適化に関する最新アプローチを総括。",
+        "機械学習モデルを用いた薬物送達システムの挙動予測や、処方スクリーニングの効率化に関する具体例を解説。",
+        "製剤開発（CMC）におけるQbD（Quality by Design）や処方スクリーニングの迅速化、開発期間短縮への応用可能性を示唆。"
+      ]
+    },
+    {
+      "title_ja": "クリックおよび生体直交化学：薬物送達とバイオコンジュゲーションにおける設計原則、生物学的パフォーマンス、およびトランスレーショナル展望",
+      "original_title": "Click and bioorthogonal chemistry in drug delivery and bioconjugation: Design principles, biological performance, and translational outlook",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002292?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "抗体薬物複合体（ADC）や核酸・タンパク質修飾におけるクリックケミストリーおよび生体直交化学の最新応用動向を議論。",
+        "高効率な結合反応による均一なバイオコンジュゲートの合成と、生体内での安定性・薬効評価について分析。",
+        "次世代ADCや修飾型バイオ医薬品の製造プロセス（CMC）における品質管理や分子設計の高度化に寄与。"
+      ]
+    },
+    {
+      "title_ja": "凍結と一次乾燥の調整を組み合わせた高効率凍結乾燥：多孔質構造への洞察",
+      "original_title": "Combining adjustments in both freezing and primary drying for highly efficient lyophilization with insights into porous structure",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002900?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品の凍結乾燥（リヨフィライゼーション）において、凍結条件と一次乾燥条件を最適化しプロセス効率を最大化する手法を検討。",
+        "ケーキの多孔質構造と熱・物質移動の関係性を解析し、乾燥時間の短縮と品質維持の両立を実証。",
+        "バイオ製剤の製造プロセスにおけるサイクルタイム短縮、製品の構造安定性確保、およびスケールアップ時のCMC最適化に貢献。"
+      ]
+    },
+    {
+      "title_ja": "不純物の不純物！最適化された強制ニトロソ化条件を用いたオメプラゾールの薬物関連ニトロソ化不純物の調査",
+      "original_title": "Impurities of impurities! Investigation of drug-related nitrosated impurities of omeprazole using optimized forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004028?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "強制ニトロソ化条件を最適化し、低分子医薬品オメプラゾールにおける薬物由来のニトロソ化不純物（NDSRIs等）の生成挙動を詳細に調査。",
+        "微量不純物および「不純物の不純物」に相当する分解生成物の構造同定とリスク評価を実施。",
+        "ICH M7ガイドラインに基づく変異原性不純物の管理、分析法バリデーション、および原薬・製剤の安全性評価に直接的な示唆を提供。"
+      ]
+    },
+    {
+      "title_ja": "ニトロソ化剤スカベンジャー：強制ニトロソ化条件下で形成される副生成物の構造特性評価とICH M7安全性評価",
+      "original_title": "Nitrosating agent scavengers: Structural characterization and ICH M7 safety assessment of byproducts formed under forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004600?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "ニトロソアミン汚染防止のために添加されるスカベンジャーが強制ニトロソ化条件下で生成する副生成物の構造解析を実施。",
+        "生成した副生成物についてICH M7に基づく毒性・安全性評価（トキシコフォアの有無等）を実施し、安全性プロファイルを明確化。",
+        "製剤処方設計におけるニトロソアミン対策（スカベンジャー添加）の安全性担保および規制当局への申請資料作成に貢献。"
+      ]
+    },
+    {
+      "title_ja": "高分子送達デバイスにおける水分の浸入をマスター変数とした挙動解析：構成成分の熱力学、マトリックス緩和、および生理活性分子の2領域拡散",
+      "original_title": "Water ingress as the master variable in polymeric delivery devices: constituent thermodynamics, matrix relaxation, and the two-region diffusion of bioactive molecules",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003218?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "徐放性高分子デバイスにおける水分浸入をキードライバーとし、熱力学やマトリックス緩和、薬物拡散挙動を数理的・熱力学的に解析。",
+        "水分流入に伴うポリマーの構造変化と生理活性物質の放出速度の相関を解明。",
+        "インプラントや徐放性製剤の設計において、長期放出プロファイルの予測精度向上と品質設計（QbD）に寄与。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギ単一B細胞からのEcobody技術を用いた腸内細菌に対する高親和性抗原結合断片の同定と特性評価",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞解析とEcobody技術を用いて、腸内細菌に対する高親和性抗体断片（Fab/scFv等）を効率的に取得・解析。",
+        "スクリーニングプロセスの迅速化と取得された抗体断片の結合特異性・親和性を検証。",
+        "抗体医薬のリード探索プロセス、抗体エンジニアリング、およびバイオプロセス上流のスクリーニング技術効率化に応用可能。"
+      ]
+    }
+  ]
+}
