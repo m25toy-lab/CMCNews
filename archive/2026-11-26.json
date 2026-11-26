@@ -1,0 +1,101 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "title_ja": "脂質ナノ粒子（LNP）とその次世代技術：緻密な組織への浸透と臨床転換のための設計指針",
+      "original_title": "Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "mRNAワクチンで成功を収めたLNPの、固形腫瘍や線維化組織などの緻密な組織への浸透性を向上させるための設計戦略をレビュー。",
+        "粒径制御、表面修飾（PEG化の最適化）、電荷調整、およびリガンド付加による標的化が、組織内拡散と細胞内取り込みに与える影響を詳述。",
+        "臨床転換における製造のスケールアップ、安定性確保、免疫原性の低減といったCMC上の課題と、次世代ナノキャリアの展望を提示。"
+      ]
+    },
+    {
+      "title_ja": "非ウイルス性遺伝子デリバリーにおけるメカニズムに基づいたIVIVC：ナノ粒子の変容から治療効果まで",
+      "original_title": "Toward mechanism-informed IVIVC in non-viral gene delivery: From nanoparticle transformation to therapeutic action",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002383?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "核酸医薬ナノ粒子の体内動態を予測するため、従来の溶出試験を超えた「メカニズムに基づく体内外相関（IVIVC）」の構築手法を提案。",
+        "生物学的環境下でのナノ粒子の構造変化（タンパク質コロナ形成や崩壊）と、エンドソーム脱出等の細胞内プロセスを統合したモデリングを解説。",
+        "複雑なモダリティの品質管理において、生物学的活性を反映したin vitro評価系の確立と規制当局への対応に資する知見を提供。"
+      ]
+    },
+    {
+      "title_ja": "凍結工程と一次乾燥工程の両方を調整することによる高効率な凍結乾燥：多孔質構造の解析に基づく考察",
+      "original_title": "Combining adjustments in both freezing and primary drying for highly efficient lyophilization with insights into porous structure",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002900?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "凍結乾燥プロセスの効率化を目指し、制御核生成（Controlled Nucleation）と一次乾燥条件（温度・圧力）の組み合わせが乾燥速度とケーキ構造に与える影響を調査。",
+        "氷結晶のサイズと分布を制御することで、乾燥時間を大幅に短縮しつつ、再溶解性や物理的安定性に優れた多孔質構造を維持できることを実証。",
+        "バイオ医薬品の凍結乾燥製剤開発において、プロセス時間短縮（コスト削減）と品質担保を両立させるためのQbD（Quality by Design）アプローチを提示。"
+      ]
+    },
+    {
+      "title_ja": "ニトロソ化剤スカベンジャー：強制ニトロソ化条件下で生成する副生成物の構造解析とICH M7安全性評価",
+      "original_title": "Nitrosating agent scavengers: Structural characterization and ICH M7 safety assessment of byproducts formed under forced nitrosation conditions",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004600?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "規制・CMC",
+      "points": [
+        "医薬品中のニトロソアミン不純物生成を抑制するスカベンジャー（抗酸化剤等）が、ニトロソ化剤と反応して生成する副生成物の安全性を評価。",
+        "強制ニトロソ化条件下で生成した副生成物を単離・同定し、ICH M7ガイドラインに基づいた遺伝毒性予測（in silicoおよびin vitro）を実施。",
+        "製剤設計においてスカベンジャーを添加する際の、不純物管理戦略および規制当局への安全性根拠資料作成に直接的な指針を与える内容。"
+      ]
+    },
+    {
+      "title_ja": "人工知能（AI）による設計と予測を通じた精密ナノ医学の実現に向けて",
+      "original_title": "Toward precision nanomedicine via artificial intelligence guided design and prediction",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002334?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ナノ粒子の複雑な物理化学的特性（サイズ、電荷、組成）と生物学的応答の相関を、機械学習やディープラーニングを用いて最適化する手法を概説。",
+        "ハイスループット実験データを用いた処方最適化や、in vivoでの送達効率・毒性予測におけるAIモデルの有効性を議論。",
+        "試行錯誤型の製剤開発から脱却し、データ駆動型の迅速なCMC開発および個別化医療に対応した製剤設計の可能性を提示。"
+      ]
+    },
+    {
+      "title_ja": "CAR-T細胞誘発性サイトカイン放出症候群（CRS）の精密制御に向けたナノエンジニアリング戦略",
+      "original_title": "Nanoengineering strategies for precision regulation of chimeric antigen receptor T-cell-induced cytokine release syndrome",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009375?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "CAR-T療法における重篤な副作用であるサイトカイン放出症候群（CRS）を管理するための、ナノテクノロジーを用いた薬剤送達システムをレビュー。",
+        "サイトカイン中和抗体や免疫抑制剤を、CRS発生時のみに放出する応答性ナノキャリアや、CAR-T細胞自体の活性を遠隔制御する技術を詳述。",
+        "次世代細胞療法の安全性向上に向けた、製剤学的アプローチによる副作用マネジメントの重要性を強調。"
+      ]
+    },
+    {
+      "title_ja": "Ecobody技術を用いた非免疫ウサギ単一B細胞からの腸内細菌に対する高親和性抗体フラグメント（Fab）の同定と特性解析",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "無細胞タンパク質合成系を利用したEcobody技術により、非免疫動物の単一B細胞から特定の腸内細菌に結合するFabを迅速にスクリーニングする手法を開発。",
+        "標的細菌に対してnMオーダーの解離定数を持つ高親和性クローンを単離し、その特異性と結合能を評価。",
+        "新規抗体医薬のシード探索や、難溶性・難精製タンパク質を標的とするバイオプロセスの迅速化に寄与する技術基盤。"
+      ]
+    },
+    {
+      "title_ja": "代替添加剤による無定形固体分散体（ASD）の強化：製剤開発の進展、薬物-添加剤の相互作用、および規制の現状",
+      "original_title": "Enhancing amorphous solid dispersions with alternative excipients: advances in drug formulation, drug-excipient insights, and regulatory landscape",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003188?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "難溶性薬物の溶解性向上に用いられるASDにおいて、従来のポリマーに代わる新規・代替添加剤（天然高分子、界面活性剤、メソポーラスシリカ等）の活用をレビュー。",
+        "薬物と添加剤間の分子レベルの相互作用が、過飽和状態の維持や物理的安定性に与える影響を解析。",
+        "新規添加剤の採用における規制上のハードル（GRAS認証等）と、CMC開発におけるリスク評価のポイントを整理。"
+      ]
+    }
+  ]
+}
