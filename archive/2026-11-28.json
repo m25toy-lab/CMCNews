@@ -1,0 +1,113 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "title_ja": "日本の製薬企業間におけるマルチアトリュビュート法（MAM）の施設間評価：翻訳後修飾の変動性と標準化に向けた提言",
+      "original_title": "Interlaboratory evaluation of the multi‑attribute method across Japanese pharmaceutical companies: Variability of post-translational modification and recommendations for standardization",
+      "url": "https://www.sciencedirect.com/science/article/pii/S002235492600448X?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "物性・分析",
+      "points": [
+        "日本の複数製薬企業による共同研究として、バイオ医薬品の品質評価に用いられるマルチアトリュビュート法（MAM）の施設間バラツキを評価し、標準化に向けた課題を検証した。",
+        "翻訳後修飾（PTM）の分析において施設間の測定値に変動が見られ、前処理や機器条件に起因する要因が特定された。",
+        "MAMの薬事承認申請および日常的な品質管理（CMC）への導入を加速するための具体的な標準化の提言を提供している。"
+      ]
+    },
+    {
+      "title_ja": "撹拌ストレス試験におけるPTFE製撹拌子からのポリテトラフルオロエチレン（PTFE）含有粒子の意図せぬ観察に関する驚くべき知見",
+      "original_title": "Stirring the pot: Surprising observation of polytetrafluoroethylene (PTFE)-containing particles when stir-stressing biologic formulations with PTFE-coated stir bars",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0022354926004417?dgcid=rss_sd_all",
+      "source": "Journal of Pharmaceutical Sciences (JPharmSci)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品製剤のせん断・撹拌ストレス試験において一般的に使用されるPTFEコート撹拌子から、微粒子（PTFE含有粒子）が遊離する現象を発見・検証した。",
+        "撹拌条件や容器との摩擦によって、製剤中に意図しない外部由来の微粒子が混入するリスクを実証した。",
+        "不溶性微粒子検査や製剤の安定性評価、および物性解析を行う際の試験系構築（コンタミ防止）における重大な注意喚起となる。"
+      ]
+    },
+    {
+      "title_ja": "長期持続型PLGAミクロスフィアのモデル情報に基づく戦略：ブレクスピプラゾールをモデル薬物とした犬からヒトへの外挿とモデル間相関",
+      "original_title": "A model-informed strategy for long-acting PLGA microspheres: Dog-to-human translation and model-to-model correlation using brexpiprazole as a model drug",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0168365926009521?dgcid=rss_sd_all",
+      "source": "Journal of Controlled Release (JCR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "ブレクスピプラゾールをモデル薬物とし、PLGAミクロスフィア製剤の非臨床動物（イヌ）からヒトへの薬物動態外挿を行うため、モデル情報に基づく開発戦略（MIDD）を構築した。",
+        "in vitro放出挙動とin vivo動態を結ぶモデル間相関（IVIVC）を活用し、長期持続型注射剤の体内動態予測精度を高めた。",
+        "徐放性製剤の処方設計および臨床投与量設定の合理化、開発期間短縮のための有効なCMCアプローチを提示している。"
+      ]
+    },
+    {
+      "title_ja": "非ウイルス性遺伝子送達におけるメカニズムに基づくIVIVCに向けて：ナノ粒子の変容から治療効果まで",
+      "original_title": "Toward mechanism-informed IVIVC in non-viral gene delivery: From nanoparticle transformation to therapeutic action",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002383?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "非ウイルス性遺伝子送達システム（ポリプレックスやリポプレックス等）の体内での物理化学的変容と治療効果の相関を解明し、メカニズムに基づくIVIVC構築の現状を総括した。",
+        "ナノ粒子のコロナ形成、細胞取り込み、エンドソーム脱出といった動的プロセスが、in vivo薬効に与える影響を系統的に整理した。",
+        "遺伝子治療薬や核酸医薬の次世代DDS設計および品質評価における予測モデル構築の指針を提供する。"
+      ]
+    },
+    {
+      "title_ja": "脂質ナノ粒子とその継承者：高密度組織浸透と臨床翻訳のための設計原則",
+      "original_title": "Lipid nanoparticles and their successors: Design principles for dense tissue penetration and clinical translation",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0169409X26002371?dgcid=rss_sd_all",
+      "source": "Advanced Drug Delivery Reviews (ADDR)",
+      "category_tag": "製剤・DDS",
+      "points": [
+        "従来の脂質ナノ粒子（LNP）の限界を克服し、高密度な組織（固形腫瘍など）への浸透性を高めるための次世代LNPの設計原則をまとめた。",
+        "脂質組成の最適化、表面修飾、サイズ制御が、組織内拡散と細胞内移行効率に与える影響を比較・分析した。",
+        "mRNAや核酸医薬の適用範囲を難治性固形腫瘍へ拡大するための製剤処方およびCMC戦略に重要な示唆を与える。"
+      ]
+    },
+    {
+      "title_ja": "高分子送達デバイスにおけるマスター変数としての水分侵入：構成成分の熱力学、マトリクス緩和、および生理活性分子の2領域拡散",
+      "original_title": "Water ingress as the master variable in polymeric delivery devices: constituent thermodynamics, matrix relaxation, and the two-region diffusion of bioactive molecules",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126003218?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "高分子ベースの薬物送達デバイスにおいて、水分侵入がデバイスの物性と薬物放出挙動を決定づける「マスター変数」であることに着目し、熱力学的・構造的メカニズムを解析した。",
+        "高分子マトリクスの緩和挙動と水和プロセスの相関を数理モデル化し、タンパク質やペプチドなどの不安定な生理活性分子の2領域拡散メカニズムを解明した。",
+        "インプラントや徐放性高分子製剤の安定性予測、放出制御設計、および品質保証のための理論的基礎を提供する。"
+      ]
+    },
+    {
+      "title_ja": "凍結と一次乾燥の両方の調整を組み合わせた、多孔質構造に関する知見に基づく高効率凍結乾燥",
+      "original_title": "Combining adjustments in both freezing and primary drying for highly efficient lyophilization with insights into porous structure",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0939641126002900?dgcid=rss_sd_all",
+      "source": "European Journal of Pharmaceutics and Biopharmaceutics (EJPB)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "バイオ医薬品製剤の凍結乾燥（リヨフィライゼーション）において、凍結プロセスと一次乾燥条件の両方を最適に組み合わせることで、ケーキの多孔質構造を制御し乾燥効率を飛躍的に向上させる手法を検討した。",
+        "氷晶のモルフォロジー制御と乾燥抵抗の低減により、サイクル時間を短縮しつつタンパク質の構造安定性を維持できることを実証した。",
+        "バイオ医薬品の製造プロセス（スケールアップ）におけるサイクル最適化と製造コスト削減に直接貢献する知見である。"
+      ]
+    },
+    {
+      "title_ja": "RNA搭載脂質ナノ粒子の固体物性とエアロゾル性能を最適化するための体系的な添加剤選択ツール",
+      "original_title": "Systematic excipient selection as a tool to optimize solid state properties and aerosol performance of spray dried RNA loaded lipid nanoparticles",
+      "url": "https://www.sciencedirect.com/science/article/pii/S0378517326011518?dgcid=rss_sd_all",
+      "source": "International Journal of Pharmaceutics (IJP)",
+      "category_tag": "製剤・物性解析",
+      "points": [
+        "RNA搭載LNPの吸入投与（肺送達）を目指した噴霧乾燥粉末製剤において、固体物性とエアロゾル性能（微粒化特性）を最適化するための添加剤スクリーニングの体系的アプローチを確立した。",
+        "適切な保護剤・賦形剤の組み合わせにより、噴霧乾燥時の熱ストレスによるRNAの分解を防ぎ、優れた粉体物性を維持することに成功した。",
+        "呼吸器疾患向けのmRNA/核酸医薬ドライパウダー製剤の開発において、処方設計の効率化を加速する有用な手法を提示。"
+      ]
+    },
+    {
+      "title_ja": "非免疫化ウサギ単一B細胞からのEcobody技術を用いた腸内細菌に対する高親和性抗原結合フラグメントの同定とキャラクタリゼーション",
+      "original_title": "Identification and characterization of a high-affinity antigen-binding fragment against intestinal bacteria from non-immunized rabbit single B cells using Ecobody technology",
+      "url": "https://www.sciencedirect.com/science/article/pii/S1389172326002793?dgcid=rss_sd_all",
+      "source": "Journal of Bioscience and Bioengineering (JBB)",
+      "category_tag": "抗体・バイオプロセス",
+      "points": [
+        "非免疫化ウサギのシングルB細胞解析と独自のEcobody技術を組み合わせ、腸内細菌に対する高親和性抗体フラグメント（Fab等）を効率的に取得・解析した。",
+        "迅速な抗体スクリーニングと遺伝子クローニングにより、多様性の高い抗体ライブラリーから目的の結合活性を持つクローンを同定することに成功した。",
+        "抗体医薬品や診断薬の探索プロセスにおいて、動物免疫に依存しない新規抗体取得プラットフォームとしての有用性を示す。"
+      ]
+    }
+  ]
+}
